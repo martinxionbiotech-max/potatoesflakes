@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const categories = [
+    { slug: 'mashed-potatoes-recipe', name: 'Mashed Potatoes Recipe', desc: 'Delicious mashed potato recipes using XION potato flakes and instant mashed potatoes.' },
+    { slug: 'potato-flakes-and-flavored-mashed-potato-blog', name: 'Potato Flakes and Flavored Mashed Potato', desc: 'Guides, comparisons and industry insights on potato flakes and flavored mashed potatoes.' },
+    { slug: 'potato-products', name: 'Potato Products', desc: 'Industry news and product insights.' },
+  ];
+  const posts = await getCollection('blog');
+  return categories.map((cat) => ({
+    params: { slug: cat.slug },
+    props: {
+      cat,
+      posts: posts
+        .filter((p) => p.data.category === cat.slug)
+        .sort((a, b) => (b.data.pubDate || '').localeCompare(a.data.pubDate || '')),
+    },
+  }));
+}
+
+const { cat, posts } = Astro.props;
+---
+
+<BaseLayout title={cat.name} description={cat.desc}>
+  <Header />
+  <section class="container-x py-14">
+    <nav class="mb-4 text-sm text-gray-500">
+      <a href="/" class="hover:text-brand-600">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/blog/" class="hover:text-brand-600">Blog</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{cat.name}</span>
+    </nav>
+    <h1 class="text-3xl font-bold text-gray-900">{cat.name}</h1>
+    <p class="mt-2 text-gray-600">{cat.desc}</p>
+
+    <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {posts.map((post) => (
+        <a href={`/blog/${post.slug}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
+          <div class="aspect-video overflow-hidden bg-gray-100">
+            {post.data.image ? (
+              <img src={post.data.image} alt={post.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+            ) : (
+              <div class="flex h-full items-center justify-center text-gray-400">No image</div>
+            )}
+          </div>
+          <div class="p-5">
+            {post.data.pubDate && <p class="text-xs text-gray-400">{post.data.pubDate}</p>}
+            <h2 class="mt-1 line-clamp-2 text-base font-semibold text-gray-900 group-hover:text-brand-700">{post.data.title}</h2>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+  <Footer />
+</BaseLayout>

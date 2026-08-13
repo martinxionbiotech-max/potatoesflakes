@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return products.map((product) => ({
+    params: { slug: product.slug },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+const { Content } = await render(product);
+
+const productSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: product.data.title,
+  description: product.data.description,
+  sku: product.data.sku || undefined,
+  image: product.data.image ? `https://www.potatoesflakes.com${product.data.image}` : undefined,
+  brand: {
+    '@type': 'Brand',
+    name: 'XION',
+  },
+  category: product.data.categoryName,
+};
+---
+
+<BaseLayout
+  title={product.data.title}
+  description={product.data.description}
+  image={product.data.image}
+  type="product"
+  canonical={`/product/${product.slug}/`}
+>
+  <Header />
+  <article class="container-x py-12">
+    <!-- 面包屑 -->
+    <nav class="mb-6 text-sm text-gray-500">
+      <a href="/" class="hover:text-brand-600">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/product/" class="hover:text-brand-600">Product</a>
+      <span class="mx-2">/</span>
+      <a href={`/product-category/${product.data.category}/`} class="hover:text-brand-600">{product.data.categoryName}</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{product.data.title}</span>
+    </nav>
+
+    <div class="grid gap-10 lg:grid-cols-2">
+      <div>
+        {product.data.image ? (
+          <img src={product.data.image} alt={product.data.title} class="w-full rounded-2xl shadow-lg" loading="eager" />
+        ) : null}
+        {product.data.gallery && product.data.gallery.length > 0 && (
+          <div class="mt-4 grid grid-cols-4 gap-3">
+            {product.data.gallery.map((g) => (
+              <img src={`/wp-content/${g}`} alt={product.data.title} class="aspect-square w-full rounded-lg object-cover" loading="lazy" />
+            ))}
+          </div>
+        )}
+      </div>
+      <div>
+        <h1 class="text-3xl font-bold text-gray-900">{product.data.title}</h1>
+        {product.data.sku && <p class="mt-2 text-sm text-gray-500">SKU: {product.data.sku}</p>}
+        <div class="mt-6 flex gap-3">
+          <a href="/contact/" class="btn-primary">Get a Quote</a>
+          <a href="/services/" class="btn-ghost">OEM / Customization</a>
+        </div>
+        <div class="prose prose-lg mt-8 max-w-none">
+          <Content />
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
+  <Footer />
+</BaseLayout>

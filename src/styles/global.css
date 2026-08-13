@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --brand-600: #557a32;
+    --brand-700: #425e29;
+    --brand-800: #374c25;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: #1f2937;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-700 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center rounded-lg border border-gray-300 bg-white px-5 py-2.5 text-sm font-semibold text-gray-700 shadow-sm transition hover:bg-gray-50;
+  }
+  .card-hover {
+    @apply transition duration-300 hover:-translate-y-1 hover:shadow-lg;
+  }
+}
+
+/* 淡入动画 */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in-up {
+  animation: fadeInUp 0.6s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-in-up { animation: none; }
+  html { scroll-behavior: auto; }
+}
+
+/* 表格样式 */
+.prose table {
+  @apply w-full text-left text-sm;
+}
+.prose thead th {
+  @apply bg-brand-50 text-brand-800 font-semibold;
+}

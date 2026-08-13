@@ -1,0 +1,67 @@
+---
+const nav = [
+  { label: 'Home', href: '/' },
+  { label: 'About Us', href: '/about-us/' },
+  { label: 'Brand Story', href: '/brand-story/' },
+  { label: 'Product', href: '/product/' },
+  { label: 'Production', href: '/production/' },
+  { label: 'Services', href: '/services/' },
+  { label: 'Blog', href: '/blog/' },
+  { label: 'Contact', href: '/contact/' },
+];
+const path = Astro.url.pathname;
+---
+
+<header class="sticky top-0 z-50 border-b border-gray-100 bg-white/90 backdrop-blur">
+  <div class="container-x flex h-16 items-center justify-between">
+    <a href="/" class="flex items-center gap-2 font-bold text-brand-800">
+      <span class="text-xl">🥔</span>
+      <span>XION</span>
+    </a>
+    <nav class="hidden items-center gap-1 lg:flex">
+      {nav.map((item) => (
+        <a
+          href={item.href}
+          class:list={[
+            'rounded-md px-3 py-2 text-sm font-medium transition',
+            path === item.href
+              ? 'bg-brand-50 text-brand-700'
+              : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900',
+          ]}
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+    <a href="/contact/" class="btn-primary hidden sm:inline-flex">Get a Quote</a>
+    <button id="menu-toggle" class="lg:hidden text-gray-600" aria-label="Toggle menu">
+      <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+  <!-- mobile menu -->
+  <div id="mobile-menu" class="hidden border-t border-gray-100 lg:hidden">
+    <nav class="container-x flex flex-col gap-1 py-3">
+      {nav.map((item) => (
+        <a
+          href={item.href}
+          class:list={[
+            'rounded-md px-3 py-2 text-sm font-medium',
+            path === item.href ? 'bg-brand-50 text-brand-700' : 'text-gray-600 hover:bg-gray-50',
+          ]}
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  toggle?.addEventListener('click', () => {
+    menu?.classList.toggle('hidden');
+  });
+</script>
