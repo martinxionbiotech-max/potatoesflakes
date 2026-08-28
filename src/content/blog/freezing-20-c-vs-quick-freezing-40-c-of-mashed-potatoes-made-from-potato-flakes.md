@@ -19,11 +19,17 @@ Commercial potato flakes were rehydrated with hot water at a **5:1 water-to-flak
 
 ### 1.2 Freezing at –20 °C
 Mashed potatoes were placed in a –20 °C storage freezer until fully frozen, then thawed under refrigerated conditions. **Observation**: clear water separation, softened texture, and a thinner mouthfeel.
-[https://www.potatoesflakes.com/wp-content/uploads/2025/08/freezing.mp4](/wp-content/uploads/2025/08/freezing.mp4)
+<video controls muted playsinline preload="metadata" style="width:100%;max-width:640px;">
+  <source src="/wp-content/uploads/2025/08/freezing.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 1.3 Quick Freezing at –40 °C
 The same mashed potato batch was quick-frozen at –40 °C (simulating blast/spiral tunnel or cryogenic liquid nitrogen/CO₂ freezing). Upon thawing, **no visible water separation** was observed; structure and mouthfeel were well preserved.
-[https://www.potatoesflakes.com/wp-content/uploads/2025/08/Quick-freezing-mashed-potato-test.mp4](/wp-content/uploads/2025/08/Quick-freezing-mashed-potato-test.mp4)
+<video controls muted playsinline preload="metadata" style="width:100%;max-width:640px;">
+  <source src="/wp-content/uploads/2025/08/Quick-freezing-mashed-potato-test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Summary**:
 

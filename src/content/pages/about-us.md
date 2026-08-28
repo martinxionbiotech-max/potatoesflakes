@@ -9,7 +9,7 @@ Company name was changed to Dingwei Biotech CO., Ltd. trading name: Dinweys in 2
 
 For more than ten years, we have been professionally engaged in the production and processing of [potato flakes](/) and flavored instant mashed potatoes. We have a modern and large raw material production line and a dedicated instant flavored [mashed potatoes](/product-category/instant-mashed-potato/) powder processing and production line.
 
-![xion potato flakes expert logo](https://www.logoquake.com/wp-content/uploads/2025/07/xion-potato-flakes-expert_470e47.png)
+![xion potato flakes expert logo](/wp-content/uploads/2025/07/xion-potato-flakes-expert_470e47.png)
 
 We have provided OEM services for a large number of customers. Currently, these products are hot-selling on major e-commerce platforms in China, and they are also exported in large quantities all over the world.
 
