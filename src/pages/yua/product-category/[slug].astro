@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const categories = [
+    { slug: 'instant-mashed-potato', name: '即食薯蓉批發 OEM', desc: '調味即食薯蓉粉 OEM 供應，多種口味及包裝定制。' },
+    { slug: 'potato-flakes', name: '薯粉片批發', desc: '我哋係位於中國河北省嘅薯粉片製造商，年產能達 10,000 噸。' },
+    { slug: 'frozen-french-fries', name: '急凍薯條', desc: '波浪紋及直切急凍薯條，廠家直供。' },
+    { slug: 'seed-potatoes', name: '種薯', desc: '優質種薯出售，中國熱門馬鈴薯種薯品種。' },
+    { slug: 'potato-starch', name: '馬鈴薯澱粉', desc: '原裝未改性馬鈴薯澱粉批發，中國河北原產地製造商。' },
+  ];
+  const products = await getCollection('yua_products');
+  return categories.map((cat) => ({
+    params: { slug: cat.slug },
+    props: { cat, products: products.filter((p) => p.data.category === cat.slug) },
+  }));
+}
+
+const { cat, products } = Astro.props;
+---
+
+<BaseLayout title={cat.name} description={cat.desc} lang="zh-Hant" locale="zh_Hant_HK">
+  <Header />
+  <section class="container-x py-14">
+    <nav class="mb-4 text-sm text-gray-500">
+      <a href="/yua/" class="hover:text-brand-600">主頁</a>
+      <span class="mx-2">/</span>
+      <a href="/yua/product/" class="hover:text-brand-600">產品</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{cat.name}</span>
+    </nav>
+    <h1 class="text-3xl font-bold text-gray-900">{cat.name}</h1>
+    <p class="mt-2 max-w-2xl text-gray-600">{cat.desc}</p>
+
+    <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+      {products.map((p) => (
+        <a href={`/yua/product/${p.id}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
+          <div class="aspect-square overflow-hidden bg-gray-100">
+            {p.data.image ? (
+              <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+            ) : (
+              <div class="flex h-full items-center justify-center text-gray-400">沒有圖片</div>
+            )}
+          </div>
+          <div class="p-4">
+            <h2 class="text-sm font-semibold text-gray-900 group-hover:text-brand-700">{p.data.title}</h2>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+  <Footer />
+</BaseLayout>

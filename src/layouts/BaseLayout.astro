@@ -11,6 +11,8 @@ interface Props {
   image?: string;
   type?: string;
   canonical?: string;
+  lang?: string;
+  locale?: string;
 }
 
 const {
@@ -19,6 +21,8 @@ const {
   image = '/default-og.png',
   type = 'website',
   canonical,
+  lang = 'en',
+  locale = 'en_US',
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://www.potatoesflakes.com');
@@ -28,7 +32,7 @@ const ogImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,7 +50,7 @@ const ogImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={ogImage} />
-    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale" content={locale} />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
