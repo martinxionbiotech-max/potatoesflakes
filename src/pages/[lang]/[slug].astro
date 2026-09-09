@@ -3,16 +3,24 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
+import { LANGUAGES } from '../../languages';
+import { UI } from '../../ui';
 
 export async function getStaticPaths() {
-  const pages = await getCollection('yua_pages');
-  return pages.map((page) => ({
-    params: { slug: page.id },
-    props: { page },
-  }));
+  const paths = [];
+  for (const l of LANGUAGES) {
+    const pages = await getCollection(`${l.code}_pages`);
+    for (const page of pages) {
+      paths.push({
+        params: { lang: l.code, slug: page.id },
+        props: { page, lang: l },
+      });
+    }
+  }
+  return paths;
 }
 
-const { page } = Astro.props;
+const { page, lang } = Astro.props;
 const { Content } = await render(page);
 ---
 
@@ -20,11 +28,13 @@ const { Content } = await render(page);
   title={page.data.title}
   description={page.data.description}
   type="website"
-  lang="zh-Hant"
-  locale="zh_Hant_HK"
-  canonical={`/yua/${page.id}/`}
+  lang={lang.htmlLang}
+  locale={lang.ogLocale}
+  canonical={`/${lang.code}/${page.id}/`}
+  currentLang={lang.code}
+  relPath={`${page.id}/`}
 >
-  <Header />
+  <Header lang={lang.code} />
   <article class="container-x py-12">
     <div class="mx-auto max-w-4xl">
       <h1 class="text-3xl font-bold text-gray-900 sm:text-4xl">{page.data.title}</h1>
@@ -33,5 +43,5 @@ const { Content } = await render(page);
       </div>
     </div>
   </article>
-  <Footer />
+  <Footer lang={lang.code} />
 </BaseLayout>

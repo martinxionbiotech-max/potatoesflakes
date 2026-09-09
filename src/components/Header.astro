@@ -1,20 +1,29 @@
 ---
+import { UI } from '../ui';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang } = Astro.props;
+const ui = UI[lang || 'en'];
+const prefix = lang && lang !== 'en' ? `/${lang}` : '';
 const nav = [
-  { label: 'Home', href: '/' },
-  { label: 'About Us', href: '/about-us/' },
-  { label: 'Brand Story', href: '/brand-story/' },
-  { label: 'Product', href: '/product/' },
-  { label: 'Production', href: '/production/' },
-  { label: 'Services', href: '/services/' },
-  { label: 'Blog', href: '/blog/' },
-  { label: 'Contact', href: '/contact/' },
+  { key: 'home', href: `${prefix}/` },
+  { key: 'about-us', href: `${prefix}/about-us/` },
+  { key: 'brand-story', href: `${prefix}/brand-story/` },
+  { key: 'product', href: `${prefix}/product/` },
+  { key: 'production', href: `${prefix}/production/` },
+  { key: 'services', href: `${prefix}/services/` },
+  { key: 'blog', href: `${prefix}/blog/` },
+  { key: 'contact', href: `${prefix}/contact/` },
 ];
 const path = Astro.url.pathname;
 ---
 
 <header class="sticky top-0 z-50 border-b border-gray-100 bg-white/90 backdrop-blur">
   <div class="container-x flex h-16 items-center justify-between">
-    <a href="/" class="flex items-center gap-2 font-bold text-brand-800">
+    <a href={`${prefix}/`} class="flex items-center gap-2 font-bold text-brand-800">
       <span class="text-xl">🥔</span>
       <span>XION</span>
     </a>
@@ -29,11 +38,11 @@ const path = Astro.url.pathname;
               : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900',
           ]}
         >
-          {item.label}
+          {ui.nav[item.key]}
         </a>
       ))}
     </nav>
-    <a href="/contact/" class="btn-primary hidden sm:inline-flex">Get a Quote</a>
+    <a href={`${prefix}/contact/`} class="btn-primary hidden sm:inline-flex">{ui.requestQuote}</a>
     <button id="menu-toggle" class="lg:hidden text-gray-600" aria-label="Toggle menu">
       <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -51,7 +60,7 @@ const path = Astro.url.pathname;
             path === item.href ? 'bg-brand-50 text-brand-700' : 'text-gray-600 hover:bg-gray-50',
           ]}
         >
-          {item.label}
+          {ui.nav[item.key]}
         </a>
       ))}
     </nav>

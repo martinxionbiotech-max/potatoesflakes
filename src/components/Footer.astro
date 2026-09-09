@@ -1,4 +1,13 @@
 ---
+import { UI } from '../ui';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang } = Astro.props;
+const ui = UI[lang || 'en'];
+const prefix = lang && lang !== 'en' ? `/${lang}` : '';
 ---
 
 <footer class="mt-16 bg-brand-950 text-gray-300">
@@ -12,7 +21,7 @@
       </p>
     </div>
     <div>
-      <h3 class="text-sm font-semibold uppercase tracking-wider text-white">Contact</h3>
+      <h3 class="text-sm font-semibold uppercase tracking-wider text-white">{ui.requestQuote}</h3>
       <ul class="mt-4 space-y-2 text-sm">
         <li>Phone: <a href="tel:+864006330616" class="hover:text-white">+86 400-633-0616</a></li>
         <li>Email: <a href="mailto:Ashelyhongjigroupllc@gmail.com" class="hover:text-white">Ashelyhongjigroupllc@gmail.com</a></li>
@@ -22,10 +31,10 @@
     <div>
       <h3 class="text-sm font-semibold uppercase tracking-wider text-white">Site Links</h3>
       <ul class="mt-4 space-y-2 text-sm">
-        <li><a href="/privacy-policy/" class="hover:text-white">Privacy Policy</a></li>
-        <li><a href="/terms-and-conditions/" class="hover:text-white">Terms &amp; Conditions</a></li>
-        <li><a href="/about-us/" class="hover:text-white">About Us</a></li>
-        <li><a href="/contact/" class="hover:text-white">Contact Us</a></li>
+        <li><a href={`${prefix}/privacy-policy/`} class="hover:text-white">Privacy Policy</a></li>
+        <li><a href={`${prefix}/terms-and-conditions/`} class="hover:text-white">Terms &amp; Conditions</a></li>
+        <li><a href={`${prefix}/about-us/`} class="hover:text-white">{ui.nav['about-us']}</a></li>
+        <li><a href={`${prefix}/contact/`} class="hover:text-white">{ui.nav['contact']}</a></li>
       </ul>
     </div>
   </div>

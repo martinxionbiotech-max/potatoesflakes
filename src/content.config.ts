@@ -1,5 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { LANGUAGES } from './languages';
 
 // 注意：Astro 5 中 `slug` 是保留字段，由文件名自动生成（entry.id / entry.slug），
 // 不能在 schema 中自定义 slug 字段。
@@ -62,7 +63,7 @@ export const collections = {
   products,
   blog,
   pages,
-  // 繁中粤语 (yua) —— 原站 /yua/ 子目录，Google 非标准 locale 代码，等价于 zh-yue/粤语
-  ...makeCollections('yua'),
-  // 后续其他语言照此追加，例如 ...makeCollections('vi'), ...makeCollections('th') 等
+  // 多语言：为每种语言建立独立的 products/blog/pages 集合
+  // 原站前缀：yua(粤语) vi th it ja tr pt es fa ko ms ar
+  ...Object.assign({}, ...LANGUAGES.map((l) => makeCollections(l.code))),
 };

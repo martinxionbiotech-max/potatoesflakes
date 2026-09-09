@@ -3,27 +3,36 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
+import { LANGUAGES } from '../../../languages';
+import { UI } from '../../../ui';
 
-const products = (await getCollection('yua_products')).sort((a, b) => a.data.title.localeCompare(b.data.title));
-const categories = [
-  { slug: 'instant-mashed-potato', name: '即食薯蓉 OEM' },
-  { slug: 'potato-flakes', name: '薯粉片' },
-  { slug: 'frozen-french-fries', name: '急凍薯條' },
-  { slug: 'seed-potatoes', name: '種薯' },
-  { slug: 'potato-starch', name: '馬鈴薯澱粉' },
-];
+export async function getStaticPaths() {
+  const paths = [];
+  for (const l of LANGUAGES) {
+    paths.push({ params: { lang: l.code }, props: { lang: l } });
+  }
+  return paths;
+}
+
+const { lang } = Astro.props;
+const ui = UI[lang.code];
+const products = (await getCollection(`${lang.code}_products`)).sort((a, b) => a.data.title.localeCompare(b.data.title));
+const categories = Object.entries(ui.productCategories).map(([slug, c]) => ({ slug, ...c }));
 ---
 
 <BaseLayout
-  title="產品"
-  description="瀏覽 XION 全線薯粉片、即食薯蓉、急凍薯條、種薯及馬鈴薯澱粉產品。"
-  lang="zh-Hant"
-  locale="zh_Hant_HK"
+  title={ui.products}
+  description={ui.productsIntro}
+  lang={lang.htmlLang}
+  locale={lang.ogLocale}
+  canonical={`/${lang.code}/product/`}
+  currentLang={lang.code}
+  relPath="product/"
 >
-  <Header />
+  <Header lang={lang.code} />
   <section class="container-x py-14">
-    <h1 class="text-3xl font-bold text-gray-900">產品</h1>
-    <p class="mt-2 text-gray-600">薯粉片及調味即食薯蓉係我哋嘅核心產品。</p>
+    <h1 class="text-3xl font-bold text-gray-900">{ui.products}</h1>
+    <p class="mt-2 text-gray-600">{ui.productsIntro}</p>
 
     {categories.map((cat) => {
       const items = products.filter((p) => p.data.category === cat.slug);
@@ -33,12 +42,12 @@ const categories = [
           <h2 class="mb-5 text-xl font-semibold text-gray-900">{cat.name}</h2>
           <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {items.map((p) => (
-              <a href={`/yua/product/${p.id}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
+              <a href={`/${lang.code}/product/${p.id}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
                 <div class="aspect-square overflow-hidden bg-gray-100">
                   {p.data.image ? (
                     <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
                   ) : (
-                    <div class="flex h-full items-center justify-center text-gray-400">沒有圖片</div>
+                    <div class="flex h-full items-center justify-center text-gray-400">{ui.noImage}</div>
                   )}
                 </div>
                 <div class="p-4">
@@ -51,5 +60,5 @@ const categories = [
       );
     })}
   </section>
-  <Footer />
+  <Footer lang={lang.code} />
 </BaseLayout>

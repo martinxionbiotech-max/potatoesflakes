@@ -3,17 +3,26 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
+import { LANGUAGES, getLang } from '../../../languages';
+import { UI } from '../../../ui';
 
 export async function getStaticPaths() {
-  const products = await getCollection('yua_products');
-  return products.map((product) => ({
-    params: { slug: product.id },
-    props: { product },
-  }));
+  const paths = [];
+  for (const l of LANGUAGES) {
+    const products = await getCollection(`${l.code}_products`);
+    for (const product of products) {
+      paths.push({
+        params: { lang: l.code, slug: product.id },
+        props: { product, lang: l },
+      });
+    }
+  }
+  return paths;
 }
 
-const { product } = Astro.props;
+const { product, lang } = Astro.props;
 const { Content } = await render(product);
+const ui = UI[lang.code];
 
 const productSchema = {
   '@context': 'https://schema.org',
@@ -35,18 +44,20 @@ const productSchema = {
   description={product.data.description}
   image={product.data.image}
   type="product"
-  lang="zh-Hant"
-  locale="zh_Hant_HK"
-  canonical={`/yua/product/${product.id}/`}
+  lang={lang.htmlLang}
+  locale={lang.ogLocale}
+  canonical={`/${lang.code}/product/${product.id}/`}
+  currentLang={lang.code}
+  relPath={`product/${product.id}/`}
 >
-  <Header />
+  <Header lang={lang.code} />
   <article class="container-x py-12">
     <nav class="mb-6 text-sm text-gray-500">
-      <a href="/yua/" class="hover:text-brand-600">主頁</a>
+      <a href={`/${lang.code}/`} class="hover:text-brand-600">{ui.home}</a>
       <span class="mx-2">/</span>
-      <a href="/yua/product/" class="hover:text-brand-600">產品</a>
+      <a href={`/${lang.code}/product/`} class="hover:text-brand-600">{ui.products}</a>
       <span class="mx-2">/</span>
-      <a href={`/yua/product-category/${product.data.category}/`} class="hover:text-brand-600">{product.data.categoryName}</a>
+      <a href={`/${lang.code}/product-category/${product.data.category}/`} class="hover:text-brand-600">{product.data.categoryName}</a>
       <span class="mx-2">/</span>
       <span class="text-gray-900">{product.data.title}</span>
     </nav>
@@ -66,10 +77,10 @@ const productSchema = {
       </div>
       <div>
         <h1 class="text-3xl font-bold text-gray-900">{product.data.title}</h1>
-        {product.data.sku && <p class="mt-2 text-sm text-gray-500">貨號: {product.data.sku}</p>}
+        {product.data.sku && <p class="mt-2 text-sm text-gray-500">{ui.skuLabel}: {product.data.sku}</p>}
         <div class="mt-6 flex gap-3">
-          <a href="/yua/contact/" class="btn-primary">索取報價</a>
-          <a href="/yua/services/" class="btn-ghost">OEM / 定制</a>
+          <a href={`/${lang.code}/contact/`} class="btn-primary">{ui.requestQuote}</a>
+          <a href={`/${lang.code}/services/`} class="btn-ghost">{ui.oemCustom}</a>
         </div>
         <div class="prose prose-lg mt-8 max-w-none">
           <Content />
@@ -79,5 +90,5 @@ const productSchema = {
   </article>
 
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
-  <Footer />
+  <Footer lang={lang.code} />
 </BaseLayout>

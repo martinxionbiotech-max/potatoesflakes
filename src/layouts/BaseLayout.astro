@@ -4,6 +4,7 @@ import '@fontsource/inter/400.css';
 import '@fontsource/inter/500.css';
 import '@fontsource/inter/600.css';
 import '@fontsource/inter/700.css';
+import { LANGUAGES } from '../languages';
 
 interface Props {
   title: string;
@@ -13,6 +14,10 @@ interface Props {
   canonical?: string;
   lang?: string;
   locale?: string;
+  /** 当前页面的语言代码（用于生成 hreflang，不传则不输出 hreflang） */
+  currentLang?: string;
+  /** 当前页面的相对路径（不含语言前缀，如 product/xxx/），用于拼接各语言 URL */
+  relPath?: string;
 }
 
 const {
@@ -23,6 +28,8 @@ const {
   canonical,
   lang = 'en',
   locale = 'en_US',
+  currentLang,
+  relPath,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://www.potatoesflakes.com');
@@ -51,6 +58,16 @@ const ogImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:locale" content={locale} />
+
+    {/* hreflang：多语言页面标注全部语言版本 */}
+    {currentLang && relPath && (
+      <>
+        {LANGUAGES.map((l) => (
+          <link rel="alternate" hreflang={l.code === 'yua' ? 'zh-yue' : l.code} href={`${siteUrl}/${l.code}/${relPath}`} />
+        ))}
+        <link rel="alternate" hreflang="x-default" href={`${siteUrl}/${relPath}`} />
+      </>
+    )}
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />

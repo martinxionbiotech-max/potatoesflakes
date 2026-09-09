@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { LANGUAGES } from '../../../languages';
+import { UI } from '../../../ui';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const l of LANGUAGES) {
+    const posts = await getCollection(`${l.code}_blog`);
+    const cats = Object.entries(UI[l.code].blogCategories).map(([slug, c]) => ({ slug, ...c }));
+    for (const cat of cats) {
+      paths.push({
+        params: { lang: l.code, slug: cat.slug },
+        props: {
+          lang: l,
+          cat,
+          posts: posts
+            .filter((p) => p.data.category === cat.slug)
+            .sort((a, b) => (b.data.pubDate || '').localeCompare(a.data.pubDate || '')),
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { lang, cat, posts } = Astro.props;
+const ui = UI[lang.code];
+---
+
+<BaseLayout title={cat.name} description={cat.desc} lang={lang.htmlLang} locale={lang.ogLocale} currentLang={lang.code} relPath={`category/${cat.slug}/`}>
+  <Header lang={lang.code} />
+  <section class="container-x py-14">
+    <nav class="mb-4 text-sm text-gray-500">
+      <a href={`/${lang.code}/`} class="hover:text-brand-600">{ui.home}</a>
+      <span class="mx-2">/</span>
+      <a href={`/${lang.code}/blog/`} class="hover:text-brand-600">{ui.blog}</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{cat.name}</span>
+    </nav>
+    <h1 class="text-3xl font-bold text-gray-900">{cat.name}</h1>
+    <p class="mt-2 text-gray-600">{cat.desc}</p>
+
+    <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {posts.map((post) => (
+        <a href={`/${lang.code}/blog/${post.id}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
+          <div class="aspect-video overflow-hidden bg-gray-100">
+            {post.data.image ? (
+              <img src={post.data.image} alt={post.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+            ) : (
+              <div class="flex h-full items-center justify-center text-gray-400">{ui.noImage}</div>
+            )}
+          </div>
+          <div class="p-5">
+            {post.data.pubDate && <p class="text-xs text-gray-400">{post.data.pubDate}</p>}
+            <h2 class="mt-1 line-clamp-2 text-base font-semibold text-gray-900 group-hover:text-brand-700">{post.data.title}</h2>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+  <Footer lang={lang.code} />
+</BaseLayout>

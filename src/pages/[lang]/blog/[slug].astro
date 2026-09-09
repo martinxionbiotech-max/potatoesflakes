@@ -3,17 +3,26 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
+import { LANGUAGES } from '../../../languages';
+import { UI } from '../../../ui';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('yua_blog');
-  return posts.map((post) => ({
-    params: { slug: post.id },
-    props: { post },
-  }));
+  const paths = [];
+  for (const l of LANGUAGES) {
+    const posts = await getCollection(`${l.code}_blog`);
+    for (const post of posts) {
+      paths.push({
+        params: { lang: l.code, slug: post.id },
+        props: { post, lang: l },
+      });
+    }
+  }
+  return paths;
 }
 
-const { post } = Astro.props;
+const { post, lang } = Astro.props;
 const { Content } = await render(post);
+const ui = UI[lang.code];
 
 const articleSchema = {
   '@context': 'https://schema.org',
@@ -38,20 +47,22 @@ const articleSchema = {
   description={post.data.description}
   image={post.data.image}
   type="article"
-  lang="zh-Hant"
-  locale="zh_Hant_HK"
-  canonical={`/yua/blog/${post.id}/`}
+  lang={lang.htmlLang}
+  locale={lang.ogLocale}
+  canonical={`/${lang.code}/blog/${post.id}/`}
+  currentLang={lang.code}
+  relPath={`blog/${post.id}/`}
 >
-  <Header />
+  <Header lang={lang.code} />
   <article class="container-x py-12">
     <div class="mx-auto max-w-3xl">
       <nav class="mb-6 text-sm text-gray-500">
-        <a href="/yua/" class="hover:text-brand-600">主頁</a>
+        <a href={`/${lang.code}/`} class="hover:text-brand-600">{ui.home}</a>
         <span class="mx-2">/</span>
-        <a href="/yua/blog/" class="hover:text-brand-600">博客</a>
+        <a href={`/${lang.code}/blog/`} class="hover:text-brand-600">{ui.blog}</a>
       </nav>
       <h1 class="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl">{post.data.title}</h1>
-      {post.data.pubDate && <p class="mt-3 text-sm text-gray-500">發布日期: {post.data.pubDate}</p>}
+      {post.data.pubDate && <p class="mt-3 text-sm text-gray-500">{ui.publishedDate}: {post.data.pubDate}</p>}
       {post.data.image && (
         <img src={post.data.image} alt={post.data.title} class="mt-6 w-full rounded-2xl shadow-md" loading="eager" />
       )}
@@ -62,5 +73,5 @@ const articleSchema = {
   </article>
 
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
-  <Footer />
+  <Footer lang={lang.code} />
 </BaseLayout>
