@@ -4,6 +4,7 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { LANGUAGES } from '../../languages';
+import { UI } from '../../ui';
 
 export async function getStaticPaths() {
   return LANGUAGES.map((l) => ({
@@ -14,6 +15,8 @@ export async function getStaticPaths() {
 
 const { lang } = Astro.props;
 const prefix = `/${lang.code}`;
+const ui = UI[lang.code];
+const home = ui.homePage;
 
 // 当前语言的翻译版产品（title/description 已翻译）
 const products = (await getCollection(`${lang.code}_products`)).sort(
@@ -52,17 +55,17 @@ const featured = featuredSlugs
     <div class="container-x grid items-center gap-10 py-20 lg:grid-cols-2 lg:py-28">
       <div class="fade-in-up">
         <p class="mb-3 text-sm font-semibold uppercase tracking-widest text-brand-600">
-          The Top Chinese Supplier
+          {home.heroEyebrow}
         </p>
         <h1 class="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl">
-          Bulk Potato Flakes &amp; Instant Mashed Potato
+          {home.heroTitle}
         </h1>
         <p class="mt-4 text-lg text-gray-600">
-          Providing Customized High-Quality Instant Mashed Potato Products. Competitive Prices, Superior Service.
+          {home.heroSub}
         </p>
         <div class="mt-8 flex gap-3">
-          <a href={`${prefix}/contact/`} class="btn-primary">Contact Us Now</a>
-          <a href={`${prefix}/product/`} class="btn-ghost">View Products</a>
+          <a href={`${prefix}/contact/`} class="btn-primary">{home.contactUsNow}</a>
+          <a href={`${prefix}/product/`} class="btn-ghost">{home.viewProducts}</a>
         </div>
       </div>
       <div class="fade-in-up" style="animation-delay:.15s">
@@ -82,10 +85,10 @@ const featured = featuredSlugs
   <section class="border-y border-gray-100 bg-white">
     <div class="container-x grid grid-cols-2 gap-6 py-10 text-center md:grid-cols-4">
       {[
-        { title: 'Top-Quality', sub: 'Certified and Exporting to 20+ Countries' },
-        { title: 'Flexible OEM', sub: 'Multiple Flavors and Packaging Sizes' },
-        { title: 'Competitive Price', sub: 'Creating Greater Value Space for Clients' },
-        { title: 'Excellent Services', sub: 'Our experts are available 24/7 to serve and solve' },
+        { title: home.trust1Title, sub: home.trust1Sub },
+        { title: home.trust2Title, sub: home.trust2Sub },
+        { title: home.trust3Title, sub: home.trust3Sub },
+        { title: home.trust4Title, sub: home.trust4Sub },
       ].map((item) => (
         <div>
           <div class="text-lg font-bold text-brand-700">{item.title}</div>
@@ -99,15 +102,15 @@ const featured = featuredSlugs
   <section class="container-x py-20">
     <div class="grid gap-10 lg:grid-cols-2 lg:items-center">
       <div class="prose prose-lg max-w-none">
-        <p class="text-sm font-semibold uppercase tracking-widest text-brand-600">About XION</p>
-        <h2 class="mt-2 text-3xl font-bold text-gray-900">A Large-Scale Potato Flakes &amp; Mashed Potato Manufacturer</h2>
+        <p class="text-sm font-semibold uppercase tracking-widest text-brand-600">{home.aboutEyebrow}</p>
+        <h2 class="mt-2 text-3xl font-bold text-gray-900">{home.aboutTitle}</h2>
         <p class="mt-4 text-gray-600">
-          We are Xion Biotech Co., Ltd. (The company name was changed to Dingwei Biotech Co., Ltd. Trading name: DinWeys in 2024), a large-scale potato flakes and mashed potato manufacturer, as well as the supplier for Pepsi, Orion, and other brands, headquartered in Hebei, China.
+          {home.aboutP1}
         </p>
         <p class="text-gray-600">
-          For over a decade, we have specialized in developing and customizing potato flake products. We have a fully certified food production factory and a product development and testing laboratory. Our high level of production processes and quality is confirmed by the FSSC 22000, FDA, ISO9001, Halal, Kosher certificates, and the TR CU 021 Declaration of Compliance.
+          {home.aboutP2}
         </p>
-        <a href={`${prefix}/about-us/`} class="btn-primary mt-6">Learn More About Us</a>
+        <a href={`${prefix}/about-us/`} class="btn-primary mt-6">{home.learnMore}</a>
       </div>
       <div class="grid grid-cols-2 gap-4">
         <img src="/wp-content/uploads/2024/03/mashed-Potato-factory--300x225.jpg" alt="Mashed potato factory" class="card-hover rounded-xl" loading="lazy" />
@@ -122,8 +125,8 @@ const featured = featuredSlugs
   <section class="bg-gray-50 py-20">
     <div class="container-x">
       <div class="mb-10 text-center">
-        <h2 class="text-3xl font-bold text-gray-900">Our Products</h2>
-        <p class="mt-2 text-gray-600">Potato flakes, instant mashed potatoes, french fries, seed potatoes &amp; potato starch</p>
+        <h2 class="text-3xl font-bold text-gray-900">{home.ourProducts}</h2>
+        <p class="mt-2 text-gray-600">{home.ourProductsSub}</p>
       </div>
       <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
         {featured.map((p) => (
@@ -142,7 +145,7 @@ const featured = featuredSlugs
         ))}
       </div>
       <div class="mt-10 text-center">
-        <a href={`${prefix}/product/`} class="btn-primary">View All Products</a>
+        <a href={`${prefix}/product/`} class="btn-primary">{home.viewAllProducts}</a>
       </div>
     </div>
   </section>
@@ -150,13 +153,13 @@ const featured = featuredSlugs
   <!-- Why choose us -->
   <section class="container-x py-20">
     <div class="mb-10 text-center">
-      <h2 class="text-3xl font-bold text-gray-900">Why Choose Us</h2>
+      <h2 class="text-3xl font-bold text-gray-900">{home.whyChooseUs}</h2>
     </div>
     <div class="grid gap-6 md:grid-cols-3">
       {[
-        { title: 'Customized Design Solutions', sub: 'Professional services for the customized development and production of flavored instant mashed potato products to meet client specifications and preferences.' },
-        { title: 'Convenient International Export', sub: 'One of the few Chinese factories registered and qualified to export potato flakes and instant mashed potatoes. We make the process simple for you.' },
-        { title: 'Personalized Experience and More Choices', sub: 'Most potato flour factories do not offer sample and small batch order services, but we can do it to meet your business development needs.' },
+        { title: home.why1Title, sub: home.why1Sub },
+        { title: home.why2Title, sub: home.why2Sub },
+        { title: home.why3Title, sub: home.why3Sub },
       ].map((item) => (
         <div class="card-hover rounded-xl border border-gray-100 bg-white p-6 shadow-sm">
           <h3 class="text-lg font-semibold text-gray-900">{item.title}</h3>
