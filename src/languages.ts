@@ -9,6 +9,8 @@ export interface LangConfig {
   ogLocale: string;
   /** 目标语言中文名（用于日志/提示） */
   name: string;
+  /** 目标语言自带名称（用于语言选择菜单，如 English/Español/日本語） */
+  nativeName: string;
   /** 翻译系统提示里描述目标语言（英文） */
   translateHint: string;
   /** RTL 语言（阿拉伯语等） */
@@ -21,6 +23,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'zh-Hant',
     ogLocale: 'zh_Hant_HK',
     name: '粵語',
+    nativeName: '粵語',
     translateHint: 'Cantonese (粵語/廣東話, written in Traditional Chinese with Cantonese-specific characters like 係/嘅/唔/咗)',
   },
   {
@@ -28,6 +31,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'vi',
     ogLocale: 'vi_VN',
     name: '越南語',
+    nativeName: 'Tiếng Việt',
     translateHint: 'Vietnamese (Tiếng Việt)',
   },
   {
@@ -35,6 +39,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'th',
     ogLocale: 'th_TH',
     name: '泰語',
+    nativeName: 'ไทย',
     translateHint: 'Thai (ภาษาไทย)',
   },
   {
@@ -42,6 +47,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'it',
     ogLocale: 'it_IT',
     name: '意大利語',
+    nativeName: 'Italiano',
     translateHint: 'Italian (Italiano)',
   },
   {
@@ -49,6 +55,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'ja',
     ogLocale: 'ja_JP',
     name: '日語',
+    nativeName: '日本語',
     translateHint: 'Japanese (日本語)',
   },
   {
@@ -56,6 +63,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'tr',
     ogLocale: 'tr_TR',
     name: '土耳其語',
+    nativeName: 'Türkçe',
     translateHint: 'Turkish (Türkçe)',
   },
   {
@@ -63,6 +71,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'pt',
     ogLocale: 'pt_PT',
     name: '葡萄牙語',
+    nativeName: 'Português',
     translateHint: 'European Portuguese (Português)',
   },
   {
@@ -70,6 +79,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'es',
     ogLocale: 'es_ES',
     name: '西班牙語',
+    nativeName: 'Español',
     translateHint: 'Spanish (Español)',
   },
   {
@@ -77,6 +87,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'fa',
     ogLocale: 'fa_IR',
     name: '波斯語',
+    nativeName: 'فارسی',
     translateHint: 'Persian (فارسی)',
     rtl: true,
   },
@@ -85,6 +96,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'ko',
     ogLocale: 'ko_KR',
     name: '韓語',
+    nativeName: '한국어',
     translateHint: 'Korean (한국어)',
   },
   {
@@ -92,6 +104,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'ms',
     ogLocale: 'ms_MY',
     name: '馬來語',
+    nativeName: 'Bahasa Melayu',
     translateHint: 'Malay (Bahasa Melayu)',
   },
   {
@@ -99,6 +112,7 @@ export const LANGUAGES: LangConfig[] = [
     htmlLang: 'ar',
     ogLocale: 'ar_SA',
     name: '阿拉伯語',
+    nativeName: 'العربية',
     translateHint: 'Arabic (العربية)',
     rtl: true,
   },

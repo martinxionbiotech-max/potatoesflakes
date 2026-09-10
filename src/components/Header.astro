@@ -13,7 +13,7 @@ const prefix = lang && lang !== 'en' ? `/${lang}` : '';
 // 语言选项：English + 12 种已翻译语言
 const langOptions = [
   { code: 'en', label: 'English' },
-  ...LANGUAGES.map((l) => ({ code: l.code, label: l.name })),
+  ...LANGUAGES.map((l) => ({ code: l.code, label: l.nativeName })),
 ];
 
 // 当前页面的语言无关相对路径（去掉语言前缀），用于切换语言时保留同一页面
