@@ -1,5 +1,6 @@
 ---
 import { UI } from '../ui';
+import { LANGUAGES } from '../languages';
 
 interface Props {
   lang?: string;
@@ -8,6 +9,23 @@ interface Props {
 const { lang } = Astro.props;
 const ui = UI[lang || 'en'];
 const prefix = lang && lang !== 'en' ? `/${lang}` : '';
+
+// 语言选项：English + 12 种已翻译语言
+const langOptions = [
+  { code: 'en', label: 'English' },
+  ...LANGUAGES.map((l) => ({ code: l.code, label: l.name })),
+];
+
+// 当前页面的语言无关相对路径（去掉语言前缀），用于切换语言时保留同一页面
+const currentPath = Astro.url.pathname;
+const relPath = (() => {
+  let p = currentPath.replace(/^\/+/, '');
+  if (lang && lang !== 'en' && p.startsWith(lang + '/')) {
+    p = p.slice(lang.length + 1);
+  }
+  return p;
+})();
+
 const nav = [
   { key: 'home', href: `${prefix}/` },
   { key: 'about-us', href: `${prefix}/about-us/` },
@@ -42,7 +60,24 @@ const path = Astro.url.pathname;
         </a>
       ))}
     </nav>
-    <a href={`${prefix}/contact/`} class="btn-primary hidden sm:inline-flex">{ui.requestQuote}</a>
+    <div class="flex items-center gap-2">
+      <div class="relative">
+        <select
+          id="lang-select"
+          data-rel-path={relPath}
+          class="appearance-none rounded-md border border-gray-200 bg-white pl-3 pr-8 py-2 text-sm font-medium text-gray-600 hover:border-brand-300 focus:outline-none focus:ring-2 focus:ring-brand-200 cursor-pointer"
+          aria-label="Select language"
+        >
+          {langOptions.map((o) => (
+            <option value={o.code} selected={o.code === (lang || 'en')}>{o.label}</option>
+          ))}
+        </select>
+        <svg class="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </div>
+      <a href={`${prefix}/contact/`} class="btn-primary hidden sm:inline-flex">{ui.requestQuote}</a>
+    </div>
     <button id="menu-toggle" class="lg:hidden text-gray-600" aria-label="Toggle menu">
       <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -51,19 +86,32 @@ const path = Astro.url.pathname;
   </div>
   <!-- mobile menu -->
   <div id="mobile-menu" class="hidden border-t border-gray-100 lg:hidden">
-    <nav class="container-x flex flex-col gap-1 py-3">
-      {nav.map((item) => (
-        <a
-          href={item.href}
-          class:list={[
-            'rounded-md px-3 py-2 text-sm font-medium',
-            path === item.href ? 'bg-brand-50 text-brand-700' : 'text-gray-600 hover:bg-gray-50',
-          ]}
-        >
-          {ui.nav[item.key]}
-        </a>
-      ))}
-    </nav>
+    <div class="container-x flex flex-col gap-1 py-3">
+      <label class="px-3 pt-1 pb-2 text-xs font-semibold uppercase tracking-wide text-gray-400">Language</label>
+      <select
+        id="lang-select-mobile"
+        data-rel-path={relPath}
+        class="mx-3 mb-2 mb-3 rounded-md border border-gray-200 bg-white px-3 py-2 text-sm font-medium text-gray-600 focus:outline-none focus:ring-2 focus:ring-brand-200"
+        aria-label="Select language"
+      >
+        {langOptions.map((o) => (
+          <option value={o.code} selected={o.code === (lang || 'en')}>{o.label}</option>
+        ))}
+      </select>
+      <nav class="flex flex-col gap-1">
+        {nav.map((item) => (
+          <a
+            href={item.href}
+            class:list={[
+              'rounded-md px-3 py-2 text-sm font-medium',
+              path === item.href ? 'bg-brand-50 text-brand-700' : 'text-gray-600 hover:bg-gray-50',
+            ]}
+          >
+            {ui.nav[item.key]}
+          </a>
+        ))}
+      </nav>
+    </div>
   </div>
 </header>
 
@@ -73,4 +121,18 @@ const path = Astro.url.pathname;
   toggle?.addEventListener('click', () => {
     menu?.classList.toggle('hidden');
   });
+
+  // 语言切换：保留当前页面路径，只换语言前缀（英文无前缀，用根路径）
+  function bindLangSelect(el) {
+    if (!el) return;
+    el.addEventListener('change', () => {
+      const code = el.value;
+      const relPath = el.dataset.relPath || '';
+      // 英文版用根路径（无 /en 前缀）
+      const base = code === 'en' ? `/${relPath}` : `/${code}/${relPath}`;
+      window.location.href = base.replace(/\/$/, '/');
+    });
+  }
+  bindLangSelect(document.getElementById('lang-select'));
+  bindLangSelect(document.getElementById('lang-select-mobile'));
 </script>
