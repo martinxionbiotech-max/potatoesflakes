@@ -21,7 +21,7 @@ gallery:
 - ISO 9001、HACCP、BRCなどの品質認証を取得しています。
 - 色は純白で、これはほとんどのお客様のご要望でもあります。
 - 熟成度は90%以上で、ベーカリーや食品加工に最適です。
-- 製品規格: SB/T 10752-2012。データ出典: https://std.samr.gov.cn/。 [参考テキスト](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)をご参照ください。
+- 製品規格: SB/T 10752-2012。データ出典: https://std.samr.gov.cn/。 [参考テキスト](/ja/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)をご参照ください。
 
 ## 特徴
 

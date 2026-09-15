@@ -20,7 +20,7 @@ There is also a type of potato flakes that have been ground and sifted, known as
 ### Raw Materials
 The production of potato flakes requires higher-quality raw materials, including specific potato varieties, size, moisture content, and freshness. Potato flour has relatively lower requirements for raw materials compared to potato flakes, though it requires higher quality raw materials than those used for producing potato starch.
 
-Related article: [Potato Flakes | What Potato Varieties are used for the production?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+Related article: [Potato Flakes | What Potato Varieties are used for the production?](/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Production Process
 - At a glance, the production processes for potato flakes and potato flour seem similar: fresh potatoes are peeled, steamed, mashed, and then dried. However, the main difference in production is the drying method.
@@ -62,7 +62,7 @@ Related article: [Potato Flakes | What Potato Varieties are used for the product
 
 ## The End
 
-These are my understandings and summaries of potato flakes vs potato flour. It is also worth mentioning potato starch, which is another common food ingredient. For a comparison of potato starch and potato flakes, you can read my other article: “[Potato Flakes vs Potato Starch](/what-are-the-differences-between-potato-flakes-and-starch/).”
+These are my understandings and summaries of potato flakes vs potato flour. It is also worth mentioning potato starch, which is another common food ingredient. For a comparison of potato starch and potato flakes, you can read my other article: “[Potato Flakes vs Potato Starch](/blog/what-are-the-differences-between-potato-flakes-and-starch/).”
 
 If you have any questions or suggestions for improvement, please contact me.
 

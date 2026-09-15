@@ -21,7 +21,7 @@ gallery:
 - Contamos con certificaciones de calidad como ISO 9001, HACCP y BRC.
 - El color es blanco puro, que también es un requisito de la mayoría de los clientes.
 - El grado de maduración es superior al 90%, lo que lo hace más adecuado para hornear y procesamiento de alimentos.
-- Estándar del Producto: SB/T 10752-2012. Datos de https://std.samr.gov.cn/. Lea el [Texto de referencia.](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- Estándar del Producto: SB/T 10752-2012. Datos de https://std.samr.gov.cn/. Lea el [Texto de referencia.](/es/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## Características
 

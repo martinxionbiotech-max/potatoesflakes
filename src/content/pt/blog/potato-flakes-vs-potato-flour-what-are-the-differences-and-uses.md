@@ -20,7 +20,7 @@ Existe também um tipo de flocos de batata que foram moídos e peneirados, conhe
 ### Matérias-Primas
 A produção de flocos de batata requer matérias-primas de maior qualidade, incluindo variedades específicas de batata, tamanho, teor de humidade e frescura. A farinha de batata tem requisitos relativamente mais baixos para matérias-primas em comparação com os flocos de batata, embora exija matérias-primas de maior qualidade do que as usadas para produzir amido de batata.
 
-Artigo relacionado: [Flocos de Batata | Que Variedades de Batata são usadas para a produção?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+Artigo relacionado: [Flocos de Batata | Que Variedades de Batata são usadas para a produção?](/pt/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Processo de Produção
 - À primeira vista, os processos de produção para flocos de batata e farinha de batata parecem semelhantes: batatas frescas são descascadas, cozidas a vapor, esmagadas e depois secas. No entanto, a principal diferença na produção é o método de secagem.
@@ -62,7 +62,7 @@ Artigo relacionado: [Flocos de Batata | Que Variedades de Batata são usadas par
 
 ## O Fim
 
-Estas são as minhas compreensões e resumos sobre flocos de batata vs farinha de batata. Vale também a pena mencionar o amido de batata, que é outro ingrediente alimentar comum. Para uma comparação entre amido de batata e flocos de batata, pode ler o meu outro artigo: “[Flocos de Batata vs Amido de Batata](/what-are-the-differences-between-potato-flakes-and-starch/).”
+Estas são as minhas compreensões e resumos sobre flocos de batata vs farinha de batata. Vale também a pena mencionar o amido de batata, que é outro ingrediente alimentar comum. Para uma comparação entre amido de batata e flocos de batata, pode ler o meu outro artigo: “[Flocos de Batata vs Amido de Batata](/pt/blog/what-are-the-differences-between-potato-flakes-and-starch/).”
 
 Se tiver alguma pergunta ou sugestão para melhoria, por favor contacte-me.
 

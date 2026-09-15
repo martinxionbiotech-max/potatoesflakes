@@ -24,7 +24,7 @@ Teras pemprosesan serpihan kentang ialah pengeringan drum besar. Apabila puri ke
 
 Ingin mengetahui lebih lanjut tentang pemprosesan serpihan kentang, sila lihat artikel saya:
 
-[Apakah Serpihan Kentang? Bagaimana Serpihan Kentang Dihasilkan?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[Apakah Serpihan Kentang? Bagaimana Serpihan Kentang Dihasilkan?](/ms/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## Kegunaan Utama
 
@@ -59,7 +59,7 @@ Jika anda menuang 100 gram air ke dalam 20 gram serpihan kentang, dalam masa 1-2
 
 Serpihan kentang biasanya hadir dalam varieti putih, kuning, dan ungu, dengan keamatan kedalaman warna yang berbeza-beza disebabkan oleh jenis bahan mentah kentang segar yang digunakan. rujuk artikel saya:
 
-[Serpihan Kentang | Apakah Varieti Kentang yang Digunakan untuk Pengeluaran?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[Serpihan Kentang | Apakah Varieti Kentang yang Digunakan untuk Pengeluaran?](/ms/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Klasifikasi asal:
 
@@ -73,7 +73,7 @@ Anda harus mempertimbangkan beberapa faktor penting apabila memilih serpihan ken
 
 Selain kaedah yang saya nyatakan di sini, terdapat Piawaian Kebangsaan China untuk Serpihan Kentang sebagai rujukan untuk kualiti serpihan kentang.
 
-[Piawaian Kebangsaan Terkini untuk Serpihan Kentang di China pada 2024 (berkuat kuasa dari 14 Mei)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[Piawaian Kebangsaan Terkini untuk Serpihan Kentang di China pada 2024 (berkuat kuasa dari 14 Mei)](/ms/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### Rupa:
 
@@ -87,13 +87,13 @@ Jalankan ujian mudah dengan mencampurkan serpihan kentang dengan air dalam nisba
 
 Ia memerlukan peralatan atau reagen khusus untuk pengukuran, dengan kandungan kanji yang lebih rendah menunjukkan serpihan kentang berkualiti tinggi. Untuk butiran lanjut tentang hubungan ini, rujuk artikel saya:
 
-[Apakah Perbezaan Antara Serpihan Kentang dan Kanji?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[Apakah Perbezaan Antara Serpihan Kentang dan Kanji?](/ms/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### Jenama serpihan kentang:
 
 Disebabkan keperluan pengeluaran yang tinggi, hanya kilang berskala besar boleh mengeluarkan serpihan kentang. Adalah dinasihatkan untuk memilih jenama bereputasi yang terkenal dengan menghasilkan serpihan kentang berkualiti tinggi. Di China, pilihan termasuk XION, Hongji, dan Xuechuan, antara lain. Untuk maklumat lanjut, rujuk artikel saya:
 
-[10 Pengeluar Serpihan Kentang Teratas di China](/top-10-potato-flakes-manufacturer-in-china/)
+[10 Pengeluar Serpihan Kentang Teratas di China](/ms/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## Ringkasan Penulis
 

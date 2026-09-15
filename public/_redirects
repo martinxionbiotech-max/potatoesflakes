@@ -1,0 +1,87 @@
+# Legacy WordPress flat URLs -> Astro routes (301)
+# Blog posts that used to live at the site root
+
+/potato-flakes-what-potato-varieties-are-used-for-the-production/  /blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/what-are-the-differences-between-potato-flakes-and-starch/  /blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/what-are-potato-flakes-how-are-potato-flakes-made/  /blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/top-10-potato-flakes-manufacturer-in-china/  /blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/yua/potato-flakes-what-potato-varieties-are-used-for-the-production/  /yua/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/yua/what-are-the-differences-between-potato-flakes-and-starch/  /yua/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/yua/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /yua/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/yua/what-are-potato-flakes-how-are-potato-flakes-made/  /yua/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/yua/top-10-potato-flakes-manufacturer-in-china/  /yua/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/vi/potato-flakes-what-potato-varieties-are-used-for-the-production/  /vi/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/vi/what-are-the-differences-between-potato-flakes-and-starch/  /vi/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/vi/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /vi/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/vi/what-are-potato-flakes-how-are-potato-flakes-made/  /vi/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/vi/top-10-potato-flakes-manufacturer-in-china/  /vi/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/th/potato-flakes-what-potato-varieties-are-used-for-the-production/  /th/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/th/what-are-the-differences-between-potato-flakes-and-starch/  /th/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/th/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /th/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/th/what-are-potato-flakes-how-are-potato-flakes-made/  /th/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/th/top-10-potato-flakes-manufacturer-in-china/  /th/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/it/potato-flakes-what-potato-varieties-are-used-for-the-production/  /it/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/it/what-are-the-differences-between-potato-flakes-and-starch/  /it/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/it/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /it/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/it/what-are-potato-flakes-how-are-potato-flakes-made/  /it/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/it/top-10-potato-flakes-manufacturer-in-china/  /it/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/ja/potato-flakes-what-potato-varieties-are-used-for-the-production/  /ja/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/ja/what-are-the-differences-between-potato-flakes-and-starch/  /ja/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/ja/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /ja/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/ja/what-are-potato-flakes-how-are-potato-flakes-made/  /ja/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/ja/top-10-potato-flakes-manufacturer-in-china/  /ja/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/tr/potato-flakes-what-potato-varieties-are-used-for-the-production/  /tr/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/tr/what-are-the-differences-between-potato-flakes-and-starch/  /tr/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/tr/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /tr/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/tr/what-are-potato-flakes-how-are-potato-flakes-made/  /tr/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/tr/top-10-potato-flakes-manufacturer-in-china/  /tr/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/pt/potato-flakes-what-potato-varieties-are-used-for-the-production/  /pt/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/pt/what-are-the-differences-between-potato-flakes-and-starch/  /pt/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/pt/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /pt/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/pt/what-are-potato-flakes-how-are-potato-flakes-made/  /pt/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/pt/top-10-potato-flakes-manufacturer-in-china/  /pt/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/es/potato-flakes-what-potato-varieties-are-used-for-the-production/  /es/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/es/what-are-the-differences-between-potato-flakes-and-starch/  /es/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/es/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /es/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/es/what-are-potato-flakes-how-are-potato-flakes-made/  /es/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/es/top-10-potato-flakes-manufacturer-in-china/  /es/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/fa/potato-flakes-what-potato-varieties-are-used-for-the-production/  /fa/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/fa/what-are-the-differences-between-potato-flakes-and-starch/  /fa/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/fa/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /fa/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/fa/what-are-potato-flakes-how-are-potato-flakes-made/  /fa/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/fa/top-10-potato-flakes-manufacturer-in-china/  /fa/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/ko/potato-flakes-what-potato-varieties-are-used-for-the-production/  /ko/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/ko/what-are-the-differences-between-potato-flakes-and-starch/  /ko/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/ko/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /ko/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/ko/what-are-potato-flakes-how-are-potato-flakes-made/  /ko/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/ko/top-10-potato-flakes-manufacturer-in-china/  /ko/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/ms/potato-flakes-what-potato-varieties-are-used-for-the-production/  /ms/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/ms/what-are-the-differences-between-potato-flakes-and-starch/  /ms/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/ms/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /ms/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/ms/what-are-potato-flakes-how-are-potato-flakes-made/  /ms/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/ms/top-10-potato-flakes-manufacturer-in-china/  /ms/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+/ar/potato-flakes-what-potato-varieties-are-used-for-the-production/  /ar/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/  301
+/ar/what-are-the-differences-between-potato-flakes-and-starch/  /ar/blog/what-are-the-differences-between-potato-flakes-and-starch/  301
+/ar/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  /ar/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/  301
+/ar/what-are-potato-flakes-how-are-potato-flakes-made/  /ar/blog/what-are-potato-flakes-how-are-potato-flakes-made/  301
+/ar/top-10-potato-flakes-manufacturer-in-china/  /ar/blog/top-10-potato-flakes-manufacturer-in-china/  301
+
+# Legacy category URL
+/potato-flakes/  /product-category/potato-flakes/  301
+
+# WordPress Cantonese locale prefix (/zh/) -> Astro locale (/yua/)
+/zh/  /yua/  301
+/zh/*  /yua/:splat  301

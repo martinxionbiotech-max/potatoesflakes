@@ -24,7 +24,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 想了解多啲薯片加工嘅資訊，可以睇吓我嘅文章：
 
-[咩係薯片？薯片點樣製造？](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[咩係薯片？薯片點樣製造？](/yua/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## 主要用途
 
@@ -59,7 +59,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 薯片一般有白色、黃色同紫色三種，因為用嘅新鮮薯仔原料品種唔同，顏色深淺都會有差異。可以參考吓我嘅文章：
 
-[薯片 | 生產用咩薯仔品種？](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[薯片 | 生產用咩薯仔品種？](/yua/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### 產地分類：
 
@@ -73,7 +73,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 除咗我喺度講嘅方法之外，中國國家薯片標準都可以作為薯片品質嘅參考。
 
-[2024年中國最新薯片國家標準（5月14日起生效）](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[2024年中國最新薯片國家標準（5月14日起生效）](/yua/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### 外觀：
 
@@ -87,13 +87,13 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 量度澱粉含量需要專門嘅設備或者試劑，澱粉含量越低，代表薯片品質越高。想知多啲呢個關係嘅詳情，可以參考吓我嘅文章：
 
-[薯片同澱粉有咩分別？](/what-are-the-differences-between-potato-flakes-and-starch/)
+[薯片同澱粉有咩分別？](/yua/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### 薯片品牌：
 
 由於生產要求好高，只有大規模工廠先可以製造薯片。建議揀啲有信譽、出名生產高品質薯片嘅品牌。喺中國，可以考慮XION、鴻基同雪川等。想知多啲，可以參考吓我嘅文章：
 
-[中國十大薯片製造商](/top-10-potato-flakes-manufacturer-in-china/)
+[中國十大薯片製造商](/yua/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## 作者總結
 

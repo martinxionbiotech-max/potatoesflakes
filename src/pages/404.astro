@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<BaseLayout
+  title="Page not found (404)"
+  description="The page you requested does not exist. Browse XION potato flakes, instant mashed potato and frozen french fries, or contact our team for a quotation."
+  type="website"
+  noindex={true}
+  crumbName="Page not found"
+>
+  <Header />
+  <section class="container-x py-20">
+    <div class="mx-auto max-w-2xl text-center">
+      <p class="text-sm font-semibold uppercase tracking-wide text-brand-600">Error 404</p>
+      <h1 class="mt-2 text-3xl font-bold text-gray-900 sm:text-4xl">This page doesn't exist</h1>
+      <p class="mt-4 text-gray-600">
+        The address may be mistyped, or the page has been renamed. Nothing was deleted — use the
+        links below, or send us the document you were looking for and we'll point you to it.
+      </p>
+    </div>
+
+    <div class="mx-auto mt-12 max-w-3xl rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
+      <h2 class="text-xl font-semibold text-gray-900">Where to go next</h2>
+      <ul class="mt-4 space-y-2 text-gray-700">
+        <li><a class="text-brand-700 hover:underline" href="/product/">Products</a> — potato flakes, flavored instant mashed potato, frozen french fries, seed potatoes, potato starch</li>
+        <li><a class="text-brand-700 hover:underline" href="/product-category/potato-flakes/">Bulk potato flakes</a> — 10,000 t annual capacity, 20/40/80 mesh</li>
+        <li><a class="text-brand-700 hover:underline" href="/product-category/instant-mashed-potato/">Instant mashed potatoes OEM</a> — flavors and packaging customization</li>
+        <li><a class="text-brand-700 hover:underline" href="/blog/">Blog</a> — potato flakes guides, storage, applications and industry standards</li>
+        <li><a class="text-brand-700 hover:underline" href="/production/">Production &amp; quality</a> — FSSC 22000, ISO 9001/22000, HACCP, BRC, Halal</li>
+        <li><a class="text-brand-700 hover:underline" href="/contact/">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="mx-auto mt-8 max-w-3xl rounded-2xl bg-brand-50 p-8 text-center">
+      <p class="font-semibold text-gray-900">Looking for a quotation, datasheet or OEM/private label quote?</p>
+      <a class="btn-primary mt-4 inline-block" href="/contact/">Request a Quote →</a>
+    </div>
+  </section>
+  <Footer />
+</BaseLayout>

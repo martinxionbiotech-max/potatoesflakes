@@ -24,6 +24,8 @@ interface Props {
   breadcrumbs?: { name: string; href: string }[];
   /** Label for the final breadcrumb when it differs from the title */
   crumbName?: string;
+  /** Emit <meta name="robots" content="noindex, nofollow"> (404 page etc.) */
+  noindex?: boolean;
 }
 
 const {
@@ -39,6 +41,7 @@ const {
   pageType = 'WebPage',
   breadcrumbs = [],
   crumbName,
+  noindex = false,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://www.potatoesflakes.com');
@@ -77,6 +80,7 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
     <title>{title} - XION Potato Flakes Manufacturer</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
     <meta name="generator" content={Astro.generator} />
 
     <!-- Open Graph -->

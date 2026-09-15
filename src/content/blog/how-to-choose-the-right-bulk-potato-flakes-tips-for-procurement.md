@@ -32,7 +32,7 @@ Many large potato flakes manufacturers have various factories worldwide, often a
 
 Potato raw material quality is a core factor affecting the quality of potato flakes. Read my article:
 
-[“Potato Flakes | What Potato Varieties are Used for the Production?”](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[“Potato Flakes | What Potato Varieties are Used for the Production?”](/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 The core quality of the product comes from the raw materials, even though production adjustments can be made through equipment parameters. For instance, using over 80% high-quality Atlantic potatoes as raw material ensures high purity and good color, with these potatoes containing 24% or more dry matter, leading to very high-quality potato flakes.
 

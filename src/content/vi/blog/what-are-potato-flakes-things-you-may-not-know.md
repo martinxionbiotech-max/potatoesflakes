@@ -24,7 +24,7 @@ Cốt lõi của quy trình chế biến vảy khoai tây là sấy trống quay
 
 Bạn muốn tìm hiểu thêm về quy trình chế biến vảy khoai tây, hãy xem bài viết của tôi:
 
-[Vảy khoai tây là gì? Vảy khoai tây được sản xuất như thế nào?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[Vảy khoai tây là gì? Vảy khoai tây được sản xuất như thế nào?](/vi/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## Các ứng dụng chính
 
@@ -59,7 +59,7 @@ Nếu bạn đổ 100 gram nước vào 20 gram vảy khoai tây, trong vòng 1-
 
 Vảy khoai tây thường có các loại màu trắng, vàng và tím, với cường độ đậm nhạt khác nhau do các loại nguyên liệu khoai tây tươi khác nhau được sử dụng. Tham khảo bài viết của tôi:
 
-[Vảy khoai tây | Những giống khoai tây nào được sử dụng để sản xuất?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[Vảy khoai tây | Những giống khoai tây nào được sử dụng để sản xuất?](/vi/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Phân loại theo nguồn gốc:
 
@@ -73,7 +73,7 @@ Bạn nên xem xét một số yếu tố quan trọng khi lựa chọn vảy kh
 
 Ngoài các phương pháp tôi đề cập ở đây, có Tiêu chuẩn Quốc gia Trung Quốc về Vảy khoai tây làm tài liệu tham khảo về chất lượng vảy khoai tây.
 
-[Tiêu chuẩn Quốc gia mới nhất về Vảy khoai tây tại Trung Quốc năm 2024 (có hiệu lực từ ngày 14 tháng 5)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[Tiêu chuẩn Quốc gia mới nhất về Vảy khoai tây tại Trung Quốc năm 2024 (có hiệu lực từ ngày 14 tháng 5)](/vi/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### Hình thức bên ngoài:
 
@@ -87,13 +87,13 @@ Tiến hành một bài kiểm tra đơn giản bằng cách trộn vảy khoai 
 
 Việc này đòi hỏi thiết bị hoặc thuốc thử chuyên dụng để đo lường, với hàm lượng tinh bột thấp hơn cho thấy vảy khoai tây có chất lượng cao hơn. Để biết thêm chi tiết về mối quan hệ này, hãy tham khảo bài viết của tôi:
 
-[Sự khác biệt giữa Vảy khoai tây và Tinh bột là gì?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[Sự khác biệt giữa Vảy khoai tây và Tinh bột là gì?](/vi/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### Thương hiệu vảy khoai tây:
 
 Do yêu cầu sản xuất cao, chỉ những nhà máy quy mô lớn mới có thể sản xuất vảy khoai tây. Bạn nên chọn những thương hiệu uy tín nổi tiếng sản xuất vảy khoai tây chất lượng cao. Tại Trung Quốc, có các lựa chọn như XION, Hongji và Xuechuan, cùng nhiều thương hiệu khác. Để biết thêm thông tin, hãy tham khảo bài viết của tôi:
 
-[Top 10 Nhà sản xuất Vảy khoai tây tại Trung Quốc](/top-10-potato-flakes-manufacturer-in-china/)
+[Top 10 Nhà sản xuất Vảy khoai tây tại Trung Quốc](/vi/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## Tổng kết của tác giả
 

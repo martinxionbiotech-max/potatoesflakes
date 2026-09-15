@@ -32,7 +32,7 @@ Birçok büyük patates püresi üreticisinin dünya genelinde, genellikle satı
 
 Patates hammadde kalitesi, patates püresi pullarının kalitesini etkileyen temel faktördür. Makalemi okuyun:
 
-[“Patates Püresi Pulları | Üretimde Hangi Patates Çeşitleri Kullanılır?”](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[“Patates Püresi Pulları | Üretimde Hangi Patates Çeşitleri Kullanılır?”](/tr/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 Ürünün temel kalitesi, ekipman parametreleriyle üretim ayarlamaları yapılabilse bile, hammaddelerden gelir. Örneğin, hammadde olarak %80'den fazla yüksek kaliteli Atlantic patatesi kullanmak, yüksek saflık ve iyi renk sağlar; bu patatesler %24 veya daha fazla kuru madde içerir ve bu da çok yüksek kaliteli patates püresi pullarına yol açar.
 

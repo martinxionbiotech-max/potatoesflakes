@@ -32,7 +32,7 @@ Muitos grandes fabricantes de flocos de batata têm várias fábricas em todo o 
 
 A qualidade da matéria-prima da batata é um fator central que afeta a qualidade dos flocos de batata. Leia o meu artigo:
 
-[“Flocos de Batata | Que Variedades de Batata São Utilizadas na Produção?”](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[“Flocos de Batata | Que Variedades de Batata São Utilizadas na Produção?”](/pt/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 A qualidade central do produto vem das matérias-primas, mesmo que os ajustes de produção possam ser feitos através dos parâmetros do equipamento. Por exemplo, usar mais de 80% de batatas Atlantic de alta qualidade como matéria-prima garante alta pureza e boa cor, com estas batatas a conterem 24% ou mais de matéria seca, levando a flocos de batata de altíssima qualidade.
 

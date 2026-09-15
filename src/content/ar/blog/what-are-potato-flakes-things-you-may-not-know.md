@@ -24,7 +24,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 هل تريد معرفة المزيد عن معالجة رقائق البطاطس؟ يرجى الاطلاع على مقالتي:
 
-[ما هي رقائق البطاطس؟ كيف تُصنع رقائق البطاطس؟](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[ما هي رقائق البطاطس؟ كيف تُصنع رقائق البطاطس؟](/ar/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## الاستخدامات الرئيسية
 
@@ -59,7 +59,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 تأتي رقائق البطاطس عمومًا في أصناف بيضاء وصفراء وبنفسجية، مع درجات متفاوتة من شدة اللون بسبب اختلاف أنواع المواد الخام من البطاطس الطازجة المستخدمة. راجع مقالتي:
 
-[رقائق البطاطس | ما أنواع البطاطس المستخدمة في الإنتاج؟](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[رقائق البطاطس | ما أنواع البطاطس المستخدمة في الإنتاج؟](/ar/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### التصنيف حسب المنشأ:
 
@@ -73,7 +73,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 بالإضافة إلى الطرق التي ذكرتها هنا، هناك المعيار الوطني الصيني لرقائق البطاطس كمرجع لجودة رقائق البطاطس.
 
-[أحدث معيار وطني لرقائق البطاطس في الصين لعام 2024 (ساري من 14 مايو)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[أحدث معيار وطني لرقائق البطاطس في الصين لعام 2024 (ساري من 14 مايو)](/ar/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### المظهر:
 
@@ -87,13 +87,13 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 يتطلب قياسه معدات أو كواشف متخصصة، حيث يشير انخفاض محتوى النشا إلى جودة أعلى لرقائق البطاطس. لمزيد من التفاصيل حول هذه العلاقة، راجع مقالتي:
 
-[ما هي الاختلافات بين رقائق البطاطس والنشا؟](/what-are-the-differences-between-potato-flakes-and-starch/)
+[ما هي الاختلافات بين رقائق البطاطس والنشا؟](/ar/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### علامة رقائق البطاطس التجارية:
 
 نظرًا لمتطلبات الإنتاج العالية، فقط المصانع الكبيرة يمكنها تصنيع رقائق البطاطس. يُنصح باختيار العلامات التجارية ذات السمعة الطيبة المعروفة بإنتاج رقائق بطاطس عالية الجودة. في الصين، تشمل الخيارات XION وHongji وXuechuan وغيرها. لمزيد من المعلومات، راجع مقالتي:
 
-[أفضل 10 مصنعين لرقائق البطاطس في الصين](/top-10-potato-flakes-manufacturer-in-china/)
+[أفضل 10 مصنعين لرقائق البطاطس في الصين](/ar/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## ملخص المؤلف
 

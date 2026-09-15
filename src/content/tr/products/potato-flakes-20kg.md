@@ -13,7 +13,7 @@ gallery:
   - "uploads/2024/03/potato-flakes-3-scaled.jpg"
 ---
 
-**Stok ve OEM [Patates Püresi Pulları](/potato-flakes/) için lütfen bizimle iletişime geçin!**
+**Stok ve OEM [Patates Püresi Pulları](/tr/product-category/potato-flakes/) için lütfen bizimle iletişime geçin!**
 
 ## Ürün Açıklaması
 - 20 mesh patates püresi pullarının ortalama çapı yaklaşık 3 mm'dir.
@@ -21,7 +21,7 @@ gallery:
 - ISO 9001, HACCP ve BRC gibi kalite sertifikalarına sahibiz.
 - Renk saf beyazdır; bu da çoğu müşterinin talebidir.
 - Olgunlaşma derecesi %90'ın üzerindedir; bu da onu fırıncılık ve gıda işleme için daha uygun hale getirir.
-- Ürün Standardı: SB/T 10752-2012. Veriler https://std.samr.gov.cn/ adresinden alınmıştır. [Referans metnini](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/) okuyun.
+- Ürün Standardı: SB/T 10752-2012. Veriler https://std.samr.gov.cn/ adresinden alınmıştır. [Referans metnini](/tr/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/) okuyun.
 
 ## Özellikler
 

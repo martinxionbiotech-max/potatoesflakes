@@ -21,7 +21,7 @@ gallery:
 - เรามีใบรับรองคุณภาพ เช่น ISO 9001, HACCP และ BRC
 - สีขาวบริสุทธิ์ ซึ่งเป็นข้อกำหนดของลูกค้าส่วนใหญ่เช่นกัน
 - ระดับความสุกมากกว่า 90% ทำให้เหมาะสำหรับการอบและการแปรรูปอาหาร
-- มาตรฐานสินค้า: SB/T 10752-2012 ข้อมูลจาก https://std.samr.gov.cn/ อ่าน [เอกสารอ้างอิง.](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- มาตรฐานสินค้า: SB/T 10752-2012 ข้อมูลจาก https://std.samr.gov.cn/ อ่าน [เอกสารอ้างอิง.](/th/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## คุณสมบัติเด่น
 

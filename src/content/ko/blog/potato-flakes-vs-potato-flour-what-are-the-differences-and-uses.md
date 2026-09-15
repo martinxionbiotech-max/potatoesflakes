@@ -20,7 +20,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-vs-potato-flour.jpg"
 ### 원재료
 감자 플레이크 생산에는 특정 감자 품종, 크기, 수분 함량, 신선도 등 더 높은 품질의 원재료가 필요합니다. 감자 가루는 감자 플레이크에 비해 원재료 요구 사항이 상대적으로 낮지만, 감자 전분 생산에 사용되는 원재료보다는 더 높은 품질이 필요합니다.
 
-관련 기사: [감자 플레이크 | 생산에는 어떤 감자 품종이 사용되나요?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+관련 기사: [감자 플레이크 | 생산에는 어떤 감자 품종이 사용되나요?](/ko/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### 생산 공정
 - 언뜻 보면 감자 플레이크와 감자 가루의 생산 공정은 비슷해 보입니다: 신선한 감자를 껍질을 벗기고, 찌고, 으깬 다음 건조합니다. 그러나 생산의 주요 차이점은 건조 방식입니다.
@@ -62,7 +62,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-vs-potato-flour.jpg"
 
 ## 마무리
 
-이상으로 감자 플레이크와 감자 가루에 대한 제 이해와 요약이었습니다. 또한 또 다른 일반적인 식품 성분인 감자 전분에 대해서도 언급할 가치가 있습니다. 감자 전분과 감자 플레이크의 비교에 대해서는 제 다른 기사인 "[감자 플레이크 vs 감자 전분](/what-are-the-differences-between-potato-flakes-and-starch/)"을 읽어보실 수 있습니다.
+이상으로 감자 플레이크와 감자 가루에 대한 제 이해와 요약이었습니다. 또한 또 다른 일반적인 식품 성분인 감자 전분에 대해서도 언급할 가치가 있습니다. 감자 전분과 감자 플레이크의 비교에 대해서는 제 다른 기사인 "[감자 플레이크 vs 감자 전분](/ko/blog/what-are-the-differences-between-potato-flakes-and-starch/)"을 읽어보실 수 있습니다.
 
 질문이나 개선을 위한 제안이 있으시면 저에게 연락해 주세요.
 

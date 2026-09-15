@@ -6,7 +6,7 @@ category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/08/39.jpg"
 ---
 
-Çoğumuz muhtemelen [patates püresi](/product-category/instant-mashed-potato/) yapmayı [patates pulu](/kullanarak) denemişizdir, çünkü bu daha hızlı ve daha pratik bir yoldur. Ancak birçoğu evde taze patates kullanarak yapmayı tercih eder.
+Çoğumuz muhtemelen [patates püresi](/product-category/instant-mashed-potato/) yapmayı [patates pulu](/tr/product-category/potato-flakes/) denemişizdir, çünkü bu daha hızlı ve daha pratik bir yoldur. Ancak birçoğu evde taze patates kullanarak yapmayı tercih eder.
 
 Aslında, ister taze patatesle püre yapın ister patates pulu üretin, patates seçimi çok önemli bir adımdır. Bu seçim, pürenin kalitesini doğrudan etkiler.
 

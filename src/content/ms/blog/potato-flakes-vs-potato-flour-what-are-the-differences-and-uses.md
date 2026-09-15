@@ -20,7 +20,7 @@ Terdapat juga sejenis kepingan kentang yang telah dikisar dan diayak, dikenali s
 ### Bahan Mentah
 Penghasilan kepingan kentang memerlukan bahan mentah berkualiti tinggi, termasuk varieti kentang tertentu, saiz, kandungan lembapan, dan kesegaran. Tepung kentang mempunyai keperluan yang agak lebih rendah terhadap bahan mentah berbanding kepingan kentang, walaupun ia memerlukan bahan mentah berkualiti lebih tinggi daripada yang digunakan untuk menghasilkan kanji kentang.
 
-Artikel berkaitan: [Kepingan Kentang | Apakah Varieti Kentang yang Digunakan untuk Penghasilan?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+Artikel berkaitan: [Kepingan Kentang | Apakah Varieti Kentang yang Digunakan untuk Penghasilan?](/ms/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Proses Pengeluaran
 - Sekilas pandang, proses pengeluaran untuk kepingan kentang dan tepung kentang kelihatan serupa: kentang segar dikupas, dikukus, dilembutkan, dan kemudian dikeringkan. Walau bagaimanapun, perbezaan utama dalam pengeluaran ialah kaedah pengeringan.
@@ -62,7 +62,7 @@ Artikel berkaitan: [Kepingan Kentang | Apakah Varieti Kentang yang Digunakan unt
 
 ## Penutup
 
-Inilah pemahaman dan ringkasan saya tentang kepingan kentang vs tepung kentang. Perlu juga disebutkan kanji kentang, yang merupakan satu lagi ramuan makanan biasa. Untuk perbandingan kanji kentang dan kepingan kentang, anda boleh membaca artikel saya yang lain: “[Kepingan Kentang vs Kanji Kentang](/what-are-the-differences-between-potato-flakes-and-starch/).”
+Inilah pemahaman dan ringkasan saya tentang kepingan kentang vs tepung kentang. Perlu juga disebutkan kanji kentang, yang merupakan satu lagi ramuan makanan biasa. Untuk perbandingan kanji kentang dan kepingan kentang, anda boleh membaca artikel saya yang lain: “[Kepingan Kentang vs Kanji Kentang](/ms/blog/what-are-the-differences-between-potato-flakes-and-starch/).”
 
 Jika anda mempunyai sebarang soalan atau cadangan untuk penambahbaikan, sila hubungi saya.
 

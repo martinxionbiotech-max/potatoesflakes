@@ -24,7 +24,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 آیا میخواهید درباره فرآوری پولک سیبزمینی بیشتر بدانید؟ لطفاً مقاله من را بررسی کنید:
 
-[پولک سیبزمینی چیست؟ پولک سیبزمینی چگونه ساخته میشود؟](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[پولک سیبزمینی چیست؟ پولک سیبزمینی چگونه ساخته میشود؟](/fa/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## کاربردهای اصلی
 
@@ -59,7 +59,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 پولک سیبزمینی بهطور کلی در انواع سفید، زرد و بنفش موجود است، با شدتهای متفاوت عمق رنگ به دلیل انواع مختلف مواد اولیه سیبزمینی تازه استفادهشده. به مقاله من مراجعه کنید:
 
-[پولک سیبزمینی | چه ارقام سیبزمینی برای تولید استفاده میشوند؟](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[پولک سیبزمینی | چه ارقام سیبزمینی برای تولید استفاده میشوند؟](/fa/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### طبقهبندی مبدأ:
 
@@ -73,7 +73,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 علاوه بر روشهایی که در اینجا ذکر کردم، استاندارد ملی چین برای پولک سیبزمینی بهعنوان مرجعی برای کیفیت پولک سیبزمینی وجود دارد.
 
-[جدیدترین استاندارد ملی پولک سیبزمینی در چین در سال 2024 (از 14 مه اجرایی شده)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[جدیدترین استاندارد ملی پولک سیبزمینی در چین در سال 2024 (از 14 مه اجرایی شده)](/fa/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### ظاهر:
 
@@ -87,13 +87,13 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 اندازهگیری آن به تجهیزات یا معرفهای تخصصی نیاز دارد، با محتوای نشاسته کمتر نشاندهنده پولک سیبزمینی با کیفیت بالاتر است. برای جزئیات بیشتر درباره این رابطه، به مقاله من مراجعه کنید:
 
-[تفاوت بین پولک سیبزمینی و نشاسته چیست؟](/what-are-the-differences-between-potato-flakes-and-starch/)
+[تفاوت بین پولک سیبزمینی و نشاسته چیست؟](/fa/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### برند پولک سیبزمینی:
 
 به دلیل الزامات بالای تولید، فقط کارخانههای بزرگ میتوانند پولک سیبزمینی تولید کنند. توصیه میشود برندهای معتبری را انتخاب کنید که به تولید پولک سیبزمینی با کیفیت بالا معروف هستند. در چین، گزینهها شامل XION، Hongji و Xuechuan و دیگران است. برای اطلاعات بیشتر، به مقاله من مراجعه کنید:
 
-[10 تولیدکننده برتر پولک سیبزمینی در چین](/top-10-potato-flakes-manufacturer-in-china/)
+[10 تولیدکننده برتر پولک سیبزمینی در چین](/fa/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## خلاصه نویسنده
 

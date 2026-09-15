@@ -24,7 +24,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 감자 플레이크 가공에 대해 더 자세히 알고 싶으시면 제 기사를 확인해 주세요:
 
-[감자 플레이크란 무엇인가? 감자 플레이크는 어떻게 만들어지나요?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[감자 플레이크란 무엇인가? 감자 플레이크는 어떻게 만들어지나요?](/ko/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## 주요 용도
 
@@ -59,7 +59,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 감자 플레이크는 일반적으로 흰색, 노란색, 보라색 품종으로 제공되며, 사용된 신선한 감자 원료의 종류에 따라 색상의 강도가 다양합니다. 제 기사를 참조하세요:
 
-[감자 플레이크 | 생산에는 어떤 감자 품종이 사용되나요?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[감자 플레이크 | 생산에는 어떤 감자 품종이 사용되나요?](/ko/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### 원산지 분류:
 
@@ -73,7 +73,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 여기서 언급한 방법 외에도, 중국 국가 표준 감자 플레이크 규격이 감자 플레이크 품질의 기준으로 참고될 수 있습니다.
 
-[2024년 중국 최신 감자 플레이크 국가 표준 (5월 14일부터 시행)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[2024년 중국 최신 감자 플레이크 국가 표준 (5월 14일부터 시행)](/ko/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### 외관:
 
@@ -87,13 +87,13 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 측정에는 전문 장비나 시약이 필요하며, 전분 함량이 낮을수록 더 높은 품질의 감자 플레이크를 나타냅니다. 이 관계에 대한 자세한 내용은 제 기사를 참조하세요:
 
-[감자 플레이크와 전분의 차이점은 무엇인가요?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[감자 플레이크와 전분의 차이점은 무엇인가요?](/ko/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### 감자 플레이크 브랜드:
 
 높은 생산 요구 사항으로 인해 대규모 공장만이 감자 플레이크를 제조할 수 있습니다. 고품질 감자 플레이크를 생산하는 것으로 알려진 평판 좋은 브랜드를 선택하는 것이 좋습니다. 중국에서는 XION, 홍지, 쉐촨 등의 옵션이 있습니다. 자세한 내용은 제 기사를 참조하세요:
 
-[중국 상위 10대 감자 플레이크 제조업체](/top-10-potato-flakes-manufacturer-in-china/)
+[중국 상위 10대 감자 플레이크 제조업체](/ko/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## 작성자 요약
 

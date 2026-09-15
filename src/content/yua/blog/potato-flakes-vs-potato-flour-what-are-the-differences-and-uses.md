@@ -20,7 +20,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-vs-potato-flour.jpg"
 ### 原材料
 生產薯片需要質量比較高嘅原材料，包括特定嘅薯仔品種、大小、含水量同新鮮度。薯粉對原材料嘅要求相對比薯片低，不過比起用嚟生產薯仔澱粉嘅原材料，要求仍然係高啲。
 
-相關文章：[薯片 | 生產用咩薯仔品種？](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+相關文章：[薯片 | 生產用咩薯仔品種？](/yua/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### 生產過程
 - 一眼睇落，薯片同薯粉嘅生產過程好似差唔多：新鮮薯仔去皮、蒸煮、壓成蓉，然後烘乾。不過，生產上最主要嘅分別在於乾燥方法。
@@ -62,7 +62,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-vs-potato-flour.jpg"
 
 ## 總結
 
-以上就係我對薯片同薯粉嘅理解同總結。另外值得一提嘅係薯仔澱粉，佢係另一種常見嘅食品成分。想睇薯仔澱粉同薯片嘅比較，你可以睇我另一篇文章：「[薯片 vs 薯仔澱粉](/what-are-the-differences-between-potato-flakes-and-starch/)。」
+以上就係我對薯片同薯粉嘅理解同總結。另外值得一提嘅係薯仔澱粉，佢係另一種常見嘅食品成分。想睇薯仔澱粉同薯片嘅比較，你可以睇我另一篇文章：「[薯片 vs 薯仔澱粉](/yua/blog/what-are-the-differences-between-potato-flakes-and-starch/)。」
 
 如果你有任何問題或者改善建議，歡迎聯絡我。
 

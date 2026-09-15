@@ -21,7 +21,7 @@ gallery:
 - لدينا شهادات الجودة مثل ISO 9001 وHACCP وBRC.
 - اللون أبيض نقي، وهو أيضًا متطلب معظم العملاء.
 - درجة النضج أكبر من 90%، مما يجعلها أكثر ملاءمة للخبز وتجهيز الأغذية.
-- معيار المنتج: SB/T 10752-2012. البيانات من https://std.samr.gov.cn/. اقرأ [النص المرجعي.](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- معيار المنتج: SB/T 10752-2012. البيانات من https://std.samr.gov.cn/. اقرأ [النص المرجعي.](/ar/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## الميزات
 

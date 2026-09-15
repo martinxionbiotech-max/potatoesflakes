@@ -21,7 +21,7 @@ gallery:
 - 我哋擁有 ISO 9001、HACCP 同 BRC 等品質認證。
 - 顏色係純白色，呢個都係大部分客戶嘅要求。
 - 熟化程度超過 90%，更加適合烘焙同食品加工。
-- 產品標準：SB/T 10752-2012。數據嚟自 https://std.samr.gov.cn/。可以睇吓呢篇[參考文章。](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- 產品標準：SB/T 10752-2012。數據嚟自 https://std.samr.gov.cn/。可以睇吓呢篇[參考文章。](/yua/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## 特點
 

@@ -24,7 +24,7 @@ Patates pulu işlemenin özü büyük tamburlu kurutmadır. Patates püresi büy
 
 Patates pulları işleme hakkında daha fazla bilgi edinmek isterseniz, lütfen makalemi inceleyin:
 
-[Patates Pulu Nedir? Patates Pulları Nasıl Yapılır?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[Patates Pulu Nedir? Patates Pulları Nasıl Yapılır?](/tr/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## Ana Kullanım Alanları
 
@@ -59,7 +59,7 @@ Belki de birçok kişinin bilmediği, patates pullarının öne çıkan özelli�
 
 Patates pulları genellikle beyaz, sarı ve mor çeşitlerde gelir ve kullanılan farklı taze patates hammadde türleri nedeniyle renk yoğunlukları değişir. Makaleme bakın:
 
-[Patates Pulu | Üretim için Hangi Patates Çeşitleri Kullanılır?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[Patates Pulu | Üretim için Hangi Patates Çeşitleri Kullanılır?](/tr/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Menşe sınıflandırması:
 
@@ -73,7 +73,7 @@ Patates pulları seçerken birkaç önemli faktörü göz önünde bulundurmalı
 
 Burada bahsettiğim yöntemlerin yanı sıra, patates pullarının kalitesi için referans olarak Çin Ulusal Patates Pulu Standardı bulunmaktadır.
 
-[2024'te Çin'deki En Son Patates Pulu Ulusal Standardı (14 Mayıs'tan itibaren geçerli)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[2024'te Çin'deki En Son Patates Pulu Ulusal Standardı (14 Mayıs'tan itibaren geçerli)](/tr/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### Görünüm:
 
@@ -87,13 +87,13 @@ Patates pullarını 1:5 oranında suyla karıştırarak suyu ne kadar hızlı em
 
 Ölçüm için özel ekipman veya reaktifler gerektirir; daha düşük nişasta içeriği daha yüksek kaliteli patates pullarını gösterir. Bu ilişki hakkında daha fazla ayrıntı için makaleme bakın:
 
-[Patates Pulları ve Nişasta Arasındaki Farklar Nelerdir?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[Patates Pulları ve Nişasta Arasındaki Farklar Nelerdir?](/tr/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### Patates pulu markası:
 
 Yüksek üretim gereksinimleri nedeniyle, yalnızca büyük ölçekli fabrikalar patates pulu üretebilir. Yüksek kaliteli patates pulları ürettiği bilinen saygın markaları seçmeniz tavsiye edilir. Çin'de XION, Hongji ve Xuechuan gibi seçenekler bulunmaktadır. Daha fazla bilgi için makaleme bakın:
 
-[Çin'deki En İyi 10 Patates Pulu Üreticisi](/top-10-potato-flakes-manufacturer-in-china/)
+[Çin'deki En İyi 10 Patates Pulu Üreticisi](/tr/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## Yazar Özeti
 

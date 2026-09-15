@@ -24,7 +24,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 ポテトフレーク加工についてもっと知りたい方は、私の記事をご覧ください：
 
-[ポテトフレークとは？ポテトフレークはどのように作られるのか？](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[ポテトフレークとは？ポテトフレークはどのように作られるのか？](/ja/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## 主な用途
 
@@ -59,7 +59,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 ポテトフレークは一般的に白、黄、紫の品種があり、使用される生ジャガイモ原料の種類が異なるため、色の濃淡にばらつきがあります。私の記事を参照してください：
 
-[ポテトフレーク | 製造にはどのようなジャガイモ品種が使われていますか？](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[ポテトフレーク | 製造にはどのようなジャガイモ品種が使われていますか？](/ja/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### 産地による分類：
 
@@ -73,7 +73,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 ここで述べた方法の他に、ポテトフレークの品質基準として中国国家規格があります。
 
-[2024年中国におけるポテトフレークの最新国家規格（5月14日より有効）](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[2024年中国におけるポテトフレークの最新国家規格（5月14日より有効）](/ja/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### 外観：
 
@@ -87,13 +87,13 @@ image: "/wp-content/uploads/2024/07/potato-flakes-2.png"
 
 測定には専門の機器や試薬が必要で、デンプン含有量が低いほど高品質のポテトフレークを示します。この関係の詳細については、私の記事を参照してください：
 
-[ポテトフレークとデンプンの違いは何ですか？](/what-are-the-differences-between-potato-flakes-and-starch/)
+[ポテトフレークとデンプンの違いは何ですか？](/ja/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### ポテトフレークのブランド：
 
 生産要件が高いため、大規模な工場のみがポテトフレークを製造できます。高品質のポテトフレークを製造することで知られる評判の良いブランドを選ぶことをお勧めします。中国では、XION、Hongji、Xuechuanなどの選択肢があります。詳細については、私の記事を参照してください：
 
-[中国のポテトフレークメーカートップ10](/top-10-potato-flakes-manufacturer-in-china/)
+[中国のポテトフレークメーカートップ10](/ja/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## 著者まとめ
 

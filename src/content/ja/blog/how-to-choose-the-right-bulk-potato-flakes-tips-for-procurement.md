@@ -32,7 +32,7 @@ image: "/wp-content/uploads/2024/03/potato-flake-scaled.jpg"
 
 ジャガイモ原料の品質は、ポテトフレークの品質に影響を与える中核的な要素です。私の記事をお読みください：
 
-[「ポテトフレーク｜製造にはどのジャガイモ品種が使われているのか？」](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[「ポテトフレーク｜製造にはどのジャガイモ品種が使われているのか？」](/ja/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 製品の核となる品質は原材料に由来しますが、設備パラメータによって生産調整が可能です。例えば、80%以上の高品質なアトランティック種を原料として使用することで、高純度で色合いの良い製品が保証され、これらのジャガイモは24%以上の乾物含有量を持ち、非常に高品質なポテトフレークが得られます。
 

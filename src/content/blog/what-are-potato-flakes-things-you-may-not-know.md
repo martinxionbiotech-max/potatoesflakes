@@ -24,7 +24,7 @@ The core of potato flake processing is large drum drying. When potato mash is dr
 
 Want to learn more about potato flakes processing, please check my article:
 
-[What Are Potato Flakes? How Are Potato Flakes Made?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[What Are Potato Flakes? How Are Potato Flakes Made?](/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## The Main Uses
 
@@ -59,7 +59,7 @@ If you pour 100 grams of water into 20 grams of potato flakes, within 1-2 second
 
 Potato flakes generally come in white, yellow, and purple varieties, with varying intensities of color depth due to the different types of fresh potato raw materials used. refer to my article:
 
-[Potato Flakes | What Potato Varieties are used for the production?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[Potato Flakes | What Potato Varieties are used for the production?](/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Origin classification:
 
@@ -73,7 +73,7 @@ You should consider several important factors when selecting potato flakes:
 
 Besides the methods I mentioned here, there is the China National Standard of Potato Flakes as a reference for the quality of potato flakes.
 
-[The latest National Standard for Potato Flakes in China in 2024 (effective from May 14th)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[The latest National Standard for Potato Flakes in China in 2024 (effective from May 14th)](/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### Appearance:
 
@@ -87,13 +87,13 @@ Conduct a simple test by mixing potato flakes with water in a 1:5 ratio to obser
 
 It requires specialized equipment or reagents for measurement, with lower starch content indicating higher quality potato flakes. For more details on this relationship, refer to my article:
 
-[What Are The Differences Between Potato Flakes and Starch?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[What Are The Differences Between Potato Flakes and Starch?](/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### Brand of potato flakes:
 
 Due to the high production requirements, only large-scale factories can manufacture potato flakes. It’s advisable to choose reputable brands known for producing high-quality potato flakes. In China, options include XION, Hongji, and Xuechuan, among others. For more information, refer to my article:
 
-[Top 10 Potato Flakes Manufacturers in China](/top-10-potato-flakes-manufacturer-in-china/)
+[Top 10 Potato Flakes Manufacturers in China](/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## Author Summary
 

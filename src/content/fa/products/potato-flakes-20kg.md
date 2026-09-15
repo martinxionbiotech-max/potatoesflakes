@@ -21,7 +21,7 @@ gallery:
 - ما دارای گواهینامههای کیفیت مانند ISO 9001، HACCP و BRC هستیم.
 - رنگ آن سفید خالص است که این نیز از الزامات اکثر مشتریان محسوب میشود.
 - درجه پخت بیش از ۹۰٪ است که آن را برای پخت و فرآوری مواد غذایی مناسبتر میسازد.
-- استاندارد محصول: SB/T 10752-2012. دادهها از https://std.samr.gov.cn/. [متن مرجع](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/) را بخوانید.
+- استاندارد محصول: SB/T 10752-2012. دادهها از https://std.samr.gov.cn/. [متن مرجع](/fa/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/) را بخوانید.
 
 ## ویژگیها
 

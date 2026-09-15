@@ -32,7 +32,7 @@ Muchos grandes fabricantes de copos de papa tienen varias fábricas en todo el m
 
 La calidad de la materia prima de papa es un factor central que afecta la calidad de los copos de papa. Lee mi artículo:
 
-[“Copos de Papa | ¿Qué Variedades de Papa se Utilizan para la Producción?”](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[“Copos de Papa | ¿Qué Variedades de Papa se Utilizan para la Producción?”](/es/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 La calidad central del producto proviene de las materias primas, aunque se pueden hacer ajustes de producción mediante parámetros del equipo. Por ejemplo, usar más del 80% de papas Atlantic de alta calidad como materia prima asegura alta pureza y buen color, con estas papas conteniendo 24% o más de materia seca, lo que lleva a copos de papa de muy alta calidad.
 

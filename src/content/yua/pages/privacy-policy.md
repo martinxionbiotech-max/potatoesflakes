@@ -39,7 +39,7 @@ description: "私隱政策 XION 薯片製造商"
 
 * 使用數據 指自動收集嘅數據，可能係使用服務時產生，或者嚟自服務基礎設施本身（例如，頁面瀏覽時間）。
 
-* 網站 指 Xion [薯片](/zh/) 專家，可從 <https://www.potatoesflakes.com/> 存取。
+* 網站 指 Xion [薯片](/yua/) 專家，可從 <https://www.potatoesflakes.com/> 存取。
 
 * 你 指存取或使用服務嘅個人，或代表該個人存取或使用服務嘅公司或其他法律實體（視情況而定）。
 

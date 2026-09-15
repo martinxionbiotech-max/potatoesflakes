@@ -21,7 +21,7 @@ gallery:
 - Kami mempunyai pensijilan kualiti seperti ISO 9001, HACCP, dan BRC.
 - Warnanya putih tulen, yang juga merupakan keperluan kebanyakan pelanggan.
 - Tahap kematangan adalah lebih daripada 90%, menjadikannya lebih sesuai untuk pembakaran dan pemprosesan makanan.
-- Standard Produk: SB/T 10752-2012. Data daripada https://std.samr.gov.cn/. Baca [Teks rujukan.](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- Standard Produk: SB/T 10752-2012. Data daripada https://std.samr.gov.cn/. Baca [Teks rujukan.](/ms/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## Ciri-ciri
 

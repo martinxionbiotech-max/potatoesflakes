@@ -32,7 +32,7 @@ image: "/wp-content/uploads/2024/03/potato-flake-scaled.jpg"
 
 감자 원재료 품질은 감자 플레이크 품질에 영향을 미치는 핵심 요소입니다. 제 기사를 읽어보세요:
 
-["감자 플레이크 | 생산에 사용되는 감자 품종은 무엇인가요?"](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+["감자 플레이크 | 생산에 사용되는 감자 품종은 무엇인가요?"](/ko/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 제품의 핵심 품질은 원재료에서 비롯되며, 장비 매개변수를 통해 생산을 조정할 수 있지만 말입니다. 예를 들어, 80% 이상의 고품질 Atlantic 감자를 원재료로 사용하면 순도가 높고 색상이 좋으며, 이 감자는 건물 함량이 24% 이상이어서 매우 고품질의 감자 플레이크를 생산할 수 있습니다.
 

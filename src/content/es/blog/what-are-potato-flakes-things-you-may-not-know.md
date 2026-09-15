@@ -24,7 +24,7 @@ El núcleo del procesamiento de copos de papa es el secado en tambores grandes. 
 
 ¿Quieres aprender más sobre el procesamiento de copos de papa? Consulta mi artículo:
 
-[¿Qué son los Copos de Papa? ¿Cómo se Hacen los Copos de Papa?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[¿Qué son los Copos de Papa? ¿Cómo se Hacen los Copos de Papa?](/es/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## Los Usos Principales
 
@@ -59,7 +59,7 @@ Si viertes 100 gramos de agua en 20 gramos de copos de papa, en 1-2 segundos, lo
 
 Los copos de papa generalmente vienen en variedades blanca, amarilla y morada, con diferentes intensidades de profundidad de color debido a los diferentes tipos de materia prima de papa fresca utilizada. Consulta mi artículo:
 
-[Copos de Papa | ¿Qué Variedades de Papa se Usan para la Producción?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[Copos de Papa | ¿Qué Variedades de Papa se Usan para la Producción?](/es/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Clasificación por origen:
 
@@ -73,7 +73,7 @@ Debes considerar varios factores importantes al seleccionar copos de papa:
 
 Además de los métodos que mencioné aquí, existe la Norma Nacional China de Copos de Papa como referencia para la calidad de los copos de papa.
 
-[La última Norma Nacional para Copos de Papa en China en 2024 (vigente desde el 14 de mayo)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[La última Norma Nacional para Copos de Papa en China en 2024 (vigente desde el 14 de mayo)](/es/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### Apariencia:
 
@@ -87,13 +87,13 @@ Realiza una prueba simple mezclando copos de papa con agua en una proporción de
 
 Requiere equipos o reactivos especializados para su medición, con un menor contenido de almidón indicando copos de papa de mayor calidad. Para más detalles sobre esta relación, consulta mi artículo:
 
-[¿Cuáles son las Diferencias Entre los Copos de Papa y el Almidón?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[¿Cuáles son las Diferencias Entre los Copos de Papa y el Almidón?](/es/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### Marca de los copos de papa:
 
 Debido a los altos requisitos de producción, solo fábricas a gran escala pueden fabricar copos de papa. Es recomendable elegir marcas de buena reputación conocidas por producir copos de papa de alta calidad. En China, las opciones incluyen XION, Hongji y Xuechuan, entre otras. Para más información, consulta mi artículo:
 
-[Top 10 Fabricantes de Copos de Papa en China](/top-10-potato-flakes-manufacturer-in-china/)
+[Top 10 Fabricantes de Copos de Papa en China](/es/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## Resumen del Autor
 

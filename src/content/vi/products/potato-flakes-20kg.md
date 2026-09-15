@@ -21,7 +21,7 @@ gallery:
 - Chúng tôi có các chứng nhận chất lượng như ISO 9001, HACCP và BRC.
 - Màu sắc trắng tinh khiết, đây cũng là yêu cầu của hầu hết khách hàng.
 - Độ chín lớn hơn 90%, phù hợp hơn cho việc nướng bánh và chế biến thực phẩm.
-- Tiêu chuẩn sản phẩm: SB/T 10752-2012. Dữ liệu từ https://std.samr.gov.cn/. Đọc [Văn bản tham khảo.](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- Tiêu chuẩn sản phẩm: SB/T 10752-2012. Dữ liệu từ https://std.samr.gov.cn/. Đọc [Văn bản tham khảo.](/vi/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## Đặc Điểm
 

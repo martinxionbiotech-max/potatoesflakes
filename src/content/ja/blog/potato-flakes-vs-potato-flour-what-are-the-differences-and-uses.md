@@ -20,7 +20,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-vs-potato-flour.jpg"
 ### 原材料
 ポテトフレークの製造には、特定のジャガイモ品種、サイズ、水分含有量、鮮度など、より高品質な原材料が必要です。ポテトフラワーは、ポテトフレークに比べて原材料への要求は比較的低いですが、ポテトスターチの製造に使用される原材料よりも高品質なものが求められます。
 
-関連記事: [ポテトフレーク | 製造にはどのジャガイモ品種が使われますか？](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+関連記事: [ポテトフレーク | 製造にはどのジャガイモ品種が使われますか？](/ja/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### 製造工程
 - 一見すると、ポテトフレークとポテトフラワーの製造工程は似ているように見えます。生のジャガイモを皮むきし、蒸し、潰し、そして乾燥させます。しかし、製造における主な違いは乾燥方法です。
@@ -62,7 +62,7 @@ image: "/wp-content/uploads/2024/07/potato-flakes-vs-potato-flour.jpg"
 
 ## 終わりに
 
-以上が、ポテトフレークとポテトフラワーについての私の理解とまとめです。もう1つの一般的な食品原料であるポテトスターチについても言及する価値があります。ポテトスターチとポテトフレークの比較については、私の別の記事「[ポテトフレーク vs ポテトスターチ](/what-are-the-differences-between-potato-flakes-and-starch/)」をお読みください。
+以上が、ポテトフレークとポテトフラワーについての私の理解とまとめです。もう1つの一般的な食品原料であるポテトスターチについても言及する価値があります。ポテトスターチとポテトフレークの比較については、私の別の記事「[ポテトフレーク vs ポテトスターチ](/ja/blog/what-are-the-differences-between-potato-flakes-and-starch/)」をお読みください。
 
 ご質問や改善のためのご提案がございましたら、お問い合わせください。
 

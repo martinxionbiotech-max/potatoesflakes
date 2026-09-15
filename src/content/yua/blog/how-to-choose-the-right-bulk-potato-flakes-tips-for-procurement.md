@@ -32,7 +32,7 @@ image: "/wp-content/uploads/2024/03/potato-flake-scaled.jpg"
 
 薯仔原材料嘅質量係影響薯仔薄片品質嘅核心因素。可以睇吓我嘅文章：
 
-[「薯仔薄片 | 生產用咩薯仔品種？」](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[「薯仔薄片 | 生產用咩薯仔品種？」](/yua/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 產品嘅核心品質係嚟自原材料，即使可以透過設備參數嚟調整生產。例如，用超過八成嘅優質 Atlantic 薯仔做原材料，可以確保純度高同色澤好，呢啲薯仔含有 24% 或以上嘅乾物質，整出嚟嘅薯仔薄片品質好高。
 

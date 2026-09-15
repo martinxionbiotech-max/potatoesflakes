@@ -32,7 +32,7 @@ Nhiều nhà sản xuất vảy khoai tây lớn có nhiều nhà máy trên kh�
 
 Chất lượng nguyên liệu khoai tây thô là yếu tố cốt lõi ảnh hưởng đến chất lượng của vảy khoai tây. Đọc bài viết của tôi:
 
-[“Vảy Khoai Tây | Những Giống Khoai Tây Nào Được Sử Dụng Để Sản Xuất?”](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[“Vảy Khoai Tây | Những Giống Khoai Tây Nào Được Sử Dụng Để Sản Xuất?”](/vi/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 Chất lượng cốt lõi của sản phẩm đến từ nguyên liệu thô, mặc dù có thể điều chỉnh sản xuất thông qua các thông số thiết bị. Ví dụ, sử dụng hơn 80% khoai tây Atlantic chất lượng cao làm nguyên liệu thô đảm bảo độ tinh khiết cao và màu sắc tốt, những củ khoai tây này chứa 24% hoặc nhiều hơn chất khô, dẫn đến vảy khoai tây chất lượng rất cao.
 

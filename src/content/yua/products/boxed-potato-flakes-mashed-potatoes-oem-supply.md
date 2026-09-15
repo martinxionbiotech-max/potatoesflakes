@@ -13,7 +13,7 @@ gallery:
   - "uploads/2024/03/xion-20-mesh-original-potato-flakes1-300x300.jpg"
 ---
 
-**盒裝 [薯片](/zh/) | [即食薯蓉](/product-category/instant-mashed-potato/) OEM**
+**盒裝 [薯片](/yua/product-category/potato-flakes/) | [即食薯蓉](/product-category/instant-mashed-potato/) OEM**
 
 ## 品牌：
 

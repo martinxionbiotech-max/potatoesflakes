@@ -20,7 +20,7 @@ También existe un tipo de copos de papa que han sido molidos y tamizados, conoc
 ### Materias Primas
 La producción de copos de papa requiere materias primas de mayor calidad, incluyendo variedades específicas de papa, tamaño, contenido de humedad y frescura. La harina de papa tiene requisitos relativamente más bajos para las materias primas en comparación con los copos de papa, aunque requiere materias primas de mayor calidad que las utilizadas para producir almidón de papa.
 
-Artículo relacionado: [Copos de Papa | ¿Qué Variedades de Papa se Utilizan para la Producción?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+Artículo relacionado: [Copos de Papa | ¿Qué Variedades de Papa se Utilizan para la Producción?](/es/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Proceso de Producción
 - A simple vista, los procesos de producción de copos de papa y harina de papa parecen similares: las papas frescas se pelan, se cuecen al vapor, se hacen puré y luego se secan. Sin embargo, la principal diferencia en la producción es el método de secado.
@@ -62,7 +62,7 @@ Artículo relacionado: [Copos de Papa | ¿Qué Variedades de Papa se Utilizan pa
 
 ## El Final
 
-Estas son mis comprensiones y resúmenes sobre copos de papa vs harina de papa. También vale la pena mencionar el almidón de papa, que es otro ingrediente alimentario común. Para una comparación del almidón de papa y los copos de papa, puedes leer mi otro artículo: “[Copos de Papa vs Almidón de Papa](/what-are-the-differences-between-potato-flakes-and-starch/).”
+Estas son mis comprensiones y resúmenes sobre copos de papa vs harina de papa. También vale la pena mencionar el almidón de papa, que es otro ingrediente alimentario común. Para una comparación del almidón de papa y los copos de papa, puedes leer mi otro artículo: “[Copos de Papa vs Almidón de Papa](/es/blog/what-are-the-differences-between-potato-flakes-and-starch/).”
 
 Si tienes alguna pregunta o sugerencia para mejorar, por favor contáctame.
 

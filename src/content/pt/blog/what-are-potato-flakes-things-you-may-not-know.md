@@ -24,7 +24,7 @@ O núcleo do processamento de flocos de batata é a secagem em grandes tambores.
 
 Queres saber mais sobre o processamento de flocos de batata? Consulta o meu artigo:
 
-[O que são Flocos de Batata? Como são Feitos os Flocos de Batata?](/what-are-potato-flakes-how-are-potato-flakes-made/)
+[O que são Flocos de Batata? Como são Feitos os Flocos de Batata?](/pt/blog/what-are-potato-flakes-how-are-potato-flakes-made/)
 
 ## Os Principais Usos
 
@@ -59,7 +59,7 @@ Se deitares 100 gramas de água em 20 gramas de flocos de batata, dentro de 1-2 
 
 Os flocos de batata geralmente vêm em variedades branca, amarela e roxa, com intensidades variadas de profundidade de cor devido aos diferentes tipos de matérias-primas de batata fresca utilizadas. Consulta o meu artigo:
 
-[Flocos de Batata | Que Variedades de Batata são usadas para a produção?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+[Flocos de Batata | Que Variedades de Batata são usadas para a produção?](/pt/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Classificação por origem:
 
@@ -73,7 +73,7 @@ Deves considerar vários fatores importantes ao selecionar flocos de batata:
 
 Além dos métodos que mencionei aqui, existe a Norma Nacional Chinesa de Flocos de Batata como referência para a qualidade dos flocos de batata.
 
-[A mais recente Norma Nacional para Flocos de Batata na China em 2024 (em vigor desde 14 de maio)](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+[A mais recente Norma Nacional para Flocos de Batata na China em 2024 (em vigor desde 14 de maio)](/pt/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ### Aspeto:
 
@@ -87,13 +87,13 @@ Conduz um teste simples misturando flocos de batata com água numa proporção d
 
 Requer equipamento especializado ou reagentes para medição, com menor teor de amido indicando flocos de batata de maior qualidade. Para mais detalhes sobre esta relação, consulta o meu artigo:
 
-[Quais São as Diferenças Entre Flocos de Batata e Amido?](/what-are-the-differences-between-potato-flakes-and-starch/)
+[Quais São as Diferenças Entre Flocos de Batata e Amido?](/pt/blog/what-are-the-differences-between-potato-flakes-and-starch/)
 
 ### Marca de flocos de batata:
 
 Devido aos elevados requisitos de produção, apenas fábricas de grande escala podem fabricar flocos de batata. É aconselhável escolher marcas respeitáveis conhecidas por produzir flocos de batata de alta qualidade. Na China, as opções incluem XION, Hongji e Xuechuan, entre outras. Para mais informações, consulta o meu artigo:
 
-[Top 10 Fabricantes de Flocos de Batata na China](/top-10-potato-flakes-manufacturer-in-china/)
+[Top 10 Fabricantes de Flocos de Batata na China](/pt/blog/top-10-potato-flakes-manufacturer-in-china/)
 
 ## Resumo do Autor
 

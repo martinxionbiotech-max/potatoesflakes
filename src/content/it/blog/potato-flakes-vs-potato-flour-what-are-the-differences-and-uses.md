@@ -20,7 +20,7 @@ Esiste anche un tipo di fiocchi di patate che sono stati macinati e setacciati, 
 ### Materie Prime
 La produzione di fiocchi di patate richiede materie prime di qualità superiore, incluse varietà di patate specifiche, dimensioni, contenuto di umidità e freschezza. La farina di patate ha requisiti relativamente inferiori per le materie prime rispetto ai fiocchi di patate, sebbene richieda materie prime di qualità superiore rispetto a quelle utilizzate per produrre l'amido di patate.
 
-Articolo correlato: [Fiocchi di Patate | Quali Varietà di Patate sono utilizzate per la produzione?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+Articolo correlato: [Fiocchi di Patate | Quali Varietà di Patate sono utilizzate per la produzione?](/it/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Processo di Produzione
 - A prima vista, i processi di produzione per fiocchi di patate e farina di patate sembrano simili: le patate fresche vengono sbucciate, cotte al vapore, schiacciate e poi essiccate. Tuttavia, la differenza principale nella produzione è il metodo di essiccazione.
@@ -62,7 +62,7 @@ Articolo correlato: [Fiocchi di Patate | Quali Varietà di Patate sono utilizzat
 
 ## La Fine
 
-Queste sono le mie comprensioni e sintesi su fiocchi di patate vs farina di patate. Vale anche la pena menzionare l'amido di patate, che è un altro ingrediente alimentare comune. Per un confronto tra amido di patate e fiocchi di patate, puoi leggere il mio altro articolo: “[Fiocchi di Patate vs Amido di Patate](/what-are-the-differences-between-potato-flakes-and-starch/).”
+Queste sono le mie comprensioni e sintesi su fiocchi di patate vs farina di patate. Vale anche la pena menzionare l'amido di patate, che è un altro ingrediente alimentare comune. Per un confronto tra amido di patate e fiocchi di patate, puoi leggere il mio altro articolo: “[Fiocchi di Patate vs Amido di Patate](/it/blog/what-are-the-differences-between-potato-flakes-and-starch/).”
 
 Se hai domande o suggerimenti per miglioramenti, contattami.
 

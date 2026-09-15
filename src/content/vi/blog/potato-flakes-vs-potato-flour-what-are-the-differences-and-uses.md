@@ -20,7 +20,7 @@ Cũng có một loại vảy khoai tây đã được nghiền và rây, đượ
 ### Nguyên Liệu Thô
 Việc sản xuất vảy khoai tây đòi hỏi nguyên liệu thô chất lượng cao hơn, bao gồm các giống khoai tây cụ thể, kích thước, độ ẩm và độ tươi. Bột khoai tây có yêu cầu về nguyên liệu thô tương đối thấp hơn so với vảy khoai tây, mặc dù nó đòi hỏi nguyên liệu thô chất lượng cao hơn so với những loại được sử dụng để sản xuất tinh bột khoai tây.
 
-Bài viết liên quan: [Vảy Khoai Tây | Những giống khoai tây nào được sử dụng để sản xuất?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+Bài viết liên quan: [Vảy Khoai Tây | Những giống khoai tây nào được sử dụng để sản xuất?](/vi/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Quy Trình Sản Xuất
 - Thoạt nhìn, quy trình sản xuất vảy khoai tây và bột khoai tây có vẻ giống nhau: khoai tây tươi được gọt vỏ, hấp, nghiền và sau đó sấy khô. Tuy nhiên, sự khác biệt chính trong sản xuất là phương pháp sấy khô.
@@ -62,7 +62,7 @@ Bài viết liên quan: [Vảy Khoai Tây | Những giống khoai tây nào đư
 
 ## Kết Luận
 
-Đây là những hiểu biết và tổng kết của tôi về vảy khoai tây vs bột khoai tây. Cũng cần đề cập đến tinh bột khoai tây, một nguyên liệu thực phẩm phổ biến khác. Để so sánh giữa tinh bột khoai tây và vảy khoai tây, bạn có thể đọc bài viết khác của tôi: “[Vảy Khoai Tây vs Tinh Bột Khoai Tây](/what-are-the-differences-between-potato-flakes-and-starch/).”
+Đây là những hiểu biết và tổng kết của tôi về vảy khoai tây vs bột khoai tây. Cũng cần đề cập đến tinh bột khoai tây, một nguyên liệu thực phẩm phổ biến khác. Để so sánh giữa tinh bột khoai tây và vảy khoai tây, bạn có thể đọc bài viết khác của tôi: “[Vảy Khoai Tây vs Tinh Bột Khoai Tây](/vi/blog/what-are-the-differences-between-potato-flakes-and-starch/).”
 
 Nếu bạn có bất kỳ câu hỏi hoặc đề xuất cải thiện nào, xin vui lòng liên hệ với tôi.
 

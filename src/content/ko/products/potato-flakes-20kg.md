@@ -21,7 +21,7 @@ gallery:
 - ISO 9001, HACCP, BRC와 같은 품질 인증을 보유하고 있습니다.
 - 색상은 순백색으로, 대부분의 고객 요구 사항이기도 합니다.
 - 성숙도는 90% 이상으로, 베이킹 및 식품 가공에 더 적합합니다.
-- 제품 표준: SB/T 10752-2012. 데이터 출처: https://std.samr.gov.cn/. [참조 텍스트](/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)를 읽어 보세요.
+- 제품 표준: SB/T 10752-2012. 데이터 출처: https://std.samr.gov.cn/. [참조 텍스트](/ko/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)를 읽어 보세요.
 
 ## 특징
 

@@ -32,7 +32,7 @@ Banyak pengilang serpihan kentang besar mempunyai pelbagai kilang di seluruh dun
 
 Kualiti bahan mentah kentang adalah faktor teras yang mempengaruhi kualiti serpihan kentang. Baca artikel saya:
 
-["Serpihan Kentang | Varieti Kentang Apa yang Digunakan untuk Pengeluaran?"](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+["Serpihan Kentang | Varieti Kentang Apa yang Digunakan untuk Pengeluaran?"](/ms/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 Kualiti teras produk berasal daripada bahan mentah, walaupun pelarasan pengeluaran boleh dibuat melalui parameter peralatan. Sebagai contoh, menggunakan lebih 80% kentang Atlantic berkualiti tinggi sebagai bahan mentah memastikan ketulenan tinggi dan warna yang baik, dengan kentang ini mengandungi 24% atau lebih bahan kering, menghasilkan serpihan kentang yang sangat berkualiti.
 

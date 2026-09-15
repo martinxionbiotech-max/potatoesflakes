@@ -20,7 +20,7 @@ Ayrıca öğütülmüş ve elenmiş, öğütülmüş patates pulları olarak bil
 ### Hammadde
 Patates pulu üretimi, belirli patates çeşitleri, boyut, nem içeriği ve tazelik dahil olmak üzere daha yüksek kaliteli hammaddeler gerektirir. Patates ununun hammadde gereksinimleri patates pullarına kıyasla nispeten daha düşüktür, ancak patates nişastası üretmek için kullanılanlardan daha yüksek kaliteli hammaddeler gerektirir.
 
-İlgili makale: [Patates Pulu | Üretimde Hangi Patates Çeşitleri Kullanılır?](/potato-flakes-what-potato-varieties-are-used-for-the-production/)
+İlgili makale: [Patates Pulu | Üretimde Hangi Patates Çeşitleri Kullanılır?](/tr/blog/potato-flakes-what-potato-varieties-are-used-for-the-production/)
 
 ### Üretim Süreci
 - İlk bakışta, patates pulları ve patates unu için üretim süreçleri benzer görünür: taze patatesler soyulur, buharda pişirilir, püre haline getirilir ve ardından kurutulur. Ancak üretimdeki ana fark, kurutma yöntemidir.
@@ -62,7 +62,7 @@ Patates pulu üretimi, belirli patates çeşitleri, boyut, nem içeriği ve taze
 
 ## Sonuç
 
-Bunlar, patates pulları vs patates unu hakkındaki anlayışlarım ve özetlerimdir. Başka bir yaygın gıda bileşeni olan patates nişastasından da bahsetmeye değer. Patates nişastası ve patates pullarının karşılaştırması için diğer makalemi okuyabilirsiniz: "[Patates Pulu vs Patates Nişastası](/what-are-the-differences-between-potato-flakes-and-starch/)."
+Bunlar, patates pulları vs patates unu hakkındaki anlayışlarım ve özetlerimdir. Başka bir yaygın gıda bileşeni olan patates nişastasından da bahsetmeye değer. Patates nişastası ve patates pullarının karşılaştırması için diğer makalemi okuyabilirsiniz: "[Patates Pulu vs Patates Nişastası](/tr/blog/what-are-the-differences-between-potato-flakes-and-starch/)."
 
 Herhangi bir sorunuz veya iyileştirme öneriniz varsa, lütfen benimle iletişime geçin.
 
