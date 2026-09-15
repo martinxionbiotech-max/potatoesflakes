@@ -31,6 +31,8 @@ const posts = (await getCollection(`${lang.code}_blog`)).sort((a, b) => {
   canonical={`/${lang.code}/blog/`}
   currentLang={lang.code}
   relPath="blog/"
+  pageType="CollectionPage"
+  crumbName={ui.blog}
 >
   <Header lang={lang.code} />
   <section class="container-x py-14">
@@ -56,4 +58,18 @@ const posts = (await getCollection(`${lang.code}_blog`)).sort((a, b) => {
     </div>
   </section>
   <Footer lang={lang.code} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': `https://www.potatoesflakes.com/${lang.code}/blog/#list`,
+    name: ui.blog,
+    numberOfItems: posts.length,
+    itemListElement: posts.map((post, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: post.data.title,
+      url: `https://www.potatoesflakes.com/${lang.code}/blog/${post.id}/`,
+    })),
+  })} />
 </BaseLayout>

@@ -18,6 +18,12 @@ interface Props {
   currentLang?: string;
   /** 当前页面的相对路径（不含语言前缀，如 product/xxx/），用于拼接各语言 URL */
   relPath?: string;
+  /** schema.org @type for the WebPage node (WebPage / ItemPage / CollectionPage / Blog / AboutPage…) */
+  pageType?: string;
+  /** Breadcrumb trail below Home, e.g. [{ name: 'Product', href: '/product/' }] */
+  breadcrumbs?: { name: string; href: string }[];
+  /** Label for the final breadcrumb when it differs from the title */
+  crumbName?: string;
 }
 
 const {
@@ -30,12 +36,35 @@ const {
   locale = 'en_US',
   currentLang,
   relPath,
+  pageType = 'WebPage',
+  breadcrumbs = [],
+  crumbName,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://www.potatoesflakes.com');
 const siteUrl = site.toString().replace(/\/$/, '');
 const canonicalUrl = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
 const ogImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
+const pageId = canonicalUrl.replace(/\/+$/, '') + '/#webpage';
+
+// BreadcrumbList: Home → intermediate trails → current page
+const crumbList: any[] = [
+  { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+  ...breadcrumbs.map((b, i) => ({
+    '@type': 'ListItem',
+    position: i + 2,
+    name: b.name,
+    item: b.href.startsWith('http') ? b.href : `${siteUrl}${b.href}`,
+  })),
+];
+if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
+  crumbList.push({
+    '@type': 'ListItem',
+    position: crumbList.length + 1,
+    name: crumbName ?? title,
+    item: canonicalUrl,
+  });
+}
 ---
 
 <!doctype html>
@@ -75,29 +104,69 @@ const ogImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
 
-    <!-- Organization JSON-LD -->
+    <!-- Organization / WebSite / WebPage / BreadcrumbList JSON-LD -->
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
-      '@type': 'Organization',
-      '@id': `${siteUrl}/#organization`,
-      name: 'XION Potato Flakes Manufacturer',
-      alternateName: 'DinWeys Biotech Co., Ltd',
-      url: siteUrl,
-      logo: `${siteUrl}/wp-content/uploads/2026/06/logo.png`,
-      contactPoint: {
-        '@type': 'ContactPoint',
-        telephone: '+86 400-633-0616',
-        contactType: 'sales',
-        email: 'Ashelyhongjigroupllc@gmail.com',
-      },
-      address: {
-        '@type': 'PostalAddress',
-        streetAddress: '3# building, high tech new town, North Silicon Valley Qiaodong District',
-        addressLocality: 'Zhangjiakou City',
-        addressRegion: 'Hebei',
-        addressCountry: 'CN',
-      },
-      sameAs: [],
+      '@graph': [
+        {
+          '@type': 'Organization',
+          '@id': `${siteUrl}/#organization`,
+          name: 'XION Potato Flakes Manufacturer',
+          alternateName: 'DinWeys Biotech Co., Ltd',
+          url: siteUrl,
+          logo: {
+            '@type': 'ImageObject',
+            url: `${siteUrl}/wp-content/uploads/2026/06/logo.png`,
+          },
+          contactPoint: [
+            {
+              '@type': 'ContactPoint',
+              telephone: '+86 400-633-0616',
+              contactType: 'sales',
+              email: 'Ashelyhongjigroupllc@gmail.com',
+              availableLanguage: ['en', 'zh'],
+              areaServed: 'Worldwide',
+            },
+          ],
+          address: {
+            '@type': 'PostalAddress',
+            streetAddress: '3# building, high tech new town, North Silicon Valley Qiaodong District',
+            addressLocality: 'Zhangjiakou City',
+            addressRegion: 'Hebei',
+            addressCountry: 'CN',
+          },
+          hasCredential: [
+            { '@type': 'Certification', name: 'FSSC 22000 food safety system certification' },
+            { '@type': 'Certification', name: 'ISO 9001 quality management system' },
+            { '@type': 'Certification', name: 'ISO 22000 food safety management system' },
+            { '@type': 'Certification', name: 'HACCP food safety certification' },
+            { '@type': 'Certification', name: 'BRC food safety certification' },
+            { '@type': 'Certification', name: 'Halal certification' },
+          ],
+        },
+        {
+          '@type': 'WebSite',
+          '@id': `${siteUrl}/#website`,
+          url: siteUrl,
+          name: 'XION Potato Flakes Manufacturer',
+          publisher: { '@id': `${siteUrl}/#organization` },
+        },
+        {
+          '@type': pageType,
+          '@id': pageId,
+          url: canonicalUrl,
+          name: title,
+          description: description,
+          inLanguage: lang,
+          isPartOf: { '@id': `${siteUrl}/#website` },
+          about: { '@id': `${siteUrl}/#organization` },
+        },
+        {
+          '@type': 'BreadcrumbList',
+          '@id': `${canonicalUrl}#breadcrumbs`,
+          itemListElement: crumbList,
+        },
+      ],
     })} />
   </head>
   <body class="min-h-screen bg-white">

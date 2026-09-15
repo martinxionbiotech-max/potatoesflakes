@@ -28,6 +28,8 @@ const categories = Object.entries(ui.productCategories).map(([slug, c]) => ({ sl
   canonical={`/${lang.code}/product/`}
   currentLang={lang.code}
   relPath="product/"
+  pageType="CollectionPage"
+  crumbName={ui.products}
 >
   <Header lang={lang.code} />
   <section class="container-x py-14">
@@ -61,4 +63,18 @@ const categories = Object.entries(ui.productCategories).map(([slug, c]) => ({ sl
     })}
   </section>
   <Footer lang={lang.code} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': `https://www.potatoesflakes.com/${lang.code}/product/#list`,
+    name: ui.products,
+    numberOfItems: products.length,
+    itemListElement: products.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.data.title,
+      url: `https://www.potatoesflakes.com/${lang.code}/product/${p.id}/`,
+    })),
+  })} />
 </BaseLayout>

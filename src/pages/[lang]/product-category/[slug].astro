@@ -25,7 +25,7 @@ const { lang, cat, products } = Astro.props;
 const ui = UI[lang.code];
 ---
 
-<BaseLayout title={cat.name} description={cat.desc} lang={lang.htmlLang} locale={lang.ogLocale} currentLang={lang.code} relPath={`product-category/${cat.slug}/`}>
+<BaseLayout title={cat.name} description={cat.desc} lang={lang.htmlLang} locale={lang.ogLocale} currentLang={lang.code} relPath={`product-category/${cat.slug}/`} pageType="CollectionPage" crumbName={cat.name} breadcrumbs={[{ name: ui.products, href: `/${lang.code}/product/` }]}>
   <Header lang={lang.code} />
   <section class="container-x py-14">
     <nav class="mb-4 text-sm text-gray-500">
@@ -56,4 +56,18 @@ const ui = UI[lang.code];
     </div>
   </section>
   <Footer lang={lang.code} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': `https://www.potatoesflakes.com/${lang.code}/product-category/${cat.slug}/#list`,
+    name: cat.name,
+    numberOfItems: products.length,
+    itemListElement: products.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.data.title,
+      url: `https://www.potatoesflakes.com/${lang.code}/product/${p.id}/`,
+    })),
+  })} />
 </BaseLayout>

@@ -15,18 +15,56 @@ export async function getStaticPaths() {
 const { product } = Astro.props;
 const { Content } = await render(product);
 
+const siteUrl = 'https://www.potatoesflakes.com';
+const productUrl = `${siteUrl}/product/${product.slug}/`;
+// 主图 + 图库（图库字段不含 /wp-content 前缀）
+const productImages = [
+  product.data.image,
+  ...(product.data.gallery ?? []).map((g) => `/wp-content/${g}`),
+]
+  .filter(Boolean)
+  .map((p) => (p!.startsWith('http') ? p! : `${siteUrl}${p}`));
+
 const productSchema = {
   '@context': 'https://schema.org',
   '@type': 'Product',
+  '@id': `${productUrl}#product`,
   name: product.data.title,
+  url: productUrl,
   description: product.data.description,
   sku: product.data.sku || undefined,
-  image: product.data.image ? `https://www.potatoesflakes.com${product.data.image}` : undefined,
+  image: productImages.length > 0 ? productImages : undefined,
+  category: product.data.categoryName,
   brand: {
     '@type': 'Brand',
+    '@id': `${siteUrl}/#brand`,
     name: 'XION',
   },
-  category: product.data.categoryName,
+  manufacturer: { '@id': `${siteUrl}/#organization` },
+  mainEntityOfPage: { '@id': `${productUrl}#webpage` },
+  // B2B：面向食品厂/分销商/OEM 采购方
+  audience: {
+    '@type': 'BusinessAudience',
+    audienceType: 'Food manufacturers, importers, distributors and OEM / private-label buyers',
+  },
+  additionalProperty: [
+    { '@type': 'PropertyValue', name: 'Product category', value: product.data.categoryName },
+    {
+      '@type': 'PropertyValue',
+      name: 'Supply model',
+      value: 'Bulk B2B supply by quotation — MOQ, packaging and lead time on request',
+    },
+  ],
+  // 询单模式（站点无在线定价：购物车页明确说明为静态产品目录，需联系报价）
+  offers: {
+    '@type': 'Offer',
+    '@id': `${productUrl}#offer`,
+    url: `${siteUrl}/contact/`,
+    availability: 'https://schema.org/InStock',
+    itemCondition: 'https://schema.org/NewCondition',
+    businessFunction: 'http://purl.org/goodrelations/v1#Sell',
+    seller: { '@id': `${siteUrl}/#organization` },
+  },
 };
 ---
 
@@ -36,6 +74,12 @@ const productSchema = {
   image={product.data.image}
   type="product"
   canonical={`/product/${product.slug}/`}
+  pageType="ItemPage"
+  crumbName={product.data.title}
+  breadcrumbs={[
+    { name: 'Product', href: '/product/' },
+    { name: product.data.categoryName, href: `/product-category/${product.data.category}/` },
+  ]}
 >
   <Header />
   <article class="container-x py-12">

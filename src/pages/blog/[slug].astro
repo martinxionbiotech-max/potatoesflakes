@@ -15,21 +15,25 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 
+const siteUrl = 'https://www.potatoesflakes.com';
+const postUrl = `${siteUrl}/blog/${post.slug}/`;
+
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
+  '@id': `${postUrl}#article`,
   headline: post.data.title,
   description: post.data.description,
-  image: post.data.image ? `https://www.potatoesflakes.com${post.data.image}` : undefined,
+  url: postUrl,
+  image: post.data.image ? `${siteUrl}${post.data.image}` : undefined,
   datePublished: post.data.pubDate || undefined,
-  author: {
-    '@type': 'Organization',
-    name: 'XION Potato Flakes Manufacturer',
-  },
-  publisher: {
-    '@type': 'Organization',
-    name: 'XION Potato Flakes Manufacturer',
-  },
+  inLanguage: 'en',
+  articleSection: post.data.category || undefined,
+  mainEntityOfPage: { '@id': `${postUrl}#webpage` },
+  isPartOf: { '@id': `${siteUrl}/#website` },
+  // 署名与发布方统一指向站内 Organization 实体（@id 复用），保证实体可解析
+  author: { '@id': `${siteUrl}/#organization` },
+  publisher: { '@id': `${siteUrl}/#organization` },
 };
 ---
 
@@ -39,6 +43,8 @@ const articleSchema = {
   image={post.data.image}
   type="article"
   canonical={`/blog/${post.slug}/`}
+  crumbName={post.data.title}
+  breadcrumbs={[{ name: 'Blog', href: '/blog/' }]}
 >
   <Header />
   <article class="container-x py-12">

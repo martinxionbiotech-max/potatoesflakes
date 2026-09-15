@@ -24,21 +24,24 @@ const { post, lang } = Astro.props;
 const { Content } = await render(post);
 const ui = UI[lang.code];
 
+const siteUrl = 'https://www.potatoesflakes.com';
+const postUrl = `${siteUrl}/${lang.code}/blog/${post.id}/`;
+
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
+  '@id': `${postUrl}#article`,
   headline: post.data.title,
   description: post.data.description,
-  image: post.data.image ? `https://www.potatoesflakes.com${post.data.image}` : undefined,
+  url: postUrl,
+  image: post.data.image ? `${siteUrl}${post.data.image}` : undefined,
   datePublished: post.data.pubDate || undefined,
-  author: {
-    '@type': 'Organization',
-    name: 'XION Potato Flakes Manufacturer',
-  },
-  publisher: {
-    '@type': 'Organization',
-    name: 'XION Potato Flakes Manufacturer',
-  },
+  inLanguage: lang.htmlLang,
+  articleSection: post.data.category || undefined,
+  mainEntityOfPage: { '@id': `${postUrl}#webpage` },
+  isPartOf: { '@id': `${siteUrl}/#website` },
+  author: { '@id': `${siteUrl}/#organization` },
+  publisher: { '@id': `${siteUrl}/#organization` },
 };
 ---
 
@@ -52,6 +55,8 @@ const articleSchema = {
   canonical={`/${lang.code}/blog/${post.id}/`}
   currentLang={lang.code}
   relPath={`blog/${post.id}/`}
+  crumbName={post.data.title}
+  breadcrumbs={[{ name: ui.blog, href: `/${lang.code}/blog/` }]}
 >
   <Header lang={lang.code} />
   <article class="container-x py-12">

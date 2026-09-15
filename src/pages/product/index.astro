@@ -18,6 +18,8 @@ const categories = [
 <BaseLayout
   title="Products"
   description="Browse XION's complete range of potato flakes, instant mashed potatoes, frozen french fries, seed potatoes and potato starch."
+  pageType="CollectionPage"
+  crumbName="Products"
 >
   <Header />
   <section class="container-x py-14">
@@ -51,4 +53,18 @@ const categories = [
     })}
   </section>
   <Footer />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': 'https://www.potatoesflakes.com/product/#list',
+    name: 'XION potato flakes, instant mashed potato and frozen french fries range',
+    numberOfItems: products.length,
+    itemListElement: products.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.data.title,
+      url: `https://www.potatoesflakes.com/product/${p.slug}/`,
+    })),
+  })} />
 </BaseLayout>

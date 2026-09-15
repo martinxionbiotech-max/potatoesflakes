@@ -24,18 +24,54 @@ const { product, lang } = Astro.props;
 const { Content } = await render(product);
 const ui = UI[lang.code];
 
+const siteUrl = 'https://www.potatoesflakes.com';
+const productUrl = `${siteUrl}/${lang.code}/product/${product.id}/`;
+const productImages = [
+  product.data.image,
+  ...(product.data.gallery ?? []).map((g) => `/wp-content/${g}`),
+]
+  .filter(Boolean)
+  .map((p) => (p!.startsWith('http') ? p! : `${siteUrl}${p}`));
+
 const productSchema = {
   '@context': 'https://schema.org',
   '@type': 'Product',
+  '@id': `${productUrl}#product`,
   name: product.data.title,
+  url: productUrl,
   description: product.data.description,
   sku: product.data.sku || undefined,
-  image: product.data.image ? `https://www.potatoesflakes.com${product.data.image}` : undefined,
+  image: productImages.length > 0 ? productImages : undefined,
+  category: product.data.categoryName,
   brand: {
     '@type': 'Brand',
+    '@id': `${siteUrl}/#brand`,
     name: 'XION',
   },
-  category: product.data.categoryName,
+  manufacturer: { '@id': `${siteUrl}/#organization` },
+  mainEntityOfPage: { '@id': `${productUrl}#webpage` },
+  audience: {
+    '@type': 'BusinessAudience',
+    audienceType: 'Food manufacturers, importers, distributors and OEM / private-label buyers',
+  },
+  additionalProperty: [
+    { '@type': 'PropertyValue', name: 'Product category', value: product.data.categoryName },
+    {
+      '@type': 'PropertyValue',
+      name: 'Supply model',
+      value: 'Bulk B2B supply by quotation — MOQ, packaging and lead time on request',
+    },
+  ],
+  // 询单模式（站点无在线定价）
+  offers: {
+    '@type': 'Offer',
+    '@id': `${productUrl}#offer`,
+    url: `${siteUrl}/${lang.code}/contact/`,
+    availability: 'https://schema.org/InStock',
+    itemCondition: 'https://schema.org/NewCondition',
+    businessFunction: 'http://purl.org/goodrelations/v1#Sell',
+    seller: { '@id': `${siteUrl}/#organization` },
+  },
 };
 ---
 
@@ -49,6 +85,12 @@ const productSchema = {
   canonical={`/${lang.code}/product/${product.id}/`}
   currentLang={lang.code}
   relPath={`product/${product.id}/`}
+  pageType="ItemPage"
+  crumbName={product.data.title}
+  breadcrumbs={[
+    { name: ui.products, href: `/${lang.code}/product/` },
+    { name: product.data.categoryName, href: `/${lang.code}/product-category/${product.data.category}/` },
+  ]}
 >
   <Header lang={lang.code} />
   <article class="container-x py-12">

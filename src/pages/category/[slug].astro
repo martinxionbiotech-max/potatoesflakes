@@ -25,7 +25,13 @@ export async function getStaticPaths() {
 const { cat, posts } = Astro.props;
 ---
 
-<BaseLayout title={cat.name} description={cat.desc}>
+<BaseLayout
+  title={cat.name}
+  description={cat.desc}
+  pageType="CollectionPage"
+  crumbName={cat.name}
+  breadcrumbs={[{ name: 'Blog', href: '/blog/' }]}
+>
   <Header />
   <section class="container-x py-14">
     <nav class="mb-4 text-sm text-gray-500">
@@ -57,4 +63,18 @@ const { cat, posts } = Astro.props;
     </div>
   </section>
   <Footer />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': `https://www.potatoesflakes.com/category/${cat.slug}/#list`,
+    name: cat.name,
+    numberOfItems: posts.length,
+    itemListElement: posts.map((post, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: post.data.title,
+      url: `https://www.potatoesflakes.com/blog/${post.slug}/`,
+    })),
+  })} />
 </BaseLayout>
