@@ -29,3 +29,12 @@ We are one of the few registered enterprises in China for the export of potato w
 - 2015: Our small-packaged products became the number one hot-selling mashed potato flour product on Taobao.
 - 2017: We further expanded our production scale.
 - 2018-Present: We have continued steady development, focusing on improving product quality, reducing costs, and creating the greatest value for our customers.
+
+### Who writes the technical content on this site
+
+The guides, product documentation and industry articles on this site are written and reviewed by
+**XION Tech Team** — the production, quality-assurance and export team at XION / DinWeys Biotech.
+Between them the team covers potato flakes and instant mashed potato production, frozen french fries,
+potato starch, food-safety and certification work (FSSC 22000, ISO 22000, HACCP, BRC, Halal), and
+OEM / private-label packing. Every technical article carries this attribution and is reviewed before
+it goes live.

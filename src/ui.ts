@@ -7,6 +7,8 @@ export interface UIDict {
   requestQuote: string;
   oemCustom: string;
   publishedDate: string;
+  /** Article byline label (e.g. "By") used before the XION Tech Team attribution */
+  byline: string;
   skuLabel: string;
   noImage: string;
   productsIntro: string;
@@ -44,6 +46,7 @@ const en: UIDict = {
   requestQuote: 'Request a Quote',
   oemCustom: 'OEM / Custom',
   publishedDate: 'Published',
+  byline: 'By',
   skuLabel: 'SKU',
   noImage: 'No image',
   productsIntro: 'Potato flakes and flavored instant mashed potatoes are our core products.',
@@ -111,6 +114,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "索取報價",
   "oemCustom": "OEM / 定制",
   "publishedDate": "發布日期",
+  "byline": "由",
   "skuLabel": "貨號",
   "noImage": "沒有圖片",
   "productsIntro": "薯粉片及調味即食薯蓉係我哋嘅核心產品。",
@@ -199,6 +203,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "Yêu cầu báo giá",
   "oemCustom": "OEM / Tùy chỉnh",
   "publishedDate": "Ngày xuất bản",
+  "byline": "Bởi",
   "skuLabel": "Mã SKU",
   "noImage": "Không có hình ảnh",
   "productsIntro": "Vảy khoai tây và khoai tây nghiền hòa tan có hương vị là sản phẩm cốt lõi của chúng tôi.",
@@ -287,6 +292,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "ขอใบเสนอราคา",
   "oemCustom": "OEM / ตามสั่ง",
   "publishedDate": "เผยแพร่เมื่อ",
+  "byline": "โดย",
   "skuLabel": "SKU",
   "noImage": "ไม่มีรูปภาพ",
   "productsIntro": "เกล็ดมันฝรั่งและมันฝรั่งบดสำเร็จรูปปรุงรสเป็นผลิตภัณฑ์หลักของเรา",
@@ -375,6 +381,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "Richiedi un preventivo",
   "oemCustom": "OEM / Personalizzato",
   "publishedDate": "Pubblicato",
+  "byline": "A cura di",
   "skuLabel": "SKU",
   "noImage": "Nessuna immagine",
   "productsIntro": "I fiocchi di patata e il purè di patate istantaneo aromatizzato sono i nostri prodotti principali.",
@@ -463,6 +470,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "見積もりを依頼する",
   "oemCustom": "OEM / カスタム",
   "publishedDate": "公開日",
+  "byline": "執筆",
   "skuLabel": "SKU",
   "noImage": "画像なし",
   "productsIntro": "ポテトフレークとフレーバー付きインスタントマッシュポテトが当社の主力製品です。",
@@ -551,6 +559,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "Teklif İste",
   "oemCustom": "OEM / Özel",
   "publishedDate": "Yayınlanma",
+  "byline": "Yazan",
   "skuLabel": "SKU",
   "noImage": "Görsel yok",
   "productsIntro": "Patates pulları ve aromalı hazır patates püresi ana ürünlerimizdir.",
@@ -639,6 +648,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "Solicitar um Orçamento",
   "oemCustom": "OEM / Personalizado",
   "publishedDate": "Publicado",
+  "byline": "Por",
   "skuLabel": "SKU",
   "noImage": "Sem imagem",
   "productsIntro": "Flocos de batata e puré de batata instantâneo com sabor são os nossos produtos principais.",
@@ -727,6 +737,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "Solicitar presupuesto",
   "oemCustom": "OEM / Personalizado",
   "publishedDate": "Publicado",
+  "byline": "Por",
   "skuLabel": "SKU",
   "noImage": "Sin imagen",
   "productsIntro": "Los copos de patata y el puré de patatas instantáneo con sabor son nuestros productos principales.",
@@ -815,6 +826,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "درخواست قیمت",
   "oemCustom": "OEM / سفارشی",
   "publishedDate": "منتشر شده",
+  "byline": "توسط",
   "skuLabel": "SKU",
   "noImage": "بدون تصویر",
   "productsIntro": "پرک سیب‌زمینی و پوره سیب‌زمینی فوری طعم‌دار محصولات اصلی ما هستند.",
@@ -903,6 +915,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "견적 요청",
   "oemCustom": "OEM / 맞춤 제작",
   "publishedDate": "게시일",
+  "byline": "작성",
   "skuLabel": "SKU",
   "noImage": "이미지 없음",
   "productsIntro": "감자 플레이크와 향이 나는 인스턴트 매시드 포테이토가 당사의 핵심 제품입니다.",
@@ -991,6 +1004,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "Minta Sebut Harga",
   "oemCustom": "OEM / Tersuai",
   "publishedDate": "Diterbitkan",
+  "byline": "Oleh",
   "skuLabel": "SKU",
   "noImage": "Tiada imej",
   "productsIntro": "Kepingan kentang dan kentang lenyek segera berperisa adalah produk teras kami.",
@@ -1079,6 +1093,7 @@ const translations: Record<string, UIDict> = {
   "requestQuote": "اطلب عرض سعر",
   "oemCustom": "OEM / مخصص",
   "publishedDate": "تاريخ النشر",
+  "byline": "بقلم",
   "skuLabel": "رمز SKU",
   "noImage": "لا توجد صورة",
   "productsIntro": "رقائق البطاطس والبطاطس المهروسة الفورية المنكهة هي منتجاتنا الأساسية.",

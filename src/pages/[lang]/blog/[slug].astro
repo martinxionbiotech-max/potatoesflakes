@@ -40,7 +40,7 @@ const articleSchema = {
   articleSection: post.data.category || undefined,
   mainEntityOfPage: { '@id': `${postUrl}#webpage` },
   isPartOf: { '@id': `${siteUrl}/#website` },
-  author: { '@id': `${siteUrl}/#organization` },
+  author: { '@id': `${siteUrl}/about-us/#team` },
   publisher: { '@id': `${siteUrl}/#organization` },
 };
 ---
@@ -67,7 +67,10 @@ const articleSchema = {
         <a href={`/${lang.code}/blog/`} class="hover:text-brand-600">{ui.blog}</a>
       </nav>
       <h1 class="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl">{post.data.title}</h1>
-      {post.data.pubDate && <p class="mt-3 text-sm text-gray-500">{ui.publishedDate}: {post.data.pubDate}</p>}
+      <p class="mt-3 text-sm text-gray-500">
+        {ui.byline} <strong class="font-medium text-gray-700">XION Tech Team</strong>
+        {post.data.pubDate && <> · {ui.publishedDate}: {post.data.pubDate}</>}
+      </p>
       {post.data.image && (
         <img src={post.data.image} alt={post.data.title} class="mt-6 w-full rounded-2xl shadow-md" loading="eager" />
       )}

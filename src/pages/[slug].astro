@@ -14,6 +14,11 @@ export async function getStaticPaths() {
 
 const { page } = Astro.props;
 const { Content } = await render(page);
+const PAGE_TYPES: Record<string, string> = {
+  'about-us': 'AboutPage',
+  contact: 'ContactPage',
+};
+const pageType = PAGE_TYPES[page.slug] ?? 'WebPage';
 ---
 
 <BaseLayout
@@ -21,6 +26,8 @@ const { Content } = await render(page);
   description={page.data.description}
   type="website"
   canonical={`/${page.slug}/`}
+  pageType={pageType}
+  crumbName={page.data.title}
 >
   <Header />
   <article class="container-x py-12">

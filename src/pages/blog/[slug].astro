@@ -31,8 +31,8 @@ const articleSchema = {
   articleSection: post.data.category || undefined,
   mainEntityOfPage: { '@id': `${postUrl}#webpage` },
   isPartOf: { '@id': `${siteUrl}/#website` },
-  // 署名与发布方统一指向站内 Organization 实体（@id 复用），保证实体可解析
-  author: { '@id': `${siteUrl}/#organization` },
+  // 署名：团队实体 XION Tech Team（@id 在 BaseLayout @graph 中定义）
+  author: { '@id': `${siteUrl}/about-us/#team` },
   publisher: { '@id': `${siteUrl}/#organization` },
 };
 ---
@@ -55,7 +55,10 @@ const articleSchema = {
         <a href="/blog/" class="hover:text-brand-600">Blog</a>
       </nav>
       <h1 class="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl">{post.data.title}</h1>
-      {post.data.pubDate && <p class="mt-3 text-sm text-gray-500">Published: {post.data.pubDate}</p>}
+      <p class="mt-3 text-sm text-gray-500">
+        By <strong class="font-medium text-gray-700">XION Tech Team</strong>
+        {post.data.pubDate && <> · Published: {post.data.pubDate}</>}
+      </p>
       {post.data.image && (
         <img src={post.data.image} alt={post.data.title} class="mt-6 w-full rounded-2xl shadow-md" loading="eager" />
       )}

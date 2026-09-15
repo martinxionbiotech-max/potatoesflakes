@@ -156,6 +156,24 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
           publisher: { '@id': `${siteUrl}/#organization` },
         },
         {
+          // EEAT：站点技术内容的署名实体（团队署名）
+          '@type': 'Organization',
+          '@id': `${siteUrl}/about-us/#team`,
+          name: 'XION Tech Team',
+          description:
+            'The production, quality-assurance and export team at XION / DinWeys Biotech that researches, writes and reviews the technical content on this site.',
+          url: `${siteUrl}/about-us/`,
+          parentOrganization: { '@id': `${siteUrl}/#organization` },
+          knowsAbout: [
+            'Potato flakes manufacturing',
+            'Instant mashed potato (dehydrated) production',
+            'Frozen french fries',
+            'Potato starch',
+            'Food safety certification (FSSC 22000, ISO 22000, HACCP, BRC)',
+            'OEM / private-label packing',
+          ],
+        },
+        {
           '@type': pageType,
           '@id': pageId,
           url: canonicalUrl,
