@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
-import { getPriceRange } from '../../pricing';
+import { formatPriceRange, getPriceRange } from '../../pricing';
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -63,7 +63,7 @@ const productSchema = {
           {
             '@type': 'PropertyValue',
             name: 'Reference price range',
-            value: `USD ${price.low.toLocaleString('en-US')}–${price.high.toLocaleString('en-US')} ${price.unit} (${price.moq})`,
+            value: formatPriceRange(price),
           },
         ]
       : [],
@@ -145,7 +145,7 @@ const productSchema = {
           price && (
             <p class="mt-4 text-sm text-gray-600">
               <span class="font-semibold text-gray-900">Reference price:</span>{' '}
-              USD {price.low.toLocaleString('en-US')}–{price.high.toLocaleString('en-US')} {price.unit} ({price.moq}) — final
+              USD {price.low.toLocaleString('en-US')}–{price.high.toLocaleString('en-US')} {price.unit}{price.moq ? ` (${price.moq})` : ''} — final
               quotation on request.
             </p>
           )
