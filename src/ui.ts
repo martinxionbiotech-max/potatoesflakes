@@ -11,6 +11,10 @@ export interface UIDict {
   byline: string;
   skuLabel: string;
   noImage: string;
+  /** 参考价格区间标签（B2B 询单模式，页面可见） */
+  referencePrice: string;
+  /** 参考价备注：最终报价以询价为准 */
+  quoteNote: string;
   productsIntro: string;
   blogIntro: string;
   // 站点导航项（Header 用）
@@ -49,6 +53,8 @@ const en: UIDict = {
   byline: 'By',
   skuLabel: 'SKU',
   noImage: 'No image',
+  referencePrice: 'Reference price',
+  quoteNote: 'final quotation on request',
   productsIntro: 'Potato flakes and flavored instant mashed potatoes are our core products.',
   blogIntro: 'Potato flakes guides, recipes and industry insights.',
   nav: {
@@ -117,6 +123,8 @@ const translations: Record<string, UIDict> = {
   "byline": "由",
   "skuLabel": "貨號",
   "noImage": "沒有圖片",
+  "referencePrice": "參考價格",
+  "quoteNote": "最終報價請查詢",
   "productsIntro": "薯粉片及調味即食薯蓉係我哋嘅核心產品。",
   "blogIntro": "薯粉片指南、食譜及行業見解。",
   "nav": {
@@ -206,6 +214,8 @@ const translations: Record<string, UIDict> = {
   "byline": "Bởi",
   "skuLabel": "Mã SKU",
   "noImage": "Không có hình ảnh",
+  "referencePrice": "Giá tham khảo",
+  "quoteNote": "báo giá cuối cùng theo yêu cầu",
   "productsIntro": "Vảy khoai tây và khoai tây nghiền hòa tan có hương vị là sản phẩm cốt lõi của chúng tôi.",
   "blogIntro": "Hướng dẫn về vảy khoai tây, công thức nấu ăn và hiểu biết sâu sắc về ngành.",
   "nav": {
@@ -295,6 +305,8 @@ const translations: Record<string, UIDict> = {
   "byline": "โดย",
   "skuLabel": "SKU",
   "noImage": "ไม่มีรูปภาพ",
+  "referencePrice": "ราคาอ้างอิง",
+  "quoteNote": "ราคาสุดท้ายตามคำขอ",
   "productsIntro": "เกล็ดมันฝรั่งและมันฝรั่งบดสำเร็จรูปปรุงรสเป็นผลิตภัณฑ์หลักของเรา",
   "blogIntro": "คำแนะนำเกี่ยวกับเกล็ดมันฝรั่ง สูตรอาหาร และข้อมูลเชิงลึกในอุตสาหกรรม",
   "nav": {
@@ -384,6 +396,8 @@ const translations: Record<string, UIDict> = {
   "byline": "A cura di",
   "skuLabel": "SKU",
   "noImage": "Nessuna immagine",
+  "referencePrice": "Prezzo di riferimento",
+  "quoteNote": "preventivo finale su richiesta",
   "productsIntro": "I fiocchi di patata e il purè di patate istantaneo aromatizzato sono i nostri prodotti principali.",
   "blogIntro": "Guide sui fiocchi di patata, ricette e approfondimenti del settore.",
   "nav": {
@@ -473,6 +487,8 @@ const translations: Record<string, UIDict> = {
   "byline": "執筆",
   "skuLabel": "SKU",
   "noImage": "画像なし",
+  "referencePrice": "参考価格",
+  "quoteNote": "正式見積はお問い合わせください",
   "productsIntro": "ポテトフレークとフレーバー付きインスタントマッシュポテトが当社の主力製品です。",
   "blogIntro": "ポテトフレークのガイド、レシピ、業界情報。",
   "nav": {
@@ -562,6 +578,8 @@ const translations: Record<string, UIDict> = {
   "byline": "Yazan",
   "skuLabel": "SKU",
   "noImage": "Görsel yok",
+  "referencePrice": "Referans fiyat",
+  "quoteNote": "talep üzerine nihai fiyat teklifi",
   "productsIntro": "Patates pulları ve aromalı hazır patates püresi ana ürünlerimizdir.",
   "blogIntro": "Patates pulları rehberleri, tarifler ve sektör içgörüleri.",
   "nav": {
@@ -651,6 +669,8 @@ const translations: Record<string, UIDict> = {
   "byline": "Por",
   "skuLabel": "SKU",
   "noImage": "Sem imagem",
+  "referencePrice": "Preço de referência",
+  "quoteNote": "cotação final sob consulta",
   "productsIntro": "Flocos de batata e puré de batata instantâneo com sabor são os nossos produtos principais.",
   "blogIntro": "Guias de flocos de batata, receitas e informações do setor.",
   "nav": {
@@ -740,6 +760,8 @@ const translations: Record<string, UIDict> = {
   "byline": "Por",
   "skuLabel": "SKU",
   "noImage": "Sin imagen",
+  "referencePrice": "Precio de referencia",
+  "quoteNote": "cotización final bajo pedido",
   "productsIntro": "Los copos de patata y el puré de patatas instantáneo con sabor son nuestros productos principales.",
   "blogIntro": "Guías de copos de patata, recetas y perspectivas de la industria.",
   "nav": {
@@ -829,6 +851,8 @@ const translations: Record<string, UIDict> = {
   "byline": "توسط",
   "skuLabel": "SKU",
   "noImage": "بدون تصویر",
+  "referencePrice": "قیمت مرجع",
+  "quoteNote": "قیمت نهایی در صورت درخواست",
   "productsIntro": "پرک سیب‌زمینی و پوره سیب‌زمینی فوری طعم‌دار محصولات اصلی ما هستند.",
   "blogIntro": "راهنماهای پرک سیب‌زمینی، دستور پخت و بینش‌های صنعت.",
   "nav": {
@@ -918,6 +942,8 @@ const translations: Record<string, UIDict> = {
   "byline": "작성",
   "skuLabel": "SKU",
   "noImage": "이미지 없음",
+  "referencePrice": "참고 가격",
+  "quoteNote": "최종 견적은 문의 시 제공",
   "productsIntro": "감자 플레이크와 향이 나는 인스턴트 매시드 포테이토가 당사의 핵심 제품입니다.",
   "blogIntro": "감자 플레이크 가이드, 레시피 및 업계 인사이트.",
   "nav": {
@@ -1007,6 +1033,8 @@ const translations: Record<string, UIDict> = {
   "byline": "Oleh",
   "skuLabel": "SKU",
   "noImage": "Tiada imej",
+  "referencePrice": "Harga rujukan",
+  "quoteNote": "sebut harga akhir atas permintaan",
   "productsIntro": "Kepingan kentang dan kentang lenyek segera berperisa adalah produk teras kami.",
   "blogIntro": "Panduan kepingan kentang, resipi dan pandangan industri.",
   "nav": {
@@ -1096,6 +1124,8 @@ const translations: Record<string, UIDict> = {
   "byline": "بقلم",
   "skuLabel": "رمز SKU",
   "noImage": "لا توجد صورة",
+  "referencePrice": "السعر المرجعي",
+  "quoteNote": "التسعير النهائي عند الطلب",
   "productsIntro": "رقائق البطاطس والبطاطس المهروسة الفورية المنكهة هي منتجاتنا الأساسية.",
   "blogIntro": "أدلة رقائق البطاطس ووصفات ورؤى صناعية.",
   "nav": {

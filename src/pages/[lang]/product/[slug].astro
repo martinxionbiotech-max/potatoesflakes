@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
+import { getPriceRange } from '../../../pricing';
 import { LANGUAGES, getLang } from '../../../languages';
 import { UI } from '../../../ui';
 
@@ -23,6 +24,8 @@ export async function getStaticPaths() {
 const { product, lang } = Astro.props;
 const { Content } = await render(product);
 const ui = UI[lang.code];
+
+const price = getPriceRange(product.data.category);
 
 const siteUrl = 'https://www.potatoesflakes.com';
 const productUrl = `${siteUrl}/${lang.code}/product/${product.id}/`;
@@ -61,17 +64,41 @@ const productSchema = {
       name: 'Supply model',
       value: 'Bulk B2B supply by quotation — MOQ, packaging and lead time on request',
     },
-  ],
-  // 询单模式（站点无在线定价）
-  offers: {
-    '@type': 'Offer',
-    '@id': `${productUrl}#offer`,
-    url: `${siteUrl}/${lang.code}/contact/`,
-    availability: 'https://schema.org/InStock',
-    itemCondition: 'https://schema.org/NewCondition',
-    businessFunction: 'http://purl.org/goodrelations/v1#Sell',
-    seller: { '@id': `${siteUrl}/#organization` },
-  },
+  ].concat(
+    price
+      ? [
+          {
+            '@type': 'PropertyValue',
+            name: 'Reference price range',
+            value: `USD ${price.low.toLocaleString('en-US')}–${price.high.toLocaleString('en-US')} ${price.unit} (${price.moq})`,
+          },
+        ]
+      : [],
+  ),
+  // B2B 询单模式：已公布参考价格区间的分类用 AggregateOffer（GSC 商家信息要求数值价格），
+  // 未公布价格的分类保留询单型 Offer（不带 price，不编造）。
+  offers: price
+    ? {
+        '@type': 'AggregateOffer',
+        '@id': `${productUrl}#offer`,
+        url: productUrl,
+        priceCurrency: 'USD',
+        lowPrice: price.low,
+        highPrice: price.high,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        businessFunction: 'http://purl.org/goodrelations/v1#Sell',
+        seller: { '@id': `${siteUrl}/#organization` },
+      }
+    : {
+        '@type': 'Offer',
+        '@id': `${productUrl}#offer`,
+        url: `${siteUrl}/${lang.code}/contact/`,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        businessFunction: 'http://purl.org/goodrelations/v1#Sell',
+        seller: { '@id': `${siteUrl}/#organization` },
+      },
 };
 ---
 
@@ -124,6 +151,14 @@ const productSchema = {
           <a href={`/${lang.code}/contact/`} class="btn-primary">{ui.requestQuote}</a>
           <a href={`/${lang.code}/services/`} class="btn-ghost">{ui.oemCustom}</a>
         </div>
+        {
+          price && (
+            <p class="mt-4 text-sm text-gray-600">
+              <span class="font-semibold text-gray-900">{ui.referencePrice}:</span>{' '}
+              USD {price.low.toLocaleString('en-US')}–{price.high.toLocaleString('en-US')} {price.unit} ({price.moq}) — {ui.quoteNote}.
+            </p>
+          )
+        }
         <div class="prose prose-lg mt-8 max-w-none">
           <Content />
         </div>
