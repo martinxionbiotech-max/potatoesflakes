@@ -85,6 +85,16 @@ const productSchema = {
         priceCurrency: 'USD',
         lowPrice: price.low,
         highPrice: price.high,
+        // GSC「应指定 price 或 priceSpecification.price（在 offers 中）」：
+        // AggregateOffer 的 lowPrice/highPrice 不被该验证接受，需显式给出 priceSpecification.price。
+        priceSpecification: {
+          '@type': 'UnitPriceSpecification',
+          price: price.low,
+          minPrice: price.low,
+          maxPrice: price.high,
+          priceCurrency: 'USD',
+          unitText: price.unit,
+        },
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         businessFunction: 'http://purl.org/goodrelations/v1#Sell',
