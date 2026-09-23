@@ -85,7 +85,7 @@ the duration of a page visit).
 
 * Website refers to Xion [Potato Flakes](/) Expert, accessible from
 
-<https://www.potatoesflakes.com/>
+<https://potatoesflakes.com/>
 
 * You means the individual accessing or using the Service, or the company,
 
@@ -546,6 +546,6 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By visiting this page on our website:
 
-[https://www.potatoesflakes.com/privacy-policy/
+[https://potatoesflakes.com/privacy-policy/
 
-](https://www.potatoesflakes.com/privacy-policy/)
+](https://potatoesflakes.com/privacy-policy/)

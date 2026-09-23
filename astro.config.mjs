@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://www.potatoesflakes.com',
+  site: 'https://potatoesflakes.com',
   integrations: [
     tailwind({
       applyBaseStyles: false,

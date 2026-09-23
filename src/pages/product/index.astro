@@ -57,14 +57,14 @@ const categories = [
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    '@id': 'https://www.potatoesflakes.com/product/#list',
+    '@id': 'https://potatoesflakes.com/product/#list',
     name: 'XION potato flakes, instant mashed potato and frozen french fries range',
     numberOfItems: products.length,
     itemListElement: products.map((p, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: p.data.title,
-      url: `https://www.potatoesflakes.com/product/${p.slug}/`,
+      url: `https://potatoesflakes.com/product/${p.slug}/`,
     })),
   })} />
 </BaseLayout>

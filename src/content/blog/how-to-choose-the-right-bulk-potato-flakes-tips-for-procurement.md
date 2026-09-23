@@ -66,7 +66,7 @@ After obtaining samples, conduct small-scale trials in the lab according to your
 
 ### Product Prices
 
-Price is a significant concern when procuring potato flakes. From my experience and market observation, the reasonable price range for Chinese-produced potato flakes is 1650 USD to 2000 USD per ton. However, due to external factors and a significant rise in raw material prices, prices have recently increased to 2300 USD per ton, posing challenges for small and medium buyers. Our industry forecast suggests prices may decrease, though unforeseen factors could prevent a return to the reasonable range.
+Price is a significant concern when procuring potato flakes. From my experience and market observation, the price range published on our product pages for Chinese-produced potato flakes is 1200 USD to 1600 USD per ton. However, due to external factors and a significant rise in raw material prices, prices have recently increased to 2300 USD per ton, posing challenges for small and medium buyers. Our industry forecast suggests prices may decrease, though unforeseen factors could prevent a return to the reasonable range.
 
 ## Product Transportation
 

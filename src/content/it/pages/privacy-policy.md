@@ -81,7 +81,7 @@ Servizio o per assistere l'Azienda nell'analisi di come viene utilizzato il Serv
 
 * Sito Web si riferisce a Xion [Fiocchi di Patate](/) Expert, accessibile da
 
-<https://www.potatoesflakes.com/>
+<https://potatoesflakes.com/>
 
 * Lei indica l'individuo che accede o utilizza il Servizio, o l'azienda,
 
@@ -484,6 +484,6 @@ Se ha domande su questa Informativa sulla Privacy, può contattarCi:
 
 * Visitando questa pagina sul nostro sito web:
 
-[https://www.potatoesflakes.com/privacy-policy/
+[https://potatoesflakes.com/privacy-policy/
 
-](https://www.potatoesflakes.com/privacy-policy/)
+](https://potatoesflakes.com/privacy-policy/)

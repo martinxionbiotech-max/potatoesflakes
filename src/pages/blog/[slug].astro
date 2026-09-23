@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 
-const siteUrl = 'https://www.potatoesflakes.com';
+const siteUrl = 'https://potatoesflakes.com';
 const postUrl = `${siteUrl}/blog/${post.slug}/`;
 
 const articleSchema = {

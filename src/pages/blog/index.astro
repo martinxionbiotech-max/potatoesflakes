@@ -45,14 +45,14 @@ const posts = (await getCollection('blog')).sort((a, b) => {
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    '@id': 'https://www.potatoesflakes.com/blog/#list',
+    '@id': 'https://potatoesflakes.com/blog/#list',
     name: 'XION potato flakes and mashed potato blog',
     numberOfItems: posts.length,
     itemListElement: posts.map((post, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: post.data.title,
-      url: `https://www.potatoesflakes.com/blog/${post.slug}/`,
+      url: `https://potatoesflakes.com/blog/${post.slug}/`,
     })),
   })} />
 </BaseLayout>

@@ -66,7 +66,7 @@ Após obter as amostras, realize ensaios em pequena escala no laboratório de ac
 
 ### Preços do Produto
 
-O preço é uma preocupação significativa ao adquirir flocos de batata. Pela minha experiência e observação do mercado, a faixa de preço razoável para flocos de batata produzidos na China é de 1650 USD a 2000 USD por tonelada. No entanto, devido a fatores externos e a um aumento significativo nos preços das matérias-primas, os preços aumentaram recentemente para 2300 USD por tonelada, representando desafios para compradores pequenos e médios. A nossa previsão do setor sugere que os preços podem diminuir, embora fatores imprevistos possam impedir um retorno à faixa razoável.
+O preço é uma preocupação significativa ao adquirir flocos de batata. Pela minha experiência e observação do mercado, a faixa de preço razoável para flocos de batata produzidos na China é de 1200 USD a 1600 USD por tonelada. No entanto, devido a fatores externos e a um aumento significativo nos preços das matérias-primas, os preços aumentaram recentemente para 2300 USD por tonelada, representando desafios para compradores pequenos e médios. A nossa previsão do setor sugere que os preços podem diminuir, embora fatores imprevistos possam impedir um retorno à faixa razoável.
 
 ## Transporte do Produto
 

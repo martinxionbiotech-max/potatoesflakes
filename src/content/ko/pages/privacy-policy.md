@@ -29,7 +29,7 @@ description: "XION 감자 플레이크 제조업체 개인정보 처리방침"
 * 서비스(Service)는 웹사이트를 의미합니다.
 * 서비스 제공자(Service Provider)는 회사를 대신하여 데이터를 처리하는 모든 자연인 또는 법인을 의미합니다. 서비스를 용이하게 하기 위해, 회사를 대신하여 서비스를 제공하기 위해, 서비스와 관련된 서비스를 수행하기 위해, 또는 회사가 서비스가 어떻게 사용되는지 분석하는 것을 돕기 위해 회사가 고용한 제3자 회사 또는 개인을 의미합니다.
 * 사용 데이터(Usage Data)는 서비스 사용으로 생성되거나 서비스 인프라 자체(예: 페이지 방문 기간)에서 자동으로 수집되는 데이터를 의미합니다.
-* 웹사이트(Website)는 <https://www.potatoesflakes.com/>에서 접근 가능한 Xion [감자 플레이크](/) 전문 사이트를 의미합니다.
+* 웹사이트(Website)는 <https://potatoesflakes.com/>에서 접근 가능한 Xion [감자 플레이크](/) 전문 사이트를 의미합니다.
 * 귀하(You)는 서비스에 접근하거나 사용하는 개인, 또는 해당 개인이 대신하여 서비스에 접근하거나 사용하는 회사 또는 기타 법인을 의미합니다.
 
 ## 귀하의 개인 데이터 수집 및 사용
@@ -188,4 +188,4 @@ description: "XION 감자 플레이크 제조업체 개인정보 처리방침"
 본 개인정보 처리방침에 대해 질문이 있는 경우 다음 방법으로 문의하실 수 있습니다:
 
 * 당사 웹사이트의 이 페이지를 방문하여:
-[https://www.potatoesflakes.com/privacy-policy/](https://www.potatoesflakes.com/privacy-policy/)
+[https://potatoesflakes.com/privacy-policy/](https://potatoesflakes.com/privacy-policy/)

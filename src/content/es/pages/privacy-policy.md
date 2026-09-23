@@ -85,7 +85,7 @@ la duración de una visita a una página).
 
 * Sitio Web se refiere a Xion [Copos de Patata](/) Experto, accesible desde
 
-<https://www.potatoesflakes.com/>
+<https://potatoesflakes.com/>
 
 * Usted significa el individuo que accede o utiliza el Servicio, o la empresa,
 
@@ -529,6 +529,6 @@ Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos:
 
 * Visitando esta página en nuestro sitio web:
 
-[https://www.potatoesflakes.com/privacy-policy/
+[https://potatoesflakes.com/privacy-policy/
 
-](https://www.potatoesflakes.com/privacy-policy/)
+](https://potatoesflakes.com/privacy-policy/)

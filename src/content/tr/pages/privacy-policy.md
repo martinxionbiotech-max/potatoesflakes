@@ -29,7 +29,7 @@ Bu Gizlilik Politikası için:
 * Hizmet, Web Sitesini ifade eder.
 * Hizmet Sağlayıcı, verileri Şirket adına işleyen herhangi bir gerçek veya tüzel kişiyi ifade eder. Hizmeti kolaylaştırmak, Hizmeti Şirket adına sağlamak, Hizmetle ilgili hizmetleri yürütmek veya Şirketin Hizmetin nasıl kullanıldığını analiz etmesine yardımcı olmak için Şirket tarafından istihdam edilen üçüncü taraf şirketleri veya kişileri ifade eder.
 * Kullanım Verileri, Hizmetin kullanımından veya Hizmet altyapısının kendisinden (örneğin, bir sayfa ziyaretinin süresi) otomatik olarak toplanan verileri ifade eder.
-* Web Sitesi, <https://www.potatoesflakes.com/> adresinden erişilebilen Xion [Patates Pul](/) Uzmanı'nı ifade eder.
+* Web Sitesi, <https://potatoesflakes.com/> adresinden erişilebilen Xion [Patates Pul](/) Uzmanı'nı ifade eder.
 * Siz, Hizmete erişen veya Hizmeti kullanan bireyi veya bu bireyin adına Hizmete eriştiği veya Hizmeti kullandığı şirketi veya diğer tüzel kişiyi ifade eder.
 
 Kişisel Verilerinizin Toplanması ve Kullanılması

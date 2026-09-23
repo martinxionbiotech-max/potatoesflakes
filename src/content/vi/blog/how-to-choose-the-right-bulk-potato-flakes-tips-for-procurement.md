@@ -66,7 +66,7 @@ Sau khi có mẫu, tiến hành thử nghiệm quy mô nhỏ trong phòng thí n
 
 ### Giá Sản Phẩm
 
-Giá cả là một mối quan tâm lớn khi thu mua vảy khoai tây. Theo kinh nghiệm và quan sát thị trường của tôi, mức giá hợp lý cho vảy khoai tây sản xuất tại Trung Quốc là từ 1650 USD đến 2000 USD mỗi tấn. Tuy nhiên, do các yếu tố bên ngoài và giá nguyên liệu thô tăng đáng kể, giá gần đây đã tăng lên 2300 USD mỗi tấn, gây ra thách thức cho người mua nhỏ và vừa. Dự báo ngành của chúng tôi cho thấy giá có thể giảm, mặc dù các yếu tố không lường trước được có thể ngăn chặn việc quay trở lại mức giá hợp lý.
+Giá cả là một mối quan tâm lớn khi thu mua vảy khoai tây. Theo kinh nghiệm và quan sát thị trường của tôi, mức giá hợp lý cho vảy khoai tây sản xuất tại Trung Quốc là từ 1200 USD đến 1600 USD mỗi tấn. Tuy nhiên, do các yếu tố bên ngoài và giá nguyên liệu thô tăng đáng kể, giá gần đây đã tăng lên 2300 USD mỗi tấn, gây ra thách thức cho người mua nhỏ và vừa. Dự báo ngành của chúng tôi cho thấy giá có thể giảm, mặc dù các yếu tố không lường trước được có thể ngăn chặn việc quay trở lại mức giá hợp lý.
 
 ## Vận Chuyển Sản Phẩm
 

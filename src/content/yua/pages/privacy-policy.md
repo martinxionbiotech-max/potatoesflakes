@@ -39,7 +39,7 @@ description: "私隱政策 XION 薯片製造商"
 
 * 使用數據 指自動收集嘅數據，可能係使用服務時產生，或者嚟自服務基礎設施本身（例如，頁面瀏覽時間）。
 
-* 網站 指 Xion [薯片](/yua/) 專家，可從 <https://www.potatoesflakes.com/> 存取。
+* 網站 指 Xion [薯片](/yua/) 專家，可從 <https://potatoesflakes.com/> 存取。
 
 * 你 指存取或使用服務嘅個人，或代表該個人存取或使用服務嘅公司或其他法律實體（視情況而定）。
 
@@ -212,4 +212,4 @@ Cookies 可以係「持久性」或「工作階段」Cookies。持久性 Cookies
 如果你對本私隱政策有任何疑問，你可以透過以下方式聯絡我哋：
 
 * 瀏覽我哋網站上嘅此頁面：
-[https://www.potatoesflakes.com/privacy-policy/](https://www.potatoesflakes.com/privacy-policy/)
+[https://potatoesflakes.com/privacy-policy/](https://potatoesflakes.com/privacy-policy/)

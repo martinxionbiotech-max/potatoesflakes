@@ -67,14 +67,14 @@ const ui = UI[lang.code];
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    '@id': `https://www.potatoesflakes.com/${lang.code}/category/${cat.slug}/#list`,
+    '@id': `https://potatoesflakes.com/${lang.code}/category/${cat.slug}/#list`,
     name: cat.name,
     numberOfItems: posts.length,
     itemListElement: posts.map((post, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: post.data.title,
-      url: `https://www.potatoesflakes.com/${lang.code}/blog/${post.id}/`,
+      url: `https://potatoesflakes.com/${lang.code}/blog/${post.id}/`,
     })),
   })} />
 </BaseLayout>

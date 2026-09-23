@@ -66,7 +66,7 @@ Dopo aver ottenuto i campioni, conduci prove su piccola scala in laboratorio sec
 
 ### Prezzi dei Prodotti
 
-Il prezzo è una preoccupazione significativa quando si acquistano fiocchi di patate. Dalla mia esperienza e osservazione del mercato, l'intervallo di prezzo ragionevole per i fiocchi di patate prodotti in Cina è di 1650 USD a 2000 USD per tonnellata. Tuttavia, a causa di fattori esterni e di un aumento significativo dei prezzi delle materie prime, i prezzi sono recentemente saliti a 2300 USD per tonnellata, ponendo sfide per i piccoli e medi acquirenti. Le nostre previsioni di settore suggeriscono che i prezzi potrebbero diminuire, sebbene fattori imprevisti potrebbero impedire un ritorno all'intervallo ragionevole.
+Il prezzo è una preoccupazione significativa quando si acquistano fiocchi di patate. Dalla mia esperienza e osservazione del mercato, l'intervallo di prezzo ragionevole per i fiocchi di patate prodotti in Cina è di 1200 USD a 1600 USD per tonnellata. Tuttavia, a causa di fattori esterni e di un aumento significativo dei prezzi delle materie prime, i prezzi sono recentemente saliti a 2300 USD per tonnellata, ponendo sfide per i piccoli e medi acquirenti. Le nostre previsioni di settore suggeriscono che i prezzi potrebbero diminuire, sebbene fattori imprevisti potrebbero impedire un ritorno all'intervallo ragionevole.
 
 ## Trasporto del Prodotto
 

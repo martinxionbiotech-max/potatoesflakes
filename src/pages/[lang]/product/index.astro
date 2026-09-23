@@ -67,14 +67,14 @@ const categories = Object.entries(ui.productCategories).map(([slug, c]) => ({ sl
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    '@id': `https://www.potatoesflakes.com/${lang.code}/product/#list`,
+    '@id': `https://potatoesflakes.com/${lang.code}/product/#list`,
     name: ui.products,
     numberOfItems: products.length,
     itemListElement: products.map((p, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: p.data.title,
-      url: `https://www.potatoesflakes.com/${lang.code}/product/${p.id}/`,
+      url: `https://potatoesflakes.com/${lang.code}/product/${p.id}/`,
     })),
   })} />
 </BaseLayout>

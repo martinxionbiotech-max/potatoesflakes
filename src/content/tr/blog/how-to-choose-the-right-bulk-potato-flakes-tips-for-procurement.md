@@ -66,7 +66,7 @@ Numuneleri aldıktan sonra, ürün geliştirme gereksinimlerinize göre laboratu
 
 ### Ürün Fiyatları
 
-Fiyat, patates püresi pulları tedarik ederken önemli bir endişe kaynağıdır. Deneyimlerime ve piyasa gözlemlerime göre, Çin yapımı patates püresi pulları için makul fiyat aralığı ton başına 1650 USD ile 2000 USD arasındadır. Ancak, dış faktörler ve hammadde fiyatlarındaki önemli artış nedeniyle fiyatlar son zamanlarda ton başına 2300 USD'ye yükselmiştir ve bu da küçük ve orta ölçekli alıcılar için zorluklar yaratmaktadır. Sektör tahminimiz fiyatların düşebileceğini göstermektedir, ancak öngörülemeyen faktörler makul aralığa dönüşü engelleyebilir.
+Fiyat, patates püresi pulları tedarik ederken önemli bir endişe kaynağıdır. Deneyimlerime ve piyasa gözlemlerime göre, Çin yapımı patates püresi pulları için makul fiyat aralığı ton başına 1200 USD ile 1600 USD arasındadır. Ancak, dış faktörler ve hammadde fiyatlarındaki önemli artış nedeniyle fiyatlar son zamanlarda ton başına 2300 USD'ye yükselmiştir ve bu da küçük ve orta ölçekli alıcılar için zorluklar yaratmaktadır. Sektör tahminimiz fiyatların düşebileceğini göstermektedir, ancak öngörülemeyen faktörler makul aralığa dönüşü engelleyebilir.
 
 ## Ürün Taşımacılığı
 

@@ -29,7 +29,7 @@ Các từ có chữ cái đầu được viết hoa có ý nghĩa được xác 
 * Dịch vụ đề cập đến Trang web.
 * Nhà cung cấp Dịch vụ có nghĩa là bất kỳ cá nhân hoặc tổ chức pháp lý nào xử lý dữ liệu thay mặt cho Công ty. Điều này đề cập đến các công ty hoặc cá nhân bên thứ ba được Công ty thuê để tạo điều kiện cho Dịch vụ, cung cấp Dịch vụ thay mặt cho Công ty, thực hiện các dịch vụ liên quan đến Dịch vụ hoặc hỗ trợ Công ty phân tích cách Dịch vụ được sử dụng.
 * Dữ liệu Sử dụng đề cập đến dữ liệu được thu thập tự động, được tạo ra từ việc sử dụng Dịch vụ hoặc từ chính cơ sở hạ tầng của Dịch vụ (ví dụ: thời lượng truy cập một trang).
-* Trang web đề cập đến Chuyên gia [Vảy Khoai Tây](/) Xion, có thể truy cập từ <https://www.potatoesflakes.com/>
+* Trang web đề cập đến Chuyên gia [Vảy Khoai Tây](/) Xion, có thể truy cập từ <https://potatoesflakes.com/>
 * Bạn có nghĩa là cá nhân truy cập hoặc sử dụng Dịch vụ, hoặc công ty hoặc tổ chức pháp lý khác thay mặt cho cá nhân đó truy cập hoặc sử dụng Dịch vụ, nếu có.
 
 Thu thập và Sử dụng Dữ liệu Cá nhân của Bạn

@@ -66,7 +66,7 @@ Después de obtener muestras, realiza pruebas a pequeña escala en el laboratori
 
 ### Precios del Producto
 
-El precio es una preocupación significativa al adquirir copos de papa. Por mi experiencia y observación del mercado, el rango de precios razonable para copos de papa producidos en China es de 1650 USD a 2000 USD por tonelada. Sin embargo, debido a factores externos y un aumento significativo en los precios de las materias primas, los precios han aumentado recientemente a 2300 USD por tonelada, lo que plantea desafíos para los compradores pequeños y medianos. Nuestro pronóstico de la industria sugiere que los precios pueden disminuir, aunque factores imprevistos podrían impedir un retorno al rango razonable.
+El precio es una preocupación significativa al adquirir copos de papa. Por mi experiencia y observación del mercado, el rango de precios razonable para copos de papa producidos en China es de 1200 USD a 1600 USD por tonelada. Sin embargo, debido a factores externos y un aumento significativo en los precios de las materias primas, los precios han aumentado recientemente a 2300 USD por tonelada, lo que plantea desafíos para los compradores pequeños y medianos. Nuestro pronóstico de la industria sugiere que los precios pueden disminuir, aunque factores imprevistos podrían impedir un retorno al rango razonable.
 
 ## Transporte del Producto
 

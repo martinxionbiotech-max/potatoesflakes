@@ -81,7 +81,7 @@ tempoh lawatan halaman).
 
 * Laman Web merujuk kepada Xion [Potato Flakes](/) Expert, boleh diakses dari
 
-<https://www.potatoesflakes.com/>
+<https://potatoesflakes.com/>
 
 * Anda bermaksud individu yang mengakses atau menggunakan Perkhidmatan, atau syarikat,
 
@@ -507,4 +507,4 @@ Jika anda mempunyai sebarang soalan tentang Dasar Privasi ini, Anda boleh menghu
 
 * Dengan melawati halaman ini di laman web kami:
 
-[https://www.potatoesflakes.com/privacy-policy/](https://www.potatoesflakes.com/privacy-policy/)
+[https://potatoesflakes.com/privacy-policy/](https://potatoesflakes.com/privacy-policy/)

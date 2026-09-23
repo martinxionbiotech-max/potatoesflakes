@@ -29,7 +29,7 @@ Para efeitos desta Política de Privacidade:
 * **Serviço** refere-se ao Website.
 * **Prestador de Serviços** significa qualquer pessoa singular ou coletiva que processa os dados em nome da Empresa. Refere-se a empresas terceiras ou indivíduos empregados pela Empresa para facilitar o Serviço, fornecer o Serviço em nome da Empresa, executar serviços relacionados com o Serviço ou ajudar a Empresa a analisar como o Serviço é utilizado.
 * **Dados de Utilização** referem-se a dados recolhidos automaticamente, gerados pela utilização do Serviço ou pela própria infraestrutura do Serviço (por exemplo, a duração de uma visita a uma página).
-* **Website** refere-se a Xion [Flocos de Batata](/) Especialista, acessível em <https://www.potatoesflakes.com/>
+* **Website** refere-se a Xion [Flocos de Batata](/) Especialista, acessível em <https://potatoesflakes.com/>
 * **Você** significa o indivíduo que acede ou utiliza o Serviço, ou a empresa, ou outra entidade legal em nome da qual esse indivíduo acede ou utiliza o Serviço, conforme aplicável.
 
 Recolha e Utilização dos Seus Dados Pessoais
@@ -189,4 +189,4 @@ Se tiver alguma dúvida sobre esta Política de Privacidade, pode contactar-nos:
 
 * Visitando esta página no nosso website:
 
-[https://www.potatoesflakes.com/privacy-policy/](https://www.potatoesflakes.com/privacy-policy/)
+[https://potatoesflakes.com/privacy-policy/](https://potatoesflakes.com/privacy-policy/)

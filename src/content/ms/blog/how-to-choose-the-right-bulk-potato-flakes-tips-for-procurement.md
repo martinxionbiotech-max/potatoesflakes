@@ -66,7 +66,7 @@ Selepas mendapatkan sampel, jalankan percubaan skala kecil di makmal mengikut ke
 
 ### Harga Produk
 
-Harga adalah kebimbangan penting semasa memperoleh serpihan kentang. Dari pengalaman dan pemerhatian pasaran saya, julat harga yang munasabah untuk serpihan kentang buatan China ialah 1650 USD hingga 2000 USD setiap tan. Walau bagaimanapun, disebabkan faktor luaran dan kenaikan ketara harga bahan mentah, harga baru-baru ini meningkat kepada 2300 USD setiap tan, menimbulkan cabaran kepada pembeli kecil dan sederhana. Ramalan industri kami mencadangkan harga mungkin menurun, walaupun faktor yang tidak dijangka boleh menghalang kembali ke julat yang munasabah.
+Harga adalah kebimbangan penting semasa memperoleh serpihan kentang. Dari pengalaman dan pemerhatian pasaran saya, julat harga yang munasabah untuk serpihan kentang buatan China ialah 1200 USD hingga 1600 USD setiap tan. Walau bagaimanapun, disebabkan faktor luaran dan kenaikan ketara harga bahan mentah, harga baru-baru ini meningkat kepada 2300 USD setiap tan, menimbulkan cabaran kepada pembeli kecil dan sederhana. Ramalan industri kami mencadangkan harga mungkin menurun, walaupun faktor yang tidak dijangka boleh menghalang kembali ke julat yang munasabah.
 
 ## Pengangkutan Produk
 

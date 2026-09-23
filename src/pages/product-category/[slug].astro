@@ -63,14 +63,14 @@ const { cat, products } = Astro.props;
   <script type="application/ld+json" set:html={JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    '@id': `https://www.potatoesflakes.com/product-category/${cat.slug}/#list`,
+    '@id': `https://potatoesflakes.com/product-category/${cat.slug}/#list`,
     name: cat.name,
     numberOfItems: products.length,
     itemListElement: products.map((p, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: p.data.title,
-      url: `https://www.potatoesflakes.com/product/${p.slug}/`,
+      url: `https://potatoesflakes.com/product/${p.slug}/`,
     })),
   })} />
 </BaseLayout>
