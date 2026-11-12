@@ -1,6 +1,6 @@
 ---
 title: "O que são Flocos de Batata? Coisas que Podes Não Saber"
-description: "O que são Flocos de Batata? Coisas que Podes Não Saber"
+description: "Os flocos de batata são o produto final obtido após o processamento de batatas frescas através de uma série de etapas, incluindo limpeza, descasque, cozedura…"
 pubDate: "2024-07-06"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/potato-flakes-2.png"

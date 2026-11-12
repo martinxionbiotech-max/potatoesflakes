@@ -1,6 +1,6 @@
 ---
 title: "1/4\" Donmuş Patates Kızartması Zhongda Meicheng Çeyrek Boy"
-description: "1/4\" Donmuş Patates Kızartması Zhongda Meicheng Çeyrek Boy XION Patates Püresi Üreticisi"
+description: "McCain donmuş patates kızartması, McDonald's ve KFC ile aynıdır; mükemmel bir tada sahiptir ve birçok ülkeye ihraç edilmektedir."
 category: "frozen-french-fries"
 categoryName: "Donmuş Patates Kızartması"
 sku: "8121"

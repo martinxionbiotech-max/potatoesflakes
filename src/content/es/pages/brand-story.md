@@ -1,6 +1,6 @@
 ---
 title: "Historia de la Marca"
-description: "Historia de la Marca XION Fabricante de Copos de Papa"
+description: "Cada año, a finales de septiembre, la Meseta de Bashang en Zhangjiakou, Hebei, se llena de actividad. Un gran número de trabajadores se reúne aquí para…"
 ---
 
 ## Nuestra Historia

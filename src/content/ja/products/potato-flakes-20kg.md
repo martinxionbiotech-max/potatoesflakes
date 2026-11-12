@@ -1,6 +1,6 @@
 ---
 title: "XION 標準バルク即席ポテトフレーク"
-description: "XION 標準バルク即席ポテトフレーク XION ポテトフレークメーカー"
+description: "お客様のご要望に応じて、中国国内で必要な包装資材をカスタマイズできます。 - 御社から製品を購入するにはどうすればよいですか？"
 category: "potato-flakes"
 categoryName: "バルクポテトフレーク"
 sku: "5833"

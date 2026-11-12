@@ -1,6 +1,6 @@
 ---
 title: "감자 플레이크는 상할까요? 올바른 보관 방법"
-description: "감자 플레이크는 상할까요? 올바른 보관 방법 XION 감자 플레이크 제조업체"
+description: "일반적으로 감자 플레이크는 산업 표준 SB/T10752-2012에 따라 생산된 탈수 감자 제품입니다. 최종 제품의 수분 함량은 8% 미만입니다. 이 낮은 수분 함량 덕분에 감자 플레이크는 매우 긴 유통기한을 가지며, 대부분의 경우 올바르게 보관하면 쉽게 상하지 않습니다. 하지만…"
 pubDate: "2024-07-26"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/xion-mashed-potatoes-scaled.jpg"

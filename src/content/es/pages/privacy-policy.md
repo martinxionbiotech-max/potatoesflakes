@@ -1,6 +1,6 @@
 ---
 title: "Política de Privacidad"
-description: "Política de Privacidad XION Fabricante de Copos de Patata"
+description: "Esta Política de Privacidad describe Nuestras políticas y procedimientos sobre la recopilación,"
 ---
 
 ## Política de Privacidad

@@ -1,6 +1,6 @@
 ---
 title: "1/4\" 냉동 감자튀김 중대매성 1/4 사이즈"
-description: "1/4\" 냉동 감자튀김 중대매성 1/4 사이즈 XION 감자 플레이크 제조업체"
+description: "McCain 냉동 감자튀김은 맥도날드 및 KFC와 동일하며, 뛰어난 맛을 자랑하고 여러 국가로 수출됩니다."
 category: "frozen-french-fries"
 categoryName: "냉동 감자튀김"
 sku: "8121"

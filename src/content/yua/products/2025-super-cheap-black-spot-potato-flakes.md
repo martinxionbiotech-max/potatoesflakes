@@ -1,6 +1,6 @@
 ---
 title: "2025 超平價黑點薯仔薄片"
-description: "2025 超平價黑點薯仔薄片 XION 薯仔薄片製造商"
+description: "2025 超平價黑點薯仔薄片。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "potato-flakes"
 categoryName: "散裝薯仔薄片"
 sku: "8151"

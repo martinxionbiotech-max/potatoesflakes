@@ -1,6 +1,6 @@
 ---
 title: "XION Boxed Potato Flakes Mashed Potatoes OEM Supply"
-description: "XION Boxed Potato Flakes Mashed Potatoes OEM Supply XION Potato Flakes Manufacturer"
+description: "White card paper with a higher weight (e.g., above 300 g/㎡) performs better in terms of load capacity."
 category: "instant-mashed-potato"
 categoryName: "Bulk Instant Mashed Potatoes OEM"
 sku: "7971"

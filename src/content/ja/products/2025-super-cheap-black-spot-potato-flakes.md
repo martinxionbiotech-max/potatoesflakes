@@ -1,6 +1,6 @@
 ---
 title: "2025年超安価ブラックスポットポテトフレーク"
-description: "2025年超安価ブラックスポットポテトフレーク XIONポテトフレークメーカー"
+description: "2025年超安価ブラックスポットポテトフレーク。XION（DinWeys Biotech）が中国河北省で製造する業務用ジャガイモ製品。仕様・包装・最小ロットはお問い合わせください。"
 category: "potato-flakes"
 categoryName: "バルクポテトフレーク"
 sku: "8151"

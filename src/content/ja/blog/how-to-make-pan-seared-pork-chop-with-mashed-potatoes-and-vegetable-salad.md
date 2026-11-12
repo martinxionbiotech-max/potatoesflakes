@@ -1,6 +1,6 @@
 ---
 title: "パン焼きポークチョップの作り方：マッシュポテトと野菜サラダ添え"
-description: "パン焼きポークチョップの作り方：マッシュポテトと野菜サラダ添え XION ポテトフレーク製造元"
+description: "パン焼きポークチョップの作り方：マッシュポテトと野菜サラダ添え。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-30"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-8.jpg"

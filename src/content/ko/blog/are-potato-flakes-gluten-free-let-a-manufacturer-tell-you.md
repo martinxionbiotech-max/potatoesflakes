@@ -1,6 +1,6 @@
 ---
 title: "감자 플레이크는 글루텐 프리인가요? 제조사가 알려드립니다"
-description: "감자 플레이크는 글루텐 프리인가요? 글루텐은 밀에 포함된 단백질 그룹이며, 감자 플레이크는 탈수 감자 제품의 일종입니다."
+description: "감자 플레이크에는 글루텐이 포함되어 있지 않습니다. 글루텐은 밀에 포함된 단백질 그룹이며, 감자 플레이크는 탈수 감자 제품의 일종이기 때문입니다."
 pubDate: "2024-08-07"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/08/1723014308281.png"

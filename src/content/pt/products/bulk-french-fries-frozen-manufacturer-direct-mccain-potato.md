@@ -1,6 +1,6 @@
 ---
 title: "Batatas Fritas Congeladas a Granel Direto do Fabricante (Batata McCain)"
-description: "Batatas Fritas Congeladas a Granel Direto do Fabricante (Batata McCain) XION Fabricante de Flocos de Batata"
+description: "Como fabricante profissional de batatas fritas congeladas, somos especializados na produção de batatas fritas congeladas a granel de alta qualidade em vários…"
 category: "frozen-french-fries"
 categoryName: "Batatas Fritas Congeladas"
 sku: "8140"

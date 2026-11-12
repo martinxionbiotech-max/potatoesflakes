@@ -1,6 +1,6 @@
 ---
 title: "Production"
-description: "Production XION Potato Flakes Manufacturer"
+description: "Our products are mainly divided into two categories: potato flakes and flavored instant mashed potatoes. Potato flakes are the core raw material for flavored…"
 ---
 
 Our products are mainly divided into two categories: [potato flakes](/) and flavored instant [mashed potatoes](/product-category/instant-mashed-potato/). Potato flakes are the core raw material for flavored instant mashed potatoes and can be used for the production of leisure foods like potato chips and other food products.

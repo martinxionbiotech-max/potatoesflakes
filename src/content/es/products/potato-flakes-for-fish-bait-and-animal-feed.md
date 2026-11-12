@@ -1,6 +1,6 @@
 ---
 title: "Copos de Patata para Cebo de Pescado y Pienso Animal"
-description: "Copos de Patata para Cebo de Pescado y Pienso Animal Fabricante de Copos de Patata XION"
+description: "Nuestros premium Copos de Patata son un ingrediente versátil ampliamente utilizado en la formulación de cebos para peces y la producción de piensos animales…"
 category: "potato-flakes"
 categoryName: "Copos de Patata a Granel"
 sku: "8143"

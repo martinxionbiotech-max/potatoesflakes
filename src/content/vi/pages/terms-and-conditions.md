@@ -1,6 +1,6 @@
 ---
 title: "Điều Khoản và Điều Kiện"
-description: "Điều Khoản và Điều Kiện XION Nhà Sản Xuất Vảy Khoai Tây"
+description: "Các điều khoản và điều kiện này nêu rõ các quy định và nguyên tắc cho việc sử dụng Trang Web/Ứng dụng của Công ty TNHH Công nghệ Sinh học Xion."
 ---
 
 Các điều khoản và điều kiện này nêu rõ các quy định và nguyên tắc cho việc sử dụng Trang Web/Ứng dụng của Công ty TNHH Công nghệ Sinh học Xion.

@@ -1,6 +1,6 @@
 ---
 title: "薯片 vs 薯蓉粉"
-description: "薯片 vs 薯蓉粉 | 分別同點樣揀薯片同調味薯蓉粉嘅Blog"
+description: "薯蓉係一道好受歡迎同埋令人喜愛嘅菜式，好多人都會喺屋企自己蒸薯仔再壓成蓉。而且有啲更方便嘅做法，你可以用薯片或者薯蓉粉，就咁溝熱水或者熱奶，就可以整到好味嘅薯蓉。"
 pubDate: "2024-06-24"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/06/potato-flake-vs-mashed-potato-powder.png"

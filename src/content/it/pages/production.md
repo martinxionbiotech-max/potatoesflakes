@@ -1,6 +1,6 @@
 ---
 title: "Produzione"
-description: "Produzione di fiocchi di patate XION"
+description: "I nostri prodotti sono principalmente suddivisi in due categorie: fiocchi di patate e purè di patate istantaneo aromatizzato. I fiocchi di patate sono la…"
 ---
 
 I nostri prodotti sono principalmente suddivisi in due categorie: [fiocchi di patate](/) e [purè di patate istantaneo](/product-category/instant-mashed-potato/) aromatizzato. I fiocchi di patate sono la materia prima principale per il purè di patate istantaneo aromatizzato e possono essere utilizzati per la produzione di snack come patatine e altri prodotti alimentari.

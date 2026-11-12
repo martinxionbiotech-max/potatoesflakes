@@ -1,6 +1,6 @@
 ---
 title: "Fornecimento OEM de Flocos de Batata em Caixa XION para Puré de Batata"
-description: "Fornecimento OEM de Flocos de Batata em Caixa XION para Puré de Batata Fabricante de Flocos de Batata XION"
+description: "O cartão branco com maior gramagem (por exemplo, acima de 300 g/m²) tem melhor desempenho em termos de capacidade de carga."
 category: "instant-mashed-potato"
 categoryName: "Puré de Batata Instantâneo a Granel OEM"
 sku: "7971"

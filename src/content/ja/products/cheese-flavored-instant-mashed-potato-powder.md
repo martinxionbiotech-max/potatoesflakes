@@ -1,6 +1,6 @@
 ---
 title: "業務用チーズ風味インスタントマッシュポテトパウダー"
-description: "業務用チーズ風味インスタントマッシュポテトパウダー XION ポテトフレーク メーカー"
+description: "業務用チーズ風味インスタントマッシュポテトパウダー。XION（DinWeys Biotech）が中国河北省で製造する業務用ジャガイモ製品。仕様・包装・最小ロットはお問い合わせください。"
 category: "instant-mashed-potato"
 categoryName: "業務用インスタントマッシュポテトOEM"
 sku: "5818"

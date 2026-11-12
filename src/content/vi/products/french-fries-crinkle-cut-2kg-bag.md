@@ -1,6 +1,6 @@
 ---
 title: "Khoai Tây Chiên Sóng 2kg Túi"
-description: "Khoai Tây Chiên Sóng 2kg Túi XION Nhà Sản Xuất Bột Khoai Tây"
+description: "Những miếng khoai tây chiên sóng này hoàn hảo cho khách hàng yêu thích đồ ăn nhẹ tươi ngon và chất lượng cao, lý tưởng để phục vụ như một món ăn kèm hoặc món…"
 category: "frozen-french-fries"
 categoryName: "Khoai Tây Chiên Đông Lạnh"
 sku: "8132"

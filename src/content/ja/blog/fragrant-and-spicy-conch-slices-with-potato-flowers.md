@@ -1,6 +1,6 @@
 ---
 title: "香辣螺片配馬鈴薯花的烹飪方法"
-description: "香辣螺片配馬鈴薯花的烹飪方法 XION 馬鈴薯片製造商"
+description: "香辣螺片配馬鈴薯花的烹飪方法。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-1.jpg"

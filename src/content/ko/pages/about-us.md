@@ -1,6 +1,6 @@
 ---
 title: "회사 소개"
-description: "회사 소개 XION 감자 플레이크 제조업체"
+description: "회사명은 2024년에 Dingwei Biotech CO., Ltd.로 변경되었으며, 상호는 Dinweys입니다."
 ---
 
 ## XionBioTech Co., Ltd

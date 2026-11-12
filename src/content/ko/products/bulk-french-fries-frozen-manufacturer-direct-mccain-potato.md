@@ -1,6 +1,6 @@
 ---
 title: "대량 냉동 감자튀김 제조업체 직송 (McCain 감자)"
-description: "대량 냉동 감자튀김 제조업체 직송 (McCain 감자) XION 감자 플레이크 제조업체"
+description: "전문 냉동 감자튀김 제조업체로서, 우리는 다양한 크기와 모양의 고품질 대량 냉동 감자튀김 생산에 특화되어 있습니다. 저희 공장은 중국 산둥성에 위치하고 있으며, 중국 내몽골에서 재배된 프리미엄 McCain 감자를 사용하여 일관된 품질과 뛰어난 맛을 보장합니다."
 category: "frozen-french-fries"
 categoryName: "냉동 감자튀김"
 sku: "8140"

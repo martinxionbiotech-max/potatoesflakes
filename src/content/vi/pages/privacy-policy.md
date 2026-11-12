@@ -1,6 +1,6 @@
 ---
 title: "Chính Sách Quyền Riêng Tư"
-description: "Chính Sách Quyền Riêng Tư XION Nhà Sản Xuất Vảy Khoai Tây"
+description: "Chính Sách Quyền Riêng Tư này mô tả các chính sách và quy trình của Chúng tôi về việc thu thập, sử dụng và tiết lộ thông tin của Bạn khi Bạn sử dụng Dịch vụ…"
 ---
 
 ## Chính Sách Quyền Riêng Tư

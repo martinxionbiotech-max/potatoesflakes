@@ -1,6 +1,6 @@
 ---
-title: "XION Standard Bulk Instant Potato Flakes"
-description: "XION Standard Bulk Instant Potato Flakes XION Potato Flakes Manufacturer"
+title: "Kepingan Kentang Segera Pukal Standard XION 20kg"
+description: "Ya, kami boleh menyediakan sampel percuma, tetapi pelanggan perlu membayar kos penghantaran ekspres antarabangsa. - Jika kami memerlukan produk tersuai…"
 category: "potato-flakes"
 categoryName: "Serpihan Kentang Pukal"
 sku: "5833"

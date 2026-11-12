@@ -1,6 +1,6 @@
 ---
 title: "XION Standard Bulk Instant Potato Flakes"
-description: "XION Standard Bulk Instant Potato Flakes XION Potato Flakes Manufacturer"
+description: "We can customize the required packaging materials in China according to the customer’s requirements. - How can we purchase products from your company?"
 category: "potato-flakes"
 categoryName: "Bulk Potato Flakes"
 sku: "5833"

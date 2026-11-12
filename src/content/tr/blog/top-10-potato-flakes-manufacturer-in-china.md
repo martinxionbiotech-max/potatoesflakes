@@ -1,6 +1,6 @@
 ---
 title: "Çin'deki İlk 10 Patates Pulu Üreticisi"
-description: "Çin'deki İlk 10 Patates Pulu Üreticisi XION Patates Pulu Üreticisi"
+description: "Çin, dünyanın en büyük patates pulu ve püre patates üreticilerinden biridir ve patates işleme endüstrisi hızla büyümektedir. Bu sektör, gıda güvenliğini…"
 pubDate: "2024-03-19"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/03/8-1024x594.jpg"

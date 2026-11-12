@@ -1,6 +1,6 @@
 ---
 title: "벌크 무변성 감자 전분 허베이 중국 현지 제조업체"
-description: "벌크 무변성 감자 전분 허베이 중국 현지 제조업체 XION 감자 플레이크 제조업체"
+description: "벌크 무변성 감자 전분 허베이 중국 현지 제조업체. XION(DinWeys Biotech)이 중국 허베이성에서 생산하는 식품용 감자 제품입니다. 규격, 포장, 최소 주문량은 문의해 주세요."
 category: "potato-starch"
 categoryName: "감자 전분"
 sku: "8168"

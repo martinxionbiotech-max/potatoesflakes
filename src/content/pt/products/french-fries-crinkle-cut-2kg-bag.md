@@ -1,6 +1,6 @@
 ---
 title: "Batatas Fritas Onduladas Saco de 2kg"
-description: "Batatas Fritas Onduladas Saco de 2kg Fabricante de Flocos de Batata XION"
+description: "Estas batatas fritas onduladas são perfeitas para clientes que apreciam snacks frescos e de alta qualidade, ideais para oferecer um acompanhamento ou snack…"
 category: "frozen-french-fries"
 categoryName: "Batatas Fritas Congeladas"
 sku: "8132"

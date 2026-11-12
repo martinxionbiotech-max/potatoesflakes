@@ -5,6 +5,8 @@ import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { LANGUAGES } from '../../../languages';
 import { UI } from '../../../ui';
+import { imgAttrs } from '../../../img';
+import { listSeo } from '../../../seo';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -16,13 +18,14 @@ export async function getStaticPaths() {
 
 const { lang } = Astro.props;
 const ui = UI[lang.code];
+const seo = listSeo(lang.code);
 const products = (await getCollection(`${lang.code}_products`)).sort((a, b) => a.data.title.localeCompare(b.data.title));
 const categories = Object.entries(ui.productCategories).map(([slug, c]) => ({ slug, ...c }));
 ---
 
 <BaseLayout
-  title={ui.products}
-  description={ui.productsIntro}
+  title={seo.productTitle}
+  description={seo.productDesc}
   lang={lang.htmlLang}
   locale={lang.ogLocale}
   canonical={`/${lang.code}/product/`}
@@ -47,7 +50,7 @@ const categories = Object.entries(ui.productCategories).map(([slug, c]) => ({ sl
               <a href={`/${lang.code}/product/${p.id}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
                 <div class="aspect-square overflow-hidden bg-gray-100">
                   {p.data.image ? (
-                    <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+                    <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" {...imgAttrs(p.data.image)} />
                   ) : (
                     <div class="flex h-full items-center justify-center text-gray-400">{ui.noImage}</div>
                   )}

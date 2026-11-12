@@ -1,6 +1,6 @@
 ---
 title: "Dasar Privasi"
-description: "Dasar Privasi Pengilang XION Potato Flakes"
+description: "Dasar Privasi ini menerangkan dasar dan prosedur Kami mengenai pengumpulan,"
 ---
 
 ## Dasar Privasi

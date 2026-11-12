@@ -1,6 +1,6 @@
 ---
 title: "3/8\" Dondurulmuş Patates Kızartması Zhongda Meicheng"
-description: "3/8\" Dondurulmuş Patates Kızartması Zhongda Meicheng XION Patates Püresi Üreticisi"
+description: "McCain dondurulmuş patates kızartması, McDonald's ve KFC ile aynıdır"
 category: "frozen-french-fries"
 categoryName: "Dondurulmuş Patates Kızartması"
 sku: "8117"

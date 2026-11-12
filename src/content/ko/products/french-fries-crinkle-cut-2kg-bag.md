@@ -1,6 +1,6 @@
 ---
 title: "골판지 컷 프렌치 프라이 2kg 백"
-description: "골판지 컷 프렌치 프라이 2kg 백 XION 감자 플레이크 제조업체"
+description: "이 골판지 컷 감자튀김은 신선하고 고품질의 스낵을 즐기는 고객에게 완벽하며, 모든 식당에서 맛있는 사이드 메뉴 또는 스낵으로 제공하기에 이상적입니다."
 category: "frozen-french-fries"
 categoryName: "냉동 프렌치 프라이"
 sku: "8132"

@@ -1,6 +1,6 @@
 ---
 title: "XION 標準散裝即食薯蓉片"
-description: "XION 標準散裝即食薯蓉片 XION 薯蓉片製造商"
+description: "會，我哋可以提供免費樣品，但係客戶需要負責國際快遞運費。 - 如果我哋需要定制產品，你哋可唔可以幫手處理包裝材料？"
 category: "potato-flakes"
 categoryName: "散裝薯蓉片"
 sku: "5833"

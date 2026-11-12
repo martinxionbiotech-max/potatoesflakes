@@ -1,6 +1,6 @@
 ---
 title: "Termos e Condições"
-description: "Termos e Condições Fabricante de Flocos de Batata XION"
+description: "Estes termos e condições definem as regras e regulamentos para a utilização do Website/App da Xion Bio-Tech Co., Ltd."
 ---
 
 Estes termos e condições definem as regras e regulamentos para a utilização do Website/App da Xion Bio-Tech Co., Ltd.

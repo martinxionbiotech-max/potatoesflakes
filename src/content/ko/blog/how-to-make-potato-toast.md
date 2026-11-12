@@ -1,6 +1,6 @@
 ---
 title: "감자 토스트 만드는 법"
-description: "감자 토스트 만드는 법 으깬 감자 레시피 XION 감자 플레이크 제조사"
+description: "감자 토스트 만드는 법. XION 감자 플레이크로 만드는 레시피를 재료와 조리 순서에 따라 알기 쉽게 정리했습니다."
 pubDate: "2024-05-03"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/05/1-6.jpg"

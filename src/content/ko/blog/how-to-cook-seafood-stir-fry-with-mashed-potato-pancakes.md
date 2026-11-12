@@ -1,6 +1,6 @@
 ---
 title: "해산물 볶음과 매시드 포테이토 팬케이크 요리법"
-description: "해산물 볶음과 매시드 포테이토 팬케이크 요리법 XION 감자 플레이크 제조사"
+description: "해산물 볶음과 매시드 포테이토 팬케이크 요리법. XION 감자 플레이크로 만드는 레시피를 재료와 조리 순서에 따라 알기 쉽게 정리했습니다."
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-3.jpg"

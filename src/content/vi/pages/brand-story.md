@@ -1,6 +1,6 @@
 ---
 title: "Câu Chuyện Thương Hiệu"
-description: "Câu Chuyện Thương Hiệu Nhà Sản Xuất Bột Khoai Tây XION"
+description: "Mỗi năm, vào cuối tháng Chín, Cao nguyên Bashang ở Trương Gia Khẩu, Hà Bắc lại trở nên nhộn nhịp. Một lượng lớn lao động tập trung về đây tìm việc, và đủ…"
 ---
 
 ## Câu Chuyện Của Chúng Tôi

@@ -1,6 +1,6 @@
 ---
 title: "ポテトフレークの準備方法は？知っておくべき5つのヒント"
-description: "ポテトフレークの準備方法は？知っておくべき5つのヒント XION ポテトフレークメーカー"
+description: "例えば、ポテトフレーク1に対して熱湯または牛乳5の割合です。例えば、300グラムのマッシュポテトを作るには、50グラムのポテトフレークと250グラムの熱湯が必要です。"
 pubDate: "2024-07-30"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/微信图片_20240803124449-scaled.jpg"

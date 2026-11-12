@@ -1,6 +1,6 @@
 ---
 title: "薯片 | 生產薯片用咩薯仔品種？"
-description: "薯片 | 生產薯片用咩薯仔品種？薯片同調味薯蓉Blog XION薯片製造商"
+description: "一般嚟講，用最好嘅薯仔嚟生產薯片，薯仔同薯片嘅比例大約係6:1，即係話用7公斤靚薯仔先至整到1公斤薯片。呢個就係點解薯片咁貴嘅其中一個主要原因。"
 pubDate: "2024-04-16"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/04/Potato-flakes-potato.png"

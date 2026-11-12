@@ -1,6 +1,6 @@
 ---
-title: "1/4\" Frozen French Fries Zhongda Meicheng One Quarter Size"
-description: "1/4\" Frozen French Fries Zhongda Meicheng One Quarter Size XION Fabricante de Copos de Patata"
+title: "Patatas Fritas Congeladas 1/4\" Zhongda Meicheng"
+description: "Las patatas fritas congeladas McCain son iguales que las de McDonald's y KFC; tienen un sabor excelente y se exportan a muchos países."
 category: "frozen-french-fries"
 categoryName: "Patatas Fritas Congeladas"
 sku: "8121"

@@ -1,6 +1,6 @@
 ---
 title: "麥凱恩薯條背後嘅秘密：點解佢係全球快餐業嘅「金標準」"
-description: "麥凱恩薯條背後嘅秘密：點解佢係全球快餐業嘅「金標準」薯仔製品 XION 薯片製造商"
+description: "每次有一條金黃香脆嘅薯條喺你牙齒之間碎裂嘅時候，你有冇諗過佢背後嘅美味科學原理？喺全球快餐行業入面，麥凱恩薯仔（Russet Burbank） 一直以嚟都係整完美薯條嘅「黃金食材」。呢篇文章會揭開呢種傳奇薯仔嘅獨特魅力，解釋點解佢可以繼續喺薯條世界入面稱王。"
 pubDate: "2025-02-08"
 category: "potato-products"
 image: "/wp-content/uploads/2025/02/french-fries-crinkle-cut-scaled.jpg"

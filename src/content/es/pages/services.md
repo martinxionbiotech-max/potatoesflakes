@@ -1,6 +1,6 @@
 ---
 title: "Servicios"
-description: "Servicios Fabricante de Copos de Papa XION"
+description: "XION ofrece desarrollo de muestras, impresión de envases, personalización OEM, envasado con marca propia y soporte documental de exportación para compradores mayoristas de copos de patata y puré instantáneo."
 ---
 
 ### 1. Servicio de Muestras:

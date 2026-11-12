@@ -1,6 +1,6 @@
 ---
 title: "薯片係咪無麩質？等廠家話你知"
-description: "薯片係咪無麩質？麩質係小麥入面嘅一組蛋白質，而薯片係一種脫水薯仔製品。"
+description: "可能含有薯片嘅產品包括麵包、蛋糕、餅乾、意粉、曲奇、穀物早餐、椒鹽脆餅、奶油醬汁、增稠劑、麵包糠、即溶咖啡、茄汁（部分）、芥末、蛋糕裝飾、罐裝湯、熟食肉類等等。"
 pubDate: "2024-08-07"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/08/1723014308281.png"

@@ -1,6 +1,6 @@
 ---
 title: "Serviços"
-description: "Serviços Fabricante de Flocos de Batata XION"
+description: "A XION oferece desenvolvimento de amostras, impressão de embalagens, personalização OEM, enchimento com marca própria e apoio documental à exportação para compradores por grosso de flocos de batata e puré instantâneo."
 ---
 
 ### 1. Serviço de Amostras:

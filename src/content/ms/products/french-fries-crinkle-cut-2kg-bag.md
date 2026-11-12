@@ -1,6 +1,6 @@
 ---
 title: "Kentang Goreng Potongan Beralun Beg 2kg"
-description: "Kentang Goreng Potongan Beralun Beg 2kg Pengilang Serpihan Kentang XION"
+description: "Kentang goreng beralun ini sesuai untuk pelanggan yang menikmati snek segar dan berkualiti tinggi, sesuai untuk ditawarkan sebagai hidangan sampingan atau…"
 category: "frozen-french-fries"
 categoryName: "Kentang Goreng Beku"
 sku: "8132"

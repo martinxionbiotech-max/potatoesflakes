@@ -1,6 +1,6 @@
 ---
 title: "감자 플레이크 생산 라인 – 알아야 할 핵심 장비 17가지"
-description: "감자 플레이크 생산 라인 – 알아야 할 핵심 장비 17가지 감자 플레이크 및 향미 으깬 감자 블로그 XION 감자 플레이크 제조업체"
+description: "감자 플레이크는 인스턴트 으깬 감자, 스낵 및 식품 제조의 핵심 원료입니다. 고성능 감자 플레이크 생산 라인은 단순히 원재료만으로 완성되지 않습니다. 모든 공정에서 정밀하게 설계된 장비가 필요합니다."
 pubDate: "2025-06-30"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2025/06/potato-flakes-production-line-equipment-scaled.jpg"

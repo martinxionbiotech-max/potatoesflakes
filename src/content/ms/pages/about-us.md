@@ -1,6 +1,6 @@
 ---
 title: "Tentang Kami"
-description: "Tentang Kami Pengilang XION Potato Flakes"
+description: "Nama syarikat telah ditukar kepada Dingwei Biotech CO., Ltd. nama dagangan: Dinweys pada tahun 2024."
 ---
 
 ## XionBioTech Co., Ltd

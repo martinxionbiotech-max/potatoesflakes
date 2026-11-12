@@ -1,6 +1,6 @@
 ---
 title: "Brand Story"
-description: "Brand Story XION Potato Flakes Manufacturer"
+description: "Every year, at the end of September, the Bashang Plateau in Zhangjiakou, Hebei becomes bustling with activity. A large number of laborers gather here to find…"
 ---
 
 ## Our Story

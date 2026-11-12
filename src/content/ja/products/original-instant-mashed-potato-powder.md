@@ -1,6 +1,6 @@
 ---
 title: "XION オリジナル即席マッシュポテトフレーク OEM"
-description: "中国の大手メーカーからOEM・バルク即席マッシュポテトと高級ポテトフレークをご購入いただけます"
+description: "XION オリジナル即席マッシュポテトフレーク OEM。XION（DinWeys Biotech）が中国河北省で製造する業務用ジャガイモ製品。仕様・包装・最小ロットはお問い合わせください。"
 category: "instant-mashed-potato"
 categoryName: "バルク即席マッシュポテト OEM"
 sku: "5828"

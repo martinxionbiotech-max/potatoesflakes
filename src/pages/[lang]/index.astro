@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { LANGUAGES } from '../../languages';
 import { UI } from '../../ui';
+import { HOME_DESC } from '../../seo';
 
 export async function getStaticPaths() {
   return LANGUAGES.map((l) => ({
@@ -17,6 +18,7 @@ const { lang } = Astro.props;
 const prefix = `/${lang.code}`;
 const ui = UI[lang.code];
 const home = ui.homePage;
+const homeDesc = HOME_DESC[lang.code] ?? HOME_DESC.en;
 
 // 当前语言的翻译版产品（title/description 已翻译）
 const products = (await getCollection(`${lang.code}_products`)).sort(
@@ -39,8 +41,8 @@ const featured = featuredSlugs
 ---
 
 <BaseLayout
-  title="Potato Flakes Manufacturer & Supplier in China"
-  description="Xion is a top manufacturer specializing in the development and customization of potato flakes products and customized mashed potatoes."
+  title={home.heroTitle}
+  description={homeDesc}
   image="/wp-content/uploads/2024/03/organic-potato-hero.webp"
   lang={lang.htmlLang}
   locale={lang.ogLocale}
@@ -73,8 +75,8 @@ const featured = featuredSlugs
           src="/wp-content/uploads/2024/03/organic-potato-hero.webp"
           alt="Bulk Potato Flakes"
           class="mx-auto rounded-2xl shadow-xl"
-          width="600"
-          height="600"
+          width="634"
+          height="543"
           loading="eager"
         />
       </div>
@@ -113,10 +115,10 @@ const featured = featuredSlugs
         <a href={`${prefix}/about-us/`} class="btn-primary mt-6">{home.learnMore}</a>
       </div>
       <div class="grid grid-cols-2 gap-4">
-        <img src="/wp-content/uploads/2024/03/mashed-Potato-factory--300x225.jpg" alt="Mashed potato factory" class="card-hover rounded-xl" loading="lazy" />
-        <img src="/wp-content/uploads/2024/03/44-300x201.jpg" alt="Potato Flakes Production" class="card-hover rounded-xl" loading="lazy" />
-        <img src="/wp-content/uploads/2024/03/46-300x205.jpg" alt="Potato flakes production line" class="card-hover rounded-xl" loading="lazy" />
-        <img src="/wp-content/uploads/2024/03/34-300x191.jpg" alt="Potato planting base" class="card-hover rounded-xl" loading="lazy" />
+        <img src="/wp-content/uploads/2024/03/mashed-Potato-factory--300x225.jpg" alt="Mashed potato factory" class="card-hover rounded-xl" loading="lazy" width="300" height="225" />
+        <img src="/wp-content/uploads/2024/03/44-300x201.jpg" alt="Potato Flakes Production" class="card-hover rounded-xl" loading="lazy" width="300" height="201" />
+        <img src="/wp-content/uploads/2024/03/46-300x205.jpg" alt="Potato flakes production line" class="card-hover rounded-xl" loading="lazy" width="300" height="205" />
+        <img src="/wp-content/uploads/2024/03/34-300x191.jpg" alt="Potato planting base" class="card-hover rounded-xl" loading="lazy" width="300" height="191" />
       </div>
     </div>
   </section>

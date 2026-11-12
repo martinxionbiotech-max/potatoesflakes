@@ -1,6 +1,6 @@
 ---
 title: "Términos y Condiciones"
-description: "Términos y Condiciones Fabricante de Escamas de Papa XION"
+description: "Estos términos y condiciones describen las reglas y regulaciones para el uso del Sitio Web/Aplicación de Xion Bio-Tech Co., Ltd."
 ---
 
 Estos términos y condiciones describen las reglas y regulaciones para el uso del Sitio Web/Aplicación de Xion Bio-Tech Co., Ltd.

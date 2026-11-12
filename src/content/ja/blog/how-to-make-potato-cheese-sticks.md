@@ -1,6 +1,6 @@
 ---
 title: "ポテトチーズスティックの作り方"
-description: "ポテトチーズスティックの作り方 マッシュポテトレシピ XION ポテトフレークメーカー"
+description: "ポテトチーズスティックの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-05-03"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/05/1-3.jpg"

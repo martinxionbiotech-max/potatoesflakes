@@ -1,6 +1,6 @@
 ---
 title: "馬鈴薯片でマッシュポテトを作る方法とは？他には？"
-description: "馬鈴薯片でマッシュポテトを作る方法とは？他には？ 馬鈴薯片とフレーバーマッシュポテトのブログ XION 馬鈴薯片メーカー"
+description: "一般的に、馬鈴薯片50グラムと熱湯または熱いミルク200グラムだけが必要です。熱湯または熱いミルクを馬鈴薯片に注ぎ、20秒間置いてから、優しくかき混ぜると、出来立てのプレーンなマッシュポテトが一食分できあがります。"
 pubDate: "2024-07-27"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/mashed-potato.png"

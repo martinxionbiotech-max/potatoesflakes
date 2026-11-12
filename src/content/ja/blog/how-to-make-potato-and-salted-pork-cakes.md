@@ -1,6 +1,6 @@
 ---
 title: "ポテトと塩漬け豚肉のケーキの作り方"
-description: "ポテトと塩漬け豚肉のケーキの作り方 マッシュポテトレシピ XION ポテトフレークメーカー"
+description: "ポテトと塩漬け豚肉のケーキの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-05-03"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/05/1-7.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Batatas Fritas Congeladas 1/4\" Zhongda Meicheng Tamanho Um Quarto"
-description: "Batatas Fritas Congeladas 1/4\" Zhongda Meicheng Tamanho Um Quarto Fabricante de Flocos de Batata XION"
+description: "As batatas fritas congeladas McCain são as mesmas que as do McDonald's e do KFC; têm um sabor excelente e são exportadas para muitos países."
 category: "frozen-french-fries"
 categoryName: "Batatas Fritas Congeladas"
 sku: "8121"

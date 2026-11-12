@@ -5,6 +5,8 @@ import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { LANGUAGES } from '../../../languages';
 import { UI } from '../../../ui';
+import { imgAttrs } from '../../../img';
+import { listSeo } from '../../../seo';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -23,9 +25,12 @@ export async function getStaticPaths() {
 
 const { lang, cat, products } = Astro.props;
 const ui = UI[lang.code];
+const seo = listSeo(lang.code);
+// 分类描述偏短时补一句通用说明，避免 meta description 过短
+const catDesc = cat.desc.length >= 70 ? cat.desc : `${cat.desc} ${seo.catSuffix}`;
 ---
 
-<BaseLayout title={cat.name} description={cat.desc} lang={lang.htmlLang} locale={lang.ogLocale} currentLang={lang.code} relPath={`product-category/${cat.slug}/`} pageType="CollectionPage" crumbName={cat.name} breadcrumbs={[{ name: ui.products, href: `/${lang.code}/product/` }]}>
+<BaseLayout title={cat.name} description={catDesc} lang={lang.htmlLang} locale={lang.ogLocale} currentLang={lang.code} relPath={`product-category/${cat.slug}/`} pageType="CollectionPage" crumbName={cat.name} breadcrumbs={[{ name: ui.products, href: `/${lang.code}/product/` }]}>
   <Header lang={lang.code} />
   <section class="container-x py-14">
     <nav class="mb-4 text-sm text-gray-500">
@@ -43,7 +48,7 @@ const ui = UI[lang.code];
         <a href={`/${lang.code}/product/${p.id}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
           <div class="aspect-square overflow-hidden bg-gray-100">
             {p.data.image ? (
-              <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+              <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" {...imgAttrs(p.data.image)} />
             ) : (
               <div class="flex h-full items-center justify-center text-gray-400">{ui.noImage}</div>
             )}

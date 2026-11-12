@@ -1,6 +1,6 @@
 ---
 title: "XION 大包裝奶香即食薯蓉粉現貨同 OEM"
-description: "XION 大包裝奶香即食薯蓉粉現貨同 OEM XION 薯片製造商"
+description: "XION 大包裝奶香即食薯蓉粉現貨同 OEM。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "instant-mashed-potato"
 categoryName: "大包裝即食薯蓉 OEM"
 sku: "5823"

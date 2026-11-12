@@ -1,6 +1,6 @@
 ---
 title: "Patatine a Onda Croccanti Confezione da 2kg"
-description: "Patatine a Onda Croccanti Confezione da 2kg Produttore di Fiocchi di Patate XION"
+description: "Queste patatine a onda croccanti sono perfette per i clienti che amano snack freschi e di alta qualità, ideali per offrire un delizioso contorno o spuntino…"
 category: "frozen-french-fries"
 categoryName: "Patatine Fritte Surgelate"
 sku: "8132"

@@ -1,6 +1,6 @@
 ---
 title: "10 Pengeluar Kepingan Kentang Teratas di China"
-description: "10 Pengeluar Kepingan Kentang Teratas di China XION Pengeluar Kepingan Kentang"
+description: "China merupakan salah satu pengeluar kepingan kentang dan kentang lenyek terbesar di dunia, dan industri pemprosesan kentangnya sedang mengalami pertumbuhan…"
 pubDate: "2024-03-19"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/03/8-1024x594.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "2024년 중국 감자플레이크 최신 국가표준 (5월 14일 시행)"
-description: "2024년 중국 감자플레이크 최신 국가표준 (5월 14일 시행) 감자플레이크 및 시즈닝 머시트 포테이토 블로그 XION 감자플레이크 제조사"
+description: "본 문서는 GB/T 1.1-2020 \"표준화 지침 제1부: 표준의 구조 및 작성\"의 규정에 따라 작성되었습니다. 본 문서의 일부 내용은 특허와 관련될 수 있습니다. 본 문서의 발행 기관은 특허 식별에 대한 책임을 지지 않습니다. 본 문서는 국가곡물비축국(National Grain…"
 pubDate: "2024-04-12"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/04/potato-flakes.png"

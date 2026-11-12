@@ -1,6 +1,6 @@
 ---
 title: "Semi di Patate Rosse in Vendita - Semi di Patate Popolari dalla Cina"
-description: "Semi di Patate Rosse in Vendita - Semi di Patate Popolari dalla Cina Produttore di Fiocchi di Patate XION"
+description: "I nostri semi di patate rosse premium sono molto ricercati in Cina per la loro caratteristica buccia rossa e polpa gialla, rendendoli ideali per una vasta…"
 category: "seed-potatoes"
 categoryName: "Semi di Patate"
 sku: "8145"

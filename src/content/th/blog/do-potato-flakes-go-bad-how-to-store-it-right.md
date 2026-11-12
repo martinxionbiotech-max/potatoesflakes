@@ -1,6 +1,6 @@
 ---
 title: "เกล็ดมันฝรั่งบูดไหม? วิธีเก็บรักษาให้ถูกต้อง"
-description: "เกล็ดมันฝรั่งบูดไหม? วิธีเก็บรักษาให้ถูกต้อง XION ผู้ผลิตเกล็ดมันฝรั่ง"
+description: "โดยทั่วไปแล้ว เกล็ดมันฝรั่ง เป็นผลิตภัณฑ์มันฝรั่งอบแห้งที่ผลิตตามมาตรฐานอุตสาหกรรม SB/T10752-2012 ผลิตภัณฑ์ขั้นสุดท้ายมีความชื้นต่ำกว่า 8%…"
 pubDate: "2024-07-26"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/xion-mashed-potatoes-scaled.jpg"

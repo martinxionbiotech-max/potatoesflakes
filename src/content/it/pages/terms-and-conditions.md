@@ -1,6 +1,6 @@
 ---
 title: "Termini e Condizioni"
-description: "Termini e Condizioni Produttore di Fiocchi di Patate XION"
+description: "Questi termini e condizioni delineano le regole e le normative per l'uso del Sito Web/App di Xion Bio-Tech Co., Ltd."
 ---
 
 Questi termini e condizioni delineano le regole e le normative per l'uso del Sito Web/App di Xion Bio-Tech Co., Ltd.

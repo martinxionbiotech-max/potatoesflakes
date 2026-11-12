@@ -1,6 +1,6 @@
 ---
 title: "درباره ما"
-description: "درباره ما تولیدکننده پولک سیبزمینی XION"
+description: "نام شرکت به Dingwei Biotech CO., Ltd تغییر یافت. نام تجاری: Dinweys در سال 2024."
 ---
 
 ## شرکت XionBioTech

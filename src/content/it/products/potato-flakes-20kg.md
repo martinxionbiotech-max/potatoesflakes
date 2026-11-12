@@ -1,6 +1,6 @@
 ---
 title: "XION Fiocchi di Patate Istantanei Standard all'Ingrosso"
-description: "XION Fiocchi di Patate Istantanei Standard all'Ingrosso Produttore di Fiocchi di Patate XION"
+description: "Sì, possiamo fornire campioni gratuiti, ma i clienti devono pagare la spedizione internazionale espressa. - Se abbiamo bisogno di prodotti personalizzati…"
 category: "potato-flakes"
 categoryName: "Fiocchi di Patate all'Ingrosso"
 sku: "5833"

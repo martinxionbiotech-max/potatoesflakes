@@ -1,6 +1,6 @@
 ---
 title: "赤枣と金木犀のマッシュポテトの調理方法"
-description: "赤枣と金木犀のマッシュポテトの調理方法 XION ポテトフレーク製造業者"
+description: "赤枣と金木犀のマッシュポテトの調理方法。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/3.jpg"

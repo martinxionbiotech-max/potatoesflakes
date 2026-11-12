@@ -1,6 +1,6 @@
 ---
 title: "Sobre Nosotros"
-description: "Sobre Nosotros Fabricante de Copos de Papa XION"
+description: "El nombre de la empresa se cambió a Dingwei Biotech CO., Ltd. nombre comercial: Dinweys en 2024."
 ---
 
 ## XionBioTech Co., Ltd

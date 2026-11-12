@@ -1,6 +1,6 @@
 ---
 title: "ポテトフレークとは？知られざる事実"
-description: "ポテトフレークとは？知られざる事実"
+description: "基本的に、ポテトフレークは脱水ジャガイモ製品の一種と考えることができます。小さな雪の結晶のようなフレーク状で、主に白色と黄色の品種があり、紫ジャガイモから加工された紫ポテトフレークもあります。"
 pubDate: "2024-07-06"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/potato-flakes-2.png"

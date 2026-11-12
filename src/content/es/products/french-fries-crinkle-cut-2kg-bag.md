@@ -1,6 +1,6 @@
 ---
 title: "Papas Fritas Corte Rizado Bolsa de 2kg"
-description: "Papas Fritas Corte Rizado Bolsa de 2kg Fabricante de Hojuelas de Papa XION"
+description: "Estas papas fritas de corte rizado son perfectas para clientes que disfrutan de bocadillos frescos y de alta calidad, ideales para ofrecer una guarnición o…"
 category: "frozen-french-fries"
 categoryName: "Papas Fritas Congeladas"
 sku: "8132"

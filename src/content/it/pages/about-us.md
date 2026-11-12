@@ -1,6 +1,6 @@
 ---
 title: "Chi Siamo"
-description: "Chi Siamo XION Produttore di Fiocchi di Patate"
+description: "Il nome dell'azienda è stato cambiato in Dingwei Biotech CO., Ltd. con nome commerciale: Dinweys nel 2024."
 ---
 
 ## XionBioTech Co., Ltd

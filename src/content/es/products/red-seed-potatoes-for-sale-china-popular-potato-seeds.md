@@ -1,6 +1,6 @@
 ---
 title: "Semillas de Papa Roja en Venta - Semillas de Papa Populares de China"
-description: "Semillas de Papa Roja en Venta - Semillas de Papa Populares de China Fabricante de Hojuelas de Papa XION"
+description: "Nuestras semillas de papa roja premium son muy demandadas en China por su distintiva piel roja y pulpa amarilla, lo que las hace ideales para una variedad de…"
 category: "seed-potatoes"
 categoryName: "Semillas de Papa"
 sku: "8145"

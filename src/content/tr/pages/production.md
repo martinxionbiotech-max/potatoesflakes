@@ -1,6 +1,6 @@
 ---
 title: "Üretim"
-description: "Üretim XION Patates Pulu Üreticisi"
+description: "Ürünlerimiz temel olarak iki kategoriye ayrılır: patates pulları ve aromalı hazır patates püresi. Patates pulları, aromalı hazır patates püresinin temel…"
 ---
 
 Ürünlerimiz temel olarak iki kategoriye ayrılır: [patates pulları](/) ve aromalı hazır [patates püresi](/product-category/instant-mashed-potato/). Patates pulları, aromalı hazır patates püresinin temel hammaddesidir ve cips gibi atıştırmalık gıdaların ve diğer gıda ürünlerinin üretiminde kullanılabilir.

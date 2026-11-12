@@ -1,6 +1,6 @@
 ---
 title: "2024년 10월 감자 플레이크 가격 실시간 | 2025년 동향 (10월 30일 업데이트)"
-description: "2024년 10월 감자 플레이크 가격 실시간 | 2025년 동향 (10월 30일 업데이트) XION 감자 플레이크 제조업체"
+description: "2023년 10월 이후 감자 가격, 특히 가공용 감자 가격이 상승세를 보였습니다. 이러한 추세로 인해 중국의 감자 플레이크 제조업체들은 충분한 원자재를 확보하는 데 어려움을 겪었으며, 특히 Atlantic 품종 감자의 가격이 크게 상승했습니다."
 pubDate: "2024-10-30"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/10/1730263697587.png"

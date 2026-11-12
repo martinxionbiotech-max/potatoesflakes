@@ -1,6 +1,6 @@
 ---
 title: "중국산 최고 품질 감자 플레이크 생산 라인"
-description: "중국산 최고 품질 감자 플레이크 생산 라인 XION 감자 플레이크 제조업체"
+description: "중국산 최고 품질 감자 플레이크 생산 라인. XION(DinWeys Biotech)이 중국 허베이성에서 생산하는 식품용 감자 제품입니다. 규격, 포장, 최소 주문량은 문의해 주세요."
 category: "potato-flakes"
 categoryName: "대량 감자 플레이크"
 sku: "8061"

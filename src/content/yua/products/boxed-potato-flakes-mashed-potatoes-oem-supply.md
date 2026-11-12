@@ -1,6 +1,6 @@
 ---
 title: "XION 盒裝薯片即食薯蓉 OEM 供應"
-description: "XION 盒裝薯片即食薯蓉 OEM 供應 XION 薯片製造商"
+description: "我哋做咗好多盒裝薯片嘅生產實驗。如果你有興趣訂購呢款產品，我哋有啲總結嘅經驗可能幫到你，等你考慮得全面啲。"
 category: "instant-mashed-potato"
 categoryName: "批發即食薯蓉 OEM"
 sku: "7971"

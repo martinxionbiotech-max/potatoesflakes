@@ -1,6 +1,6 @@
 ---
 title: "향긋하고 매콤한 감자꽃 소라조개 볶음 요리법"
-description: "향긋하고 매콤한 감자꽃 소라조개 볶음 요리법 XION 감자 플레이크 제조사"
+description: "향긋하고 매콤한 감자꽃 소라조개 볶음 요리법. XION 감자 플레이크로 만드는 레시피를 재료와 조리 순서에 따라 알기 쉽게 정리했습니다."
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-1.jpg"

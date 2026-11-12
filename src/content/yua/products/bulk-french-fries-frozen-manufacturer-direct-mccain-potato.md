@@ -1,6 +1,6 @@
 ---
 title: "大量急凍薯條 廠家直供（McCain 薯仔）"
-description: "大量急凍薯條 廠家直供（McCain 薯仔）XION 薯片製造商"
+description: "作為一間專業嘅急凍薯條製造商，我哋專注生產高品質嘅大量急凍薯條，有多種唔同嘅尺寸同形狀。我哋嘅工廠位於中國山東，選用嚟自中國內蒙古嘅優質McCain 薯仔，確保品質穩定同味道一流。"
 category: "frozen-french-fries"
 categoryName: "急凍薯條"
 sku: "8140"

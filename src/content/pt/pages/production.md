@@ -1,6 +1,6 @@
 ---
 title: "Produção"
-description: "Produção XION Fabricante de Flocos de Batata"
+description: "Os nossos produtos dividem-se principalmente em duas categorias: flocos de batata e puré de batata instantâneo aromatizado. Os flocos de batata são a…"
 ---
 
 Os nossos produtos dividem-se principalmente em duas categorias: [flocos de batata](/) e [puré de batata instantâneo](/product-category/instant-mashed-potato/) aromatizado. Os flocos de batata são a matéria-prima principal para o puré de batata instantâneo aromatizado e podem ser utilizados na produção de alimentos de lazer, como batatas fritas e outros produtos alimentares.

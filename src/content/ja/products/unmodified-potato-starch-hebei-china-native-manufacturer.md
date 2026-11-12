@@ -1,6 +1,6 @@
 ---
 title: "バルク未加工馬鈴薯澱粉 河北 中国 メーカー直販"
-description: "バルク未加工馬鈴薯澱粉 河北 中国 メーカー直販 XION ポテトフレークメーカー"
+description: "バルク未加工馬鈴薯澱粉 河北 中国 メーカー直販。XION（DinWeys Biotech）が中国河北省で製造する業務用ジャガイモ製品。仕様・包装・最小ロットはお問い合わせください。"
 category: "potato-starch"
 categoryName: "馬鈴薯澱粉"
 sku: "8168"

@@ -1,6 +1,6 @@
 ---
 title: "利用規約"
-description: "利用規約 XION ポテトフレーク製造業者"
+description: "これらの利用規約は、Xion Bio-Tech Co., Ltd のウェブサイト/アプリの利用に関する規則と規制を概説するものです。"
 ---
 
 これらの利用規約は、Xion Bio-Tech Co., Ltd のウェブサイト/アプリの利用に関する規則と規制を概説するものです。

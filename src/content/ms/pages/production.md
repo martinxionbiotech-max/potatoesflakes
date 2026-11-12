@@ -1,6 +1,6 @@
 ---
 title: "Pengeluaran"
-description: "Pengeluaran Pengilang Serpihan Kentang XION"
+description: "Produk kami terbahagi kepada dua kategori utama: serpihan kentang dan kentang lenyek segera berperisa. Serpihan kentang adalah bahan mentah teras untuk…"
 ---
 
 Produk kami terbahagi kepada dua kategori utama: [serpihan kentang](/) dan [kentang lenyek segera](/product-category/instant-mashed-potato/) berperisa. Serpihan kentang adalah bahan mentah teras untuk kentang lenyek segera berperisa dan boleh digunakan untuk penghasilan makanan ringan seperti kerepek kentang dan produk makanan lain.

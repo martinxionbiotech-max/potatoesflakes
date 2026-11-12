@@ -4,6 +4,8 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import { formatPriceRange, getPriceRange } from '../../pricing';
+import { extractFaq } from '../../faq';
+import { imgAttrs } from '../../img';
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -15,6 +17,7 @@ export async function getStaticPaths() {
 
 const { product } = Astro.props;
 const { Content } = await render(product);
+const faq = extractFaq((product as any).body ?? '', 'en');
 
 const price = getPriceRange(product.data.category);
 
@@ -113,6 +116,7 @@ const productSchema = {
   canonical={`/product/${product.slug}/`}
   pageType="ItemPage"
   crumbName={product.data.title}
+  faq={faq}
   breadcrumbs={[
     { name: 'Product', href: '/product/' },
     { name: product.data.categoryName, href: `/product-category/${product.data.category}/` },
@@ -134,12 +138,12 @@ const productSchema = {
     <div class="grid gap-10 lg:grid-cols-2">
       <div>
         {product.data.image ? (
-          <img src={product.data.image} alt={product.data.title} class="w-full rounded-2xl shadow-lg" loading="eager" />
+          <img src={product.data.image} alt={product.data.title} class="w-full rounded-2xl shadow-lg" loading="eager" {...imgAttrs(product.data.image)} />
         ) : null}
         {product.data.gallery && product.data.gallery.length > 0 && (
           <div class="mt-4 grid grid-cols-4 gap-3">
             {product.data.gallery.map((g) => (
-              <img src={`/wp-content/${g}`} alt={product.data.title} class="aspect-square w-full rounded-lg object-cover" loading="lazy" />
+              <img src={`/wp-content/${g}`} alt={product.data.title} class="aspect-square w-full rounded-lg object-cover" loading="lazy" {...imgAttrs(`/wp-content/${g}`)} />
             ))}
           </div>
         )}

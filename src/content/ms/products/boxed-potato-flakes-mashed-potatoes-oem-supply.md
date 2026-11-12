@@ -1,6 +1,6 @@
 ---
 title: "XION Bekas Kentang Flakes Kentang Tumbuk OEM Bekalan"
-description: "XION Bekas Kentang Flakes Kentang Tumbuk OEM Bekalan XION Pengilang Kentang Flakes"
+description: "Kadbod putih dengan berat lebih tinggi (cth., melebihi 300 g/㎡) menunjukkan prestasi lebih baik dari segi kapasiti beban."
 category: "instant-mashed-potato"
 categoryName: "Bulk Instant Mashed Potatoes OEM"
 sku: "7971"

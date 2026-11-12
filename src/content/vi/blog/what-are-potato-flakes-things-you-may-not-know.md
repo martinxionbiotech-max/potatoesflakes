@@ -1,6 +1,6 @@
 ---
 title: "Vảy khoai tây là gì? Những điều bạn có thể chưa biết"
-description: "Vảy khoai tây là gì? Những điều bạn có thể chưa biết"
+description: "Vảy khoai tây là sản phẩm cuối cùng thu được sau khi chế biến khoai tây tươi qua một loạt các bước bao gồm làm sạch, gọt vỏ, hấp, nghiền và sấy khô."
 pubDate: "2024-07-06"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/potato-flakes-2.png"

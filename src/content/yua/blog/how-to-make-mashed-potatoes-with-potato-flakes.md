@@ -1,6 +1,6 @@
 ---
 title: "點樣用薯片整薯蓉？仲有咩方法？"
-description: "點樣用薯片整薯蓉？仲有咩方法？薯片同調味薯蓉網誌 XION 薯片製造商"
+description: "一般嚟講，你只需要 50 克薯片同 200 克熱水或者熱奶。將熱水或者熱奶倒入薯片度，等佢浸 20 秒，然後輕輕攪拌，就有一份新鮮嘅原味薯蓉。"
 pubDate: "2024-07-27"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/mashed-potato.png"

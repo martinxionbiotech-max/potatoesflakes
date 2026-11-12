@@ -1,6 +1,6 @@
 ---
 title: "Hizmetler"
-description: "XION Patates Pul Üreticisi Hizmetleri"
+description: "XION, toplu patates pulu ve hazır patates püresi alıcıları için numune geliştirme, ambalaj baskısı, OEM özelleştirme, özel etiketli dolum ve ihracat evrak desteği sunar."
 ---
 
 ### 1. Numune Hizmeti:

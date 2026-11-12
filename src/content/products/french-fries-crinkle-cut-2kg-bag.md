@@ -1,6 +1,6 @@
 ---
 title: "French Fries Crinkle Cut 2kg Bag"
-description: "French Fries Crinkle Cut 2kg Bag XION Potato Flakes Manufacturer"
+description: "These crinkle-cut fries are perfect for customers who enjoy fresh and high-quality snacks, ideal for offering a delicious side or snack in any dining…"
 category: "frozen-french-fries"
 categoryName: "Frozen French Fries"
 sku: "8132"

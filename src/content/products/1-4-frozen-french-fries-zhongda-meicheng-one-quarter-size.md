@@ -1,6 +1,6 @@
 ---
 title: "1/4\" Frozen French Fries Zhongda Meicheng One Quarter Size"
-description: "1/4\" Frozen French Fries Zhongda Meicheng One Quarter Size XION Potato Flakes Manufacturer"
+description: "McCain frozen french fries are the same as McDonald’s and KFC; they have excellent taste and are exported to many countries."
 category: "frozen-french-fries"
 categoryName: "Frozen French Fries"
 sku: "8121"

@@ -1,6 +1,6 @@
 ---
 title: "2024年中國薯仔片最新國家標準（2024年5月14號起實施）"
-description: "2024年中國薯仔片最新國家標準（2024年5月14號起實施）薯仔片同調味薯蓉Blog XION薯仔片生產商"
+description: "本文件按照 GB/T 1.1-2020《標準化工作導則 第1部分：標準化文件嘅結構同起草規則》嘅規定起草。請注意本文件嘅某啲內容可能涉及專利。本文件嘅發布機構唔承擔識別專利嘅責任。本文件由國家糧食和物資儲備局提出。"
 pubDate: "2024-04-12"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/04/potato-flakes.png"

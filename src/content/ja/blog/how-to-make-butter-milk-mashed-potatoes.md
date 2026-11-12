@@ -1,6 +1,6 @@
 ---
 title: "バターミルクマッシュポテトの作り方"
-description: "バターミルクマッシュポテトの作り方 XION ポテトフレーク製造元"
+description: "バターミルクマッシュポテトの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-28"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/butter-milk-mashed-potatoes.png"

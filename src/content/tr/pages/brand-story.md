@@ -1,6 +1,6 @@
 ---
 title: "Marka Hikayesi"
-description: "XION Patates Pulu Üreticisi Marka Hikayesi"
+description: "Her yıl Eylül ayının sonunda, Hebei, Zhangjiakou'daki Bashang Platosu hareketlilikle dolar. Çok sayıda işçi iş bulmak için burada toplanır ve çeşitli…"
 ---
 
 ## Hikayemiz

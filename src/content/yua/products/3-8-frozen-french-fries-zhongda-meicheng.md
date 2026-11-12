@@ -1,6 +1,6 @@
 ---
 title: "3/8\" 凍薯條 中大美成"
-description: "3/8\" 凍薯條 中大美成 XION 薯片製造商"
+description: "3/8\\\" 凍薯條 中大美成。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "frozen-french-fries"
 categoryName: "凍薯條"
 sku: "8117"

@@ -1,6 +1,6 @@
 ---
 title: "ポテトフレーク生産ライン 中国製トップ品質"
-description: "ポテトフレーク生産ライン 中国製トップ品質 XIONポテトフレークメーカー"
+description: "ポテトフレーク生産ライン 中国製トップ品質。XION（DinWeys Biotech）が中国河北省で製造する業務用ジャガイモ製品。仕様・包装・最小ロットはお問い合わせください。"
 category: "potato-flakes"
 categoryName: "バルクポテトフレーク"
 sku: "8061"

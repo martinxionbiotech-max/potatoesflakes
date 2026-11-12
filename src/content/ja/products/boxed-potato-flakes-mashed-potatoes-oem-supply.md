@@ -1,6 +1,6 @@
 ---
 title: "XION 箱入りポテトフレーク マッシュポテト OEM供給"
-description: "XION 箱入りポテトフレーク マッシュポテト OEM供給 XION ポテトフレークメーカー"
+description: "弊社は箱入りポテトフレークに関して多くの生産実験を行ってきました。この製品のご注文にご興味があれば、より総合的にご検討いただけるよう、弊社がまとめた経験がお役に立つかもしれません。"
 category: "instant-mashed-potato"
 categoryName: "業務用インスタントマッシュポテト OEM"
 sku: "7971"

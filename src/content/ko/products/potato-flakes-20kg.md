@@ -1,6 +1,6 @@
 ---
 title: "XION 표준 대량 인스턴트 감자 플레이크"
-description: "XION 표준 대량 인스턴트 감자 플레이크 XION 감자 플레이크 제조업체"
+description: "네, 무료 샘플을 제공할 수 있지만, 고객이 국제 특급 배송비를 부담해야 합니다. - 맞춤형 제품이 필요한 경우, 포장재를 지원해 주실 수 있나요?"
 category: "potato-flakes"
 categoryName: "대량 감자 플레이크"
 sku: "5833"

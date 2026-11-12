@@ -1,6 +1,6 @@
 ---
 title: "Bulk French Fries Frozen Manufacturer Direct (McCain Potato)"
-description: "Bulk French Fries Frozen Manufacturer Direct (McCain Potato) XION Potato Flakes Manufacturer"
+description: "As a professional frozen French fries manufacturer, we specialize in the production of high-quality bulk frozen French fries in various sizes and shapes. Our…"
 category: "frozen-french-fries"
 categoryName: "Frozen French Fries"
 sku: "8140"

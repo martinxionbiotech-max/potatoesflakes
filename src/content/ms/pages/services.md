@@ -1,6 +1,6 @@
 ---
 title: "Perkhidmatan"
-description: "Perkhidmatan Pengilang Kepingan Kentang XION"
+description: "XION menawarkan pembangunan sampel, cetakan pembungkusan, penyesuaian OEM, pengisian label peribadi dan sokongan dokumen eksport untuk pembeli pukal kepingan kentang dan puri kentang segera."
 ---
 
 ### 1. Perkhidmatan Sampel:

@@ -1,6 +1,6 @@
 ---
 title: "Khoai Tây Chiên Đông Lạnh 1/4\" Zhongda Meicheng Kích Thước Một Phần Tư"
-description: "Khoai Tây Chiên Đông Lạnh 1/4\" Zhongda Meicheng Kích Thước Một Phần Tư XION Nhà Sản Xuất Vảy Khoai Tây"
+description: "Khoai tây chiên đông lạnh McCain giống như của McDonald's và KFC; chúng có hương vị tuyệt hảo và được xuất khẩu sang nhiều quốc gia."
 category: "frozen-french-fries"
 categoryName: "Khoai Tây Chiên Đông Lạnh"
 sku: "8121"

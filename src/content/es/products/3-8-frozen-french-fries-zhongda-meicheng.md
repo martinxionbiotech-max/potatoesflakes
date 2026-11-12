@@ -1,6 +1,6 @@
 ---
 title: "3/8\" Papas Fritas Congeladas Zhongda Meicheng"
-description: "3/8\" Papas Fritas Congeladas Zhongda Meicheng Fabricante de Copos de Papa XION"
+description: "Las papas fritas congeladas McCain son las mismas que las de McDonald's y KFC"
 category: "frozen-french-fries"
 categoryName: "Papas Fritas Congeladas"
 sku: "8117"

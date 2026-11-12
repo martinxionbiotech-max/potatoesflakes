@@ -1,6 +1,6 @@
 ---
 title: "牛肉入りレッドブレイズポテトボールの調理方法"
-description: "牛肉入りレッドブレイズポテトボールの調理方法 XION ポテトフレークメーカー"
+description: "牛肉入りレッドブレイズポテトボールの調理方法。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-4.jpg"

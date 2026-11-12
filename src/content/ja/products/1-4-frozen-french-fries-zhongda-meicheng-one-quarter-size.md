@@ -1,6 +1,6 @@
 ---
 title: "1/4インチ冷凍フライドポテト 中達美成 クォーターサイズ"
-description: "1/4インチ冷凍フライドポテト 中達美成 クォーターサイズ XION ポテトフレーク製造元"
+description: "McCainの冷凍フライドポテトは、マクドナルドやKFCと同じで、優れた味わいを持ち、多くの国に輸出されています。"
 category: "frozen-french-fries"
 categoryName: "冷凍フライドポテト"
 sku: "8121"

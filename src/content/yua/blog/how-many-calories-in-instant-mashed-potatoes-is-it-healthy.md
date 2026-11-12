@@ -1,6 +1,6 @@
 ---
 title: "即食薯蓉有幾多卡路里？係咪健康㗎？"
-description: "即食薯蓉有幾多卡路里？係咪健康㗎？XION 薯片製造商"
+description: "如果你成日都諗，即食薯蓉到底係用咩整嘅、健唔健康，甚至點樣可以食得精明啲，咁你就嚟啱地方喇。作為一間優質即食薯蓉粉製造商，等我哋幫你了解吓呢種方便 comfort food 嘅事實。"
 pubDate: "2025-01-16"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2025/01/instant-mashed-potato-scaled.jpg"

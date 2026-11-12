@@ -1,6 +1,6 @@
 ---
 title: "Vảy Khoai Tây cho Mồi Câu Cá và Thức Ăn Chăn Nuôi"
-description: "Vảy Khoai Tây cho Mồi Câu Cá và Thức Ăn Chăn Nuôi Nhà Sản Xuất Vảy Khoai Tây XION"
+description: "Cho dù bạn đang pha chế chất dẫn dụ cá, làm giàu khẩu phần ăn cho vật nuôi, hay phát triển hỗn hợp thức ăn tiết kiệm chi phí, vảy khoai tây của chúng tôi…"
 category: "potato-flakes"
 categoryName: "Vảy Khoai Tây Số Lượng Lớn"
 sku: "8143"

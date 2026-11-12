@@ -1,6 +1,6 @@
 ---
 title: "Hazır Patates Püresinde Kaç Kalori Var? Sağlıklı mı?"
-description: "Hazır Patates Püresinde Kaç Kalori Var? Sağlıklı mı? XION Patates Pul Üreticisi"
+description: "Hazır patates püresinin neyden yapıldığını, ne kadar sağlıklı olduğunu ve hatta nasıl sorumlu bir şekilde tüketileceğini hiç merak ettiyseniz, doğru…"
 pubDate: "2025-01-16"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2025/01/instant-mashed-potato-scaled.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Flocos de Batata Instantâneos Padrão XION a Granel"
-description: "Flocos de Batata Instantâneos Padrão XION a Granel Fabricante de Flocos de Batata XION"
+description: "Sim, podemos fornecer amostras grátis, mas os clientes precisam de pagar o envio expresso internacional. - Se precisarmos de produtos personalizados, podem…"
 category: "potato-flakes"
 categoryName: "Flocos de Batata a Granel"
 sku: "5833"
@@ -21,7 +21,7 @@ gallery:
 - Temos certificações de qualidade como ISO 9001, HACCP e BRC.
 - A cor é branco puro, o que também é um requisito da maioria dos clientes.
 - O grau de maturação é superior a 90%, tornando-o mais adequado para panificação e processamento de alimentos.
-- Norma do Produto: SB/T 10752-2012. Dados de https://std.samr.gov.cn/. Leia o [Texto de referência.](/pt/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
+- Norma do Produto: SB/T 10752-2012. Dados de https://std.samr.gov.cn/. Leia o [Texto de referência.](/pt/blog/the-latest-national-standard-for-potato-flakes-in-china-in-2024-effective-from-may-14th/)
 
 ## Características
 

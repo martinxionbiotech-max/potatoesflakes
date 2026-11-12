@@ -1,6 +1,6 @@
 ---
 title: "點樣整Buttermilk薯蓉"
-description: "點樣整Buttermilk薯蓉 XION薯片製造商"
+description: "點樣整Buttermilk薯蓉。呢個係用 XION 薯仔片整嘅簡單食譜，由材料份量、事前準備、煮食步驟到最後點樣整得好食，一步一步同你講清楚。"
 pubDate: "2024-04-28"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/butter-milk-mashed-potatoes.png"

@@ -1,6 +1,6 @@
 ---
 title: "آیا پولکهای سیبزمینی سالم هستند؟"
-description: "آیا پولکهای سیبزمینی سالم هستند؟ تولیدکننده پولک سیبزمینی XION"
+description: "پولکهای سیبزمینی، اگرچه مدتها بهعنوان یک افزودنی غذایی و مادهای مهم برای تنظیم طعم و ظاهر کلی غذا در نظر گرفته میشدند، در واقع ارزش غذایی قابل توجهی دارند که…"
 pubDate: "2024-07-09"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/03/potato-flakes-2.jpg"

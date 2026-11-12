@@ -1,6 +1,6 @@
 ---
 title: "감자 플레이크 준비 방법은? 알아야 할 5가지 팁"
-description: "감자 플레이크 준비 방법은? 알아야 할 5가지 팁 XION 감자 플레이크 제조사"
+description: "먼저, 감자 플레이크를 생산하는 데 필요한 신선한 감자의 비율이 5:1이라는 것을 이해하는 것이 중요합니다."
 pubDate: "2024-07-30"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/微信图片_20240803124449-scaled.jpg"

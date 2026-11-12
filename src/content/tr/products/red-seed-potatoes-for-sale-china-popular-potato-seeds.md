@@ -1,6 +1,6 @@
 ---
 title: "Kırmızı Tohumluk Patates Satışı - Çin'in Popüler Patates Tohumları"
-description: "Kırmızı Tohumluk Patates Satışı - Çin'in Popüler Patates Tohumları XION Patates Püresi Üreticisi"
+description: "Birinci sınıf kırmızı tohumluk patateslerimiz, kendine özgü kırmızı kabukları ve sarı iç etleri nedeniyle Çin'de oldukça rağbet görmektedir; bu da onları…"
 category: "seed-potatoes"
 categoryName: "Tohumluk Patatesler"
 sku: "8145"

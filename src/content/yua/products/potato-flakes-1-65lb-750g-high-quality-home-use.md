@@ -1,6 +1,6 @@
 ---
 title: "薯片 1.65磅（750克）高質素家用裝"
-description: "百分百用大西洋薯仔做原材料。獲印尼清真認證。由世界知名製造商「鴻基」生產。1.65磅薯片"
+description: "薯片 1.65磅（750克）高質素家用裝。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "instant-mashed-potato"
 categoryName: "大量即食薯蓉 OEM"
 sku: "7787"

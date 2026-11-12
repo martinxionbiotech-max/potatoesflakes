@@ -1,6 +1,6 @@
 ---
 title: "La Nostra Storia"
-description: "La Nostra Storia XION Produttore di Fiocchi di Patate"
+description: "Ogni anno, alla fine di settembre, l'altopiano di Bashang a Zhangjiakou, Hebei, diventa un luogo di grande fermento. Un gran numero di lavoratori si raduna…"
 ---
 
 ## La Nostra Storia

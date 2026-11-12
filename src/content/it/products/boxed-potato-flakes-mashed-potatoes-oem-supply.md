@@ -1,6 +1,6 @@
 ---
 title: "Fornitura OEM di Fiocchi di Patate in Scatola XION per Purè di Patate"
-description: "Fornitura OEM di Fiocchi di Patate in Scatola XION per Purè di Patate Produttore di Fiocchi di Patate XION"
+description: "Il cartoncino bianco con grammatura più elevata (es. superiore a 300 g/m²) offre prestazioni migliori in termini di capacità di carico."
 category: "instant-mashed-potato"
 categoryName: "Purè di Patate Istantaneo all'Ingrosso OEM"
 sku: "7971"

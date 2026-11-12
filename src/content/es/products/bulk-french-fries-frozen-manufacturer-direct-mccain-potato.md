@@ -1,6 +1,6 @@
 ---
 title: "Papas Fritas Congeladas al por Mayor Directo de Fábrica (Papa McCain)"
-description: "Papas Fritas Congeladas al por Mayor Directo de Fábrica (Papa McCain) Fabricante de Hojuelas de Papa XION"
+description: "Como fabricante profesional de papas fritas congeladas, nos especializamos en la producción de papas fritas congeladas al por mayor de alta calidad en varios…"
 category: "frozen-french-fries"
 categoryName: "Papas Fritas Congeladas"
 sku: "8140"

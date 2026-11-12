@@ -1,6 +1,6 @@
 ---
 title: "XION Standart Toplu Hazır Patates Püresi Pulları"
-description: "XION Standart Toplu Hazır Patates Püresi Pulları XION Patates Püresi Üreticisi"
+description: "Müşterinin gereksinimlerine göre Çin'de gerekli ambalaj malzemelerini özelleştirebiliriz. - Şirketinizden nasıl ürün satın alabiliriz?"
 category: "potato-flakes"
 categoryName: "Toplu Patates Püresi Pulları"
 sku: "5833"

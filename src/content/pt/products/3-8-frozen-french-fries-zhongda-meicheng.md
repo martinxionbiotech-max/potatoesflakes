@@ -1,6 +1,6 @@
 ---
 title: "Batatas Fritas Congeladas 3/8\" Zhongda Meicheng"
-description: "Batatas Fritas Congeladas 3/8\" Zhongda Meicheng Fabricante de Flocos de Batata XION"
+description: "As batatas fritas congeladas McCain são as mesmas que as do McDonald's e KFC"
 category: "frozen-french-fries"
 categoryName: "Batatas Fritas Congeladas"
 sku: "8117"

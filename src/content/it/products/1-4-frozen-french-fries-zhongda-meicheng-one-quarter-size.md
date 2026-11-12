@@ -1,6 +1,6 @@
 ---
 title: "Patatine Fritte Surgelate 1/4\" Zhongda Meicheng Formato Un Quarto"
-description: "Patatine Fritte Surgelate 1/4\" Zhongda Meicheng Formato Un Quarto Produttore di Fiocchi di Patate XION"
+description: "Le patatine fritte surgelate McCain sono le stesse di quelle di McDonald's e KFC; hanno un gusto eccellente e vengono esportate in molti paesi."
 category: "frozen-french-fries"
 categoryName: "Patatine Fritte Surgelate"
 sku: "8121"

@@ -1,6 +1,6 @@
 ---
 title: "Sản Xuất"
-description: "Nhà Sản Xuất Vảy Khoai Tây XION"
+description: "Sản phẩm của chúng tôi chủ yếu được chia thành hai loại: vảy khoai tây và [khoai tây nghiền] ăn liền có hương vị (/product-category/instant-mashed-potato/)…"
 ---
 
 Sản phẩm của chúng tôi chủ yếu được chia thành hai loại: [vảy khoai tây](/) và [khoai tây nghiền] ăn liền có hương vị (/product-category/instant-mashed-potato/). Vảy khoai tây là nguyên liệu thô cốt lõi cho khoai tây nghiền ăn liền có hương vị và có thể được sử dụng để sản xuất các loại thực phẩm giải trí như khoai tây chiên và các sản phẩm thực phẩm khác.

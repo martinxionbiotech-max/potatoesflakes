@@ -1,6 +1,6 @@
 ---
 title: "海鮮炒土豆糰子的烹飪方法"
-description: "海鮮炒土豆糰子的烹飪方法 土豆泥食譜 XION土豆片製造商"
+description: "海鮮炒土豆糰子的烹飪方法。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-05-03"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/05/2-2.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "XION Original Instant Mashed Potato Flakes OEM"
+title: "Serbuk Kentang Lenyek Segera Asli XION (OEM)"
 description: "Beli kentang lenyek segera pukal dan OEM serta kepingan kentang premium daripada pengilang terkemuka di China"
 category: "instant-mashed-potato"
 categoryName: "Kentang Lenyek Segera Pukal OEM"

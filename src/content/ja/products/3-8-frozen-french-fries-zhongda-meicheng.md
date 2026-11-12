@@ -1,6 +1,6 @@
 ---
 title: "3/8インチ 冷凍フライドポテト 中達美成"
-description: "3/8インチ 冷凍フライドポテト 中達美成 XION ポテトフレーク メーカー"
+description: "3/8インチ 冷凍フライドポテト 中達美成。XION（DinWeys Biotech）が中国河北省で製造する業務用ジャガイモ製品。仕様・包装・最小ロットはお問い合わせください。"
 category: "frozen-french-fries"
 categoryName: "冷凍フライドポテト"
 sku: "8117"

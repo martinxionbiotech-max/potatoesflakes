@@ -1,6 +1,6 @@
 ---
 title: "薯蓉（由薯片製成）嘅冷藏（–20 °C）對比速凍（–40 °C）"
-description: "薯蓉（由薯片製成）嘅冷藏（–20 °C）對比速凍（–40 °C） XION 薯片製造商"
+description: "薯蓉（由薯片製成）嘅冷藏（–20 °C）對比速凍（–40 °C）。用 XION 薯仔片整嘅食譜，材料同步驟一次過講清楚。"
 pubDate: "2025-08-14"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2025/08/quick-freezing-mashed-potato-2.jpg"

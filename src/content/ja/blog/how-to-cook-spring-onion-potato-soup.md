@@ -1,6 +1,6 @@
 ---
 title: "長ねぎポテトスープの作り方"
-description: "長ねぎポテトスープの作り方 マッシュポテトレシピ XION ポテトフレークメーカー"
+description: "長ねぎポテトスープの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-05-03"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/05/2-8.jpg"

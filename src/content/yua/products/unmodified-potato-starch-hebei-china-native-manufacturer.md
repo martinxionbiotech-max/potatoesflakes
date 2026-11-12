@@ -1,6 +1,6 @@
 ---
 title: "原味馬鈴薯澱粉 大批發 河北中國 原廠製造"
-description: "原味馬鈴薯澱粉 大批發 河北中國 原廠製造 XION 薯片製造商"
+description: "原味馬鈴薯澱粉 大批發 河北中國 原廠製造。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "potato-starch"
 categoryName: "馬鈴薯澱粉"
 sku: "8168"

@@ -1,6 +1,6 @@
 ---
 title: "Biji Kentang Merah Untuk Dijual - Biji Kentang Popular China"
-description: "Biji Kentang Merah Untuk Dijual - Biji Kentang Popular China Pengilang XION Kentang Keping"
+description: "Biji kentang merah premium kami sangat dicari di China kerana kulit merahnya yang tersendiri dan isi kuningnya, menjadikannya sesuai untuk pelbagai aplikasi…"
 category: "seed-potatoes"
 categoryName: "Biji Kentang"
 sku: "8145"

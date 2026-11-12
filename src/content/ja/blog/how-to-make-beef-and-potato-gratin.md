@@ -1,6 +1,6 @@
 ---
 title: "ビーフ＆ポテトグラタンの作り方"
-description: "ビーフ＆ポテトグラタンの作り方 XION ポテトフレークメーカー"
+description: "ビーフ＆ポテトグラタンの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-30"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-9.jpg"

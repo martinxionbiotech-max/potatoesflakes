@@ -1,6 +1,6 @@
 ---
 title: "História da Marca"
-description: "História da Marca XION Fabricante de Flocos de Batata"
+description: "Todos os anos, no final de setembro, o Planalto Bashang em Zhangjiakou, Hebei, torna-se num local de grande agitação. Um grande número de trabalhadores…"
 ---
 
 ## A Nossa História

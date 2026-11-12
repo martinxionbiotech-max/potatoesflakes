@@ -1,6 +1,6 @@
 ---
 title: "Gizlilik Politikası"
-description: "XION Patates Pul Üreticisi Gizlilik Politikası"
+description: "Bu Gizlilik Politikası, Hizmeti kullanırken Bilgilerinizin toplanması, kullanılması ve ifşa edilmesine ilişkin politikalarımızı ve prosedürlerimizi açıklar…"
 ---
 
 ## Gizlilik Politikası

@@ -1,6 +1,6 @@
 ---
 title: "3/8\" Frozen French Fries Zhongda Meicheng"
-description: "3/8\" Frozen French Fries Zhongda Meicheng XION Potato Flakes Manufacturer"
+description: "McCain frozen french fries are the same as McDonald’s and KFC"
 category: "frozen-french-fries"
 categoryName: "Frozen French Fries"
 sku: "8117"

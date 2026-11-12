@@ -1,6 +1,6 @@
 ---
 title: "ポテトフレーク | 製造に使用されるポテトの品種は？"
-description: "ポテトフレーク | 製造に使用されるポテトの品種は？ ポテトフレークとフレーバーマッシュポテトのブログ XION ポテトフレークメーカー"
+description: "ポテトフレークの製造には、原材料に対する厳格な要件があります。特定のポテト品種が選ばれ、サイズや乾物含有量などの基準が規定されています。"
 pubDate: "2024-04-16"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/04/Potato-flakes-potato.png"

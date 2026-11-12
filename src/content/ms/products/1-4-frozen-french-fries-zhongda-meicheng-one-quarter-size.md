@@ -1,6 +1,6 @@
 ---
 title: "Kentang Goreng Beku 1/4\" Zhongda Meicheng Saiz Suku"
-description: "Kentang Goreng Beku 1/4\" Zhongda Meicheng Saiz Suku Pengilang Kepingan Kentang XION"
+description: "Kentang goreng beku McCain adalah sama seperti yang digunakan di McDonald's dan KFC; ia mempunyai rasa yang sangat baik dan dieksport ke banyak negara."
 category: "frozen-french-fries"
 categoryName: "Kentang Goreng Beku"
 sku: "8121"

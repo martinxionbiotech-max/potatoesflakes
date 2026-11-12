@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
+import { imgAttrs } from '../../img';
+import { listSeo } from '../../seo';
 
 export async function getStaticPaths() {
   const categories = [
@@ -20,11 +22,13 @@ export async function getStaticPaths() {
 }
 
 const { cat, products } = Astro.props;
+const seo = listSeo('en');
+const catDesc = cat.desc.length >= 70 ? cat.desc : `${cat.desc} ${seo.catSuffix}`;
 ---
 
 <BaseLayout
   title={cat.name}
-  description={cat.desc}
+  description={catDesc}
   pageType="CollectionPage"
   crumbName={cat.name}
   breadcrumbs={[{ name: 'Product', href: '/product/' }]}
@@ -46,7 +50,7 @@ const { cat, products } = Astro.props;
         <a href={`/product/${p.slug}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
           <div class="aspect-square overflow-hidden bg-gray-100">
             {p.data.image ? (
-              <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+              <img src={p.data.image} alt={p.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" {...imgAttrs(p.data.image)} />
             ) : (
               <div class="flex h-full items-center justify-center text-gray-400">No image</div>
             )}

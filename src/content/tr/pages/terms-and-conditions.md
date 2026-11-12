@@ -1,6 +1,6 @@
 ---
 title: "Şartlar ve Koşullar"
-description: "Şartlar ve Koşullar XION Patates Püresi Üreticisi"
+description: "Bu şartlar ve koşullar, Xion Bio-Tech Co., Ltd Web Sitesi/Uygulaması'nın kullanımına ilişkin kural ve düzenlemeleri özetlemektedir."
 ---
 
 Bu şartlar ve koşullar, Xion Bio-Tech Co., Ltd Web Sitesi/Uygulaması'nın kullanımına ilişkin kural ve düzenlemeleri özetlemektedir.

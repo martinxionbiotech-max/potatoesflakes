@@ -1,6 +1,6 @@
 ---
 title: "條款及細則"
-description: "條款及細則 XION 薯仔片製造商"
+description: "只要你進入呢個網站/應用程式，我哋就假設你完全接受呢啲條款及細則。如果你唔接受呢頁所列嘅所有條款及細則，就唔好繼續使用 Xion Bio-Tech Co., Ltd 嘅網站/應用程式。"
 ---
 
 呢啲條款及細則概述咗使用 Xion Bio-Tech Co., Ltd 網站/應用程式嘅規則同規例。

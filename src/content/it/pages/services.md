@@ -1,6 +1,6 @@
 ---
 title: "Servizi"
-description: "Servizi Produttore di Fiocchi di Patate XION"
+description: "XION offre sviluppo campioni, stampa personalizzata degli imballaggi, personalizzazione OEM, confezionamento a marchio privato e supporto documentale per l'esportazione a chi acquista fiocchi di patate e purè istantaneo all'ingrosso."
 ---
 
 ### 1. Servizio Campioni:

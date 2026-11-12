@@ -1,6 +1,6 @@
 ---
 title: "Toptan Donuk Patates Kızartması Üreticisinden Doğrudan (McCain Patates)"
-description: "Toptan Donuk Patates Kızartması Üreticisinden Doğrudan (McCain Patates) XION Patates Pul Üreticisi"
+description: "Profesyonel bir donuk patates kızartması üreticisi olarak, çeşitli boyut ve şekillerde yüksek kaliteli toptan donuk patates kızartması üretiminde…"
 category: "frozen-french-fries"
 categoryName: "Donuk Patates Kızartması"
 sku: "8140"

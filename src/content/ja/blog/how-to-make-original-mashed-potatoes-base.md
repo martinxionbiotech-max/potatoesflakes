@@ -1,6 +1,6 @@
 ---
 title: "オリジナルマッシュポテトベースの作り方"
-description: "オリジナルマッシュポテトベースの作り方 XIONポテトフレークメーカー"
+description: "オリジナルマッシュポテトベースの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/3-1.jpg"

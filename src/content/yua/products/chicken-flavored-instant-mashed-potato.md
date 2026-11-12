@@ -1,6 +1,6 @@
 ---
 title: "大量裝雞肉味即食薯蓉粉"
-description: "大量裝雞肉味即食薯蓉粉 XION 薯片製造商"
+description: "大量裝雞肉味即食薯蓉粉。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "instant-mashed-potato"
 categoryName: "大量裝即食薯蓉 OEM"
 sku: "5656"

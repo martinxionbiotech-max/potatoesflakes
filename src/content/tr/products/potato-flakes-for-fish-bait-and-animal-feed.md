@@ -1,6 +1,6 @@
 ---
 title: "Patates Pulları Balık Yemi ve Hayvan Yemi İçin"
-description: "Patates Pulları Balık Yemi ve Hayvan Yemi İçin XION Patates Pulları Üreticisi"
+description: "Birinci sınıf Patates Pullarımız , balık yemi formülasyonunda ve hayvan yemi üretiminde yaygın olarak kullanılan çok yönlü bir bileşendir. %100 doğal…"
 category: "potato-flakes"
 categoryName: "Toptan Patates Pulları"
 sku: "8143"

@@ -1,6 +1,6 @@
 ---
 title: "วิธีทำมันบดเนยนม"
-description: "วิธีทำมันบดเนยนม XION ผู้ผลิตเกล็ดมันฝรั่ง"
+description: "วิธีทำมันบดเนยนมเนื้อเนียนนุ่ม หอมมันเนย ทำง่ายใน 10 นาที ด้วยเกล็ดมันฝรั่ง XION พร้อมเคล็ดลับการตีให้เนียนและปรับความข้นตามชอบ"
 pubDate: "2024-04-28"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/butter-milk-mashed-potatoes.png"

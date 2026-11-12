@@ -1,6 +1,6 @@
 ---
 title: "Khoai Tây Chiên Đông Lạnh Sỉ Trực Tiếp Từ Nhà Máy (Khoai Tây McCain)"
-description: "Khoai Tây Chiên Đông Lạnh Sỉ Trực Tiếp Từ Nhà Máy (Khoai Tây McCain) Nhà Sản Xuất Khoai Tây Nghiền XION"
+description: "Là một nhà sản xuất khoai tây chiên đông lạnh chuyên nghiệp, chúng tôi chuyên sản xuất khoai tây chiên đông lạnh sỉ chất lượng cao với nhiều kích cỡ và hình…"
 category: "frozen-french-fries"
 categoryName: "Khoai Tây Chiên Đông Lạnh"
 sku: "8140"

@@ -1,6 +1,6 @@
 ---
 title: "XION 散裝即食馬鈴薯片（薯粉）"
-description: "中國頂級散裝薯片、研磨薯片同即食薯蓉供應商。支持現貨同 OEM。"
+description: "XION 散裝即食馬鈴薯片（薯粉）。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "potato-flakes"
 categoryName: "散裝薯片"
 sku: "5834"

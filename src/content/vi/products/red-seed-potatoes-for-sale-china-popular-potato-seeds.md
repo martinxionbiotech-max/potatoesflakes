@@ -1,6 +1,6 @@
 ---
 title: "Hạt Giống Khoai Tây Đỏ Bán Chạy - Giống Khoai Tây Phổ Biến Trung Quốc"
-description: "Hạt Giống Khoai Tây Đỏ Bán Chạy - Giống Khoai Tây Phổ Biến Trung Quốc Nhà Sản Xuất Khoai Tây Nghiền XION"
+description: "Hạt giống khoai tây đỏ cao cấp của chúng tôi được ưa chuộng rộng rãi tại Trung Quốc nhờ vỏ đỏ đặc trưng và ruột vàng, khiến chúng trở nên lý tưởng cho nhiều…"
 category: "seed-potatoes"
 categoryName: "Hạt Giống Khoai Tây"
 sku: "8145"

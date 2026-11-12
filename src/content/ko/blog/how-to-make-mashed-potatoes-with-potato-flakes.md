@@ -1,6 +1,6 @@
 ---
 title: "감자 플레이크로 으깬 감자 만드는 법? 그 외에도?"
-description: "감자 플레이크로 으깬 감자 만드는 법? 그 외에도? 감자 플레이크 및 시즈닝 으깬 감자 블로그 XION 감자 플레이크 제조사"
+description: "으깬 감자를 만드는 방법은 여러 가지가 있으며, 감자 플레이크를 사용하는 것이 가장 편리한 방법 중 하나입니다."
 pubDate: "2024-07-27"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/mashed-potato.png"

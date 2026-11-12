@@ -1,5 +1,5 @@
 ---
-title: "Contacto"
+title: "Contato"
 description: "Contacte o fabricante de flocos de batata XION para flocos de batata a granel, puré de batata instantâneo, produtos OEM e personalizados."
 ---
 

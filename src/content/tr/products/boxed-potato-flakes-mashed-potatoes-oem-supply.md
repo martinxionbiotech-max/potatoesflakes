@@ -1,6 +1,6 @@
 ---
 title: "XION Kutu Patates Pulu Püre Patates OEM Tedariki"
-description: "XION Kutu Patates Pulu Püre Patates OEM Tedariki XION Patates Pulu Üreticisi"
+description: "Daha yüksek gramajlı (örn. 300 g/㎡ üzeri) beyaz karton kağıt, yük taşıma kapasitesi açısından daha iyi performans gösterir."
 category: "instant-mashed-potato"
 categoryName: "Toplu Hazır Püre Patates OEM"
 sku: "7971"

@@ -1,6 +1,6 @@
 ---
 title: "بطاطس مقلية مجمدة مقاس 3/8 إنش - Zhongda Meicheng"
-description: "بطاطس مقلية مجمدة مقاس 3/8 إنش - Zhongda Meicheng XION لتصنيع رقائق البطاطس"
+description: "بطاطس McCain المقلية المجمدة هي نفسها المستخدمة في ماكدونالدز وكنتاكي"
 category: "frozen-french-fries"
 categoryName: "بطاطس مقلية مجمدة"
 sku: "8117"

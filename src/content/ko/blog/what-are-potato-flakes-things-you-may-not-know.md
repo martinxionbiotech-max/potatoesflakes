@@ -1,6 +1,6 @@
 ---
 title: "감자 플레이크란 무엇인가? 당신이 알지 못했을 수도 있는 사실들"
-description: "감자 플레이크란 무엇인가? 당신이 알지 못했을 수도 있는 사실들"
+description: "감자 플레이크는 신선한 감자를 세척, 박피, 증숙, 으깨기, 건조 등의 일련의 과정을 거쳐 얻은 최종 제품입니다."
 pubDate: "2024-07-06"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/potato-flakes-2.png"

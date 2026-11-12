@@ -1,6 +1,6 @@
 ---
 title: "3/8\" Khoai Tây Chiên Đông Lạnh Zhongda Meicheng"
-description: "3/8\" Khoai Tây Chiên Đông Lạnh Zhongda Meicheng Nhà Sản Xuất Bột Khoai Tây XION"
+description: "Khoai tây chiên đông lạnh McCain giống như ở McDonald's và KFC"
 category: "frozen-french-fries"
 categoryName: "Khoai Tây Chiên Đông Lạnh"
 sku: "8117"

@@ -1,6 +1,6 @@
 ---
 title: "پولک سیبزمینی چیست؟ نکاتی که ممکن است ندانید"
-description: "پولک سیبزمینی چیست؟ نکاتی که ممکن است ندانید"
+description: "پولک سیبزمینی محصول نهایی است که پس از فرآوری سیبزمینی تازه از طریق مراحل متعددی شامل شستوشو، پوستگیری، بخارپز کردن، له کردن و خشک کردن به دست میآید."
 pubDate: "2024-07-06"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/potato-flakes-2.png"

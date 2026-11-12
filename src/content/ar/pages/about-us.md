@@ -1,6 +1,6 @@
 ---
 title: "من نحن"
-description: "من نحن - شركة XION لتصنيع رقائق البطاطس"
+description: "تم تغيير اسم الشركة إلى Dingwei Biotech Co., LTD. بالاسم التجاري: Dinweys في عام 2024."
 ---
 
 ## شركة XionBioTech المحدودة

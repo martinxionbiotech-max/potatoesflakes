@@ -1,6 +1,6 @@
 ---
 title: "Flocos de Batata para Isca de Peixe e Ração Animal"
-description: "Flocos de Batata para Isca de Peixe e Ração Animal Fabricante de Flocos de Batata XION"
+description: "Os nossos Flocos de Batata premium são um ingrediente versátil amplamente utilizado na formulação de iscas para peixe e na produção de ração animal. Feitos a…"
 category: "potato-flakes"
 categoryName: "Flocos de Batata a Granel"
 sku: "8143"

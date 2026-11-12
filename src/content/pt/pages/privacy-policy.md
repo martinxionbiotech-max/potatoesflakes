@@ -1,6 +1,6 @@
 ---
 title: "Política de Privacidade"
-description: "Política de Privacidade XION Fabricante de Flocos de Batata"
+description: "Esta Política de Privacidade descreve as nossas políticas e procedimentos sobre a recolha, utilização e divulgação das suas informações quando utiliza o…"
 ---
 
 ## Política de Privacidade

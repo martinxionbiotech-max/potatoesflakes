@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
+import { imgAttrs } from '../../img';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -60,7 +61,7 @@ const articleSchema = {
         {post.data.pubDate && <> · Published: {post.data.pubDate}</>}
       </p>
       {post.data.image && (
-        <img src={post.data.image} alt={post.data.title} class="mt-6 w-full rounded-2xl shadow-md" loading="eager" />
+        <img src={post.data.image} alt={post.data.title} class="mt-6 w-full rounded-2xl shadow-md" loading="eager" {...imgAttrs(post.data.image)} />
       )}
       <div class="prose prose-lg mt-8 max-w-none">
         <Content />

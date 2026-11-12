@@ -1,6 +1,6 @@
 ---
 title: "Pengilang Terus Kentang Goreng Beku Pukal (McCain Potato)"
-description: "Pengilang Terus Kentang Goreng Beku Pukal (McCain Potato) XION Pengilang Serpihan Kentang"
+description: "Sebagai pengilang kentang goreng beku profesional, kami mengkhususkan diri dalam penghasilan kentang goreng beku pukal berkualiti tinggi dalam pelbagai saiz…"
 category: "frozen-french-fries"
 categoryName: "Kentang Goreng Beku"
 sku: "8140"

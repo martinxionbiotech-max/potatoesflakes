@@ -1,6 +1,6 @@
 ---
 title: "Patatine Fritte Surgelate all'Ingrosso Produttore Diretto (Patate McCain)"
-description: "Patatine Fritte Surgelate all'Ingrosso Produttore Diretto (Patate McCain) Produttore di Fiocchi di Patate XION"
+description: "Come produttore professionale di patatine fritte surgelate, siamo specializzati nella produzione di patatine fritte surgelate all'ingrosso di alta qualità in…"
 category: "frozen-french-fries"
 categoryName: "Patatine Fritte Surgelate"
 sku: "8140"

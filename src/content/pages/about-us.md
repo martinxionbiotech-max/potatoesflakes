@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "About Us XION Potato Flakes Manufacturer"
+description: "Company name was changed to Dingwei Biotech CO., Ltd. trading name: Dinweys in 2024."
 ---
 
 ## XionBioTech Co., Ltd

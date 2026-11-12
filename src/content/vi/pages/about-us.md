@@ -1,6 +1,6 @@
 ---
 title: "Về Chúng Tôi"
-description: "Về Chúng Tôi - Nhà Sản Xuất Bột Khoai Tây XION"
+description: "Tên công ty đã được đổi thành Công ty TNHH Công nghệ Sinh học Dingwei. Tên thương mại: Dinweys vào năm 2024."
 ---
 
 ## Công ty TNHH Công nghệ Sinh học XionBio

@@ -1,6 +1,6 @@
 ---
 title: "薯片生產線 中國製造 頂級品質"
-description: "薯片生產線 中國製造 頂級品質 XION 薯片生產商"
+description: "薯片生產線 中國製造 頂級品質。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "potato-flakes"
 categoryName: "散裝薯片"
 sku: "8061"

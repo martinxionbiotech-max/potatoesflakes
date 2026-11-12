@@ -1,6 +1,6 @@
 ---
 title: "Harga Kepingan Kentang Live Okt 2024 | Trend 2025 (Dikemaskini 30 Okt)"
-description: "Harga Kepingan Kentang Live Okt 2024 | Trend 2025 (Dikemaskini 30 Okt) Pengilang Kepingan Kentang XION"
+description: "Sejak Oktober 2023, harga kentang telah meningkat, terutamanya untuk kentang pemprosesan. Trend ini menyukarkan pengilang kepingan kentang di China untuk…"
 pubDate: "2024-10-30"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/10/1730263697587.png"

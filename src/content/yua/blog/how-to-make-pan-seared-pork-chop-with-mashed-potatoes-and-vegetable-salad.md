@@ -1,6 +1,6 @@
 ---
 title: "點樣整香煎豬扒配薯蓉同雜菜沙律"
-description: "點樣整香煎豬扒配薯蓉同雜菜沙律 XION 薯片製造商"
+description: "點樣整香煎豬扒配薯蓉同雜菜沙律。呢個係用 XION 薯仔片整嘅簡單食譜，由材料份量、事前準備、煮食步驟到最後點樣整得好食，一步一步同你講清楚。"
 pubDate: "2024-04-30"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-8.jpg"

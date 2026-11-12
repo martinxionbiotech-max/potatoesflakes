@@ -1,6 +1,6 @@
 ---
 title: "چند کالری در پوره سیب‌زمینی فوری وجود دارد؟ آیا سالم است؟"
-description: "چند کالری در پوره سیب‌زمینی فوری وجود دارد؟ آیا سالم است؟ تولیدکننده پولک سیب‌زمینی XION"
+description: "اگر تا به حال فکر کرده‌اید که پوره سیب‌زمینی فوری از چه چیزی ساخته شده، چقدر سالم است، یا حتی چگونه آن را به‌طور مسئولانه مصرف کنید، به جای درستی آمده‌اید…"
 pubDate: "2025-01-16"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2025/01/instant-mashed-potato-scaled.jpg"

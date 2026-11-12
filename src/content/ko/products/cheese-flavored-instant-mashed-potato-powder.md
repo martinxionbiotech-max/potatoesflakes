@@ -1,6 +1,6 @@
 ---
 title: "대용량 치즈맛 인스턴트 머시드 포테이토 파우더"
-description: "대용량 치즈맛 인스턴트 머시드 포테이토 파우더 XION 포테이토 플레이크 제조사"
+description: "대용량 치즈맛 인스턴트 머시드 포테이토 파우더. XION(DinWeys Biotech)이 중국 허베이성에서 생산하는 식품용 감자 제품입니다. 규격, 포장, 최소 주문량은 문의해 주세요."
 category: "instant-mashed-potato"
 categoryName: "대용량 인스턴트 머시드 포테이토 OEM"
 sku: "5818"

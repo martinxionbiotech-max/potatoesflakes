@@ -1,6 +1,6 @@
 ---
 title: "Patatine Fritte Surgelate 3/8\" Zhongda Meicheng"
-description: "Patatine Fritte Surgelate 3/8\" Zhongda Meicheng Produttore di Fiocchi di Patate XION"
+description: "Le patatine fritte surgelate McCain sono le stesse di McDonald's e KFC"
 category: "frozen-french-fries"
 categoryName: "Patatine Fritte Surgelate"
 sku: "8117"

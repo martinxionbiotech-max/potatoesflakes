@@ -1,6 +1,6 @@
 ---
 title: "Sobre Nós"
-description: "Sobre Nós Fabricante de Flocos de Batata XION"
+description: "O nome da empresa foi alterado para Dingwei Biotech CO., Ltd. nome comercial: Dinweys em 2024."
 ---
 
 ## XionBioTech Co., Ltd

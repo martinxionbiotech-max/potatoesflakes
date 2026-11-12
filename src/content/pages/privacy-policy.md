@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Privacy Policy XION Potato Flakes Manufacturer"
+description: "This Privacy Policy describes Our policies and procedures on the collection,"
 ---
 
 ## Privacy Policy

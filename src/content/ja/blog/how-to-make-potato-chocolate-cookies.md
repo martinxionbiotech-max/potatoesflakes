@@ -1,6 +1,6 @@
 ---
 title: "ポテトチョコレートクッキーの作り方"
-description: "ポテトチョコレートクッキーの作り方 マッシュポテトレシピ XION ポテトフレークメーカー"
+description: "ポテトチョコレートクッキーの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-05-03"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/05/2-4.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Kisah Jenama"
-description: "Kisah Jenama Pengilang XION Potato Flakes"
+description: "Setiap tahun, pada akhir bulan September, Dataran Tinggi Bashang di Zhangjiakou, Hebei menjadi sibuk dengan pelbagai aktiviti. Sebilangan besar pekerja…"
 ---
 
 ## Kisah Kami

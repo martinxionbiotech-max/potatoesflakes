@@ -1,6 +1,6 @@
 ---
 title: "Informativa sulla Privacy"
-description: "Informativa sulla Privacy XION Produttore di Fiocchi di Patate"
+description: "La presente Informativa sulla Privacy descrive le nostre politiche e procedure relative alla raccolta,"
 ---
 
 ## Informativa sulla Privacy

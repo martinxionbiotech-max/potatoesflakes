@@ -1,6 +1,6 @@
 ---
 title: "中國十大薯片製造商"
-description: "中國十大薯片製造商 XION 薯片製造商"
+description: "中國係世界上最大嘅薯片同薯蓉生產國之一，佢嘅薯仔加工業正經歷快速增長。呢個行業喺確保糧食安全、創造經濟機會同減少食物浪費方面扮演住至關重要嘅角色。以下係中國十大薯片製造商嘅詳細介紹，突出佢哋嘅優勢、專業領域同行業貢獻："
 pubDate: "2024-03-19"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/03/8-1024x594.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Terms and Conditions"
-description: "Terms and Conditions XION Potato Flakes Manufacturer"
+description: "These terms and conditions outline the rules and regulations for the use of Xion Bio-Tech Co., Ltd Website/App."
 ---
 
 These terms and conditions outline the rules and regulations for the use of Xion Bio-Tech Co., Ltd Website/App.

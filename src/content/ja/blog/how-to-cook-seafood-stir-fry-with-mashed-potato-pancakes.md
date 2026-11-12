@@ -1,6 +1,6 @@
 ---
 title: "海鮮炒菜とマッシュポテトパンケーキの作り方"
-description: "海鮮炒菜とマッシュポテトパンケーキの作り方 XION ポテトフレークメーカー"
+description: "海鮮炒菜とマッシュポテトパンケーキの作り方。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-29"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-3.jpg"

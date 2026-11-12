@@ -1,6 +1,6 @@
 ---
 title: "點樣準備薯片？你要知嘅5個貼士"
-description: "點樣準備薯片？你要知嘅5個貼士 XION薯片製造商"
+description: "根據我哋產品嘅分析證明書（COA），薯片每100克含有81.3克碳水化合物，營養參考值（NRV）指數係27%。即係話，食100克薯蓉可以提供你一日所需碳水化合物嘅接近三分之一。"
 pubDate: "2024-07-30"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/微信图片_20240803124449-scaled.jpg"

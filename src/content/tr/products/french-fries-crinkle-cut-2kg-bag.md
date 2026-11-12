@@ -1,6 +1,6 @@
 ---
 title: "Dalgalı Kesim Patates Kızartması 2kg Poşet"
-description: "Dalgalı Kesim Patates Kızartması 2kg Poşet XION Patates Püresi Üreticisi"
+description: "Bu dalgalı kesim patates kızartmaları, taze ve yüksek kaliteli atıştırmalıkları seven müşteriler için mükemmeldir; her türlü yemek mekânında lezzetli bir…"
 category: "frozen-french-fries"
 categoryName: "Dondurulmuş Patates Kızartması"
 sku: "8132"

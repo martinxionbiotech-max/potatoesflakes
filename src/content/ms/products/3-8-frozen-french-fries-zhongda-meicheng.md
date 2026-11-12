@@ -1,6 +1,6 @@
 ---
 title: "Kentang Goreng Beku 3/8\" Zhongda Meicheng"
-description: "Kentang Goreng Beku 3/8\" Zhongda Meicheng XION Pengilang Serpihan Kentang"
+description: "Kentang goreng beku McCain adalah sama seperti yang digunakan di McDonald's dan KFC"
 category: "frozen-french-fries"
 categoryName: "Kentang Goreng Beku"
 sku: "8117"

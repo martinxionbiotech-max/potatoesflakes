@@ -1,6 +1,6 @@
 ---
 title: "パン焼きステーキとマッシュポテト、マッシュルームの調理方法"
-description: "パン焼きステーキとマッシュポテト、マッシュルームの調理方法。XION ポテトフレーク製造元"
+description: "パン焼きステーキとマッシュポテト、マッシュルームの調理方法。XIONのポテトフレークを使ったレシピを、材料と手順に沿ってわかりやすく解説します。"
 pubDate: "2024-04-30"
 category: "mashed-potatoes-recipe"
 image: "/wp-content/uploads/2024/04/1-6.jpg"

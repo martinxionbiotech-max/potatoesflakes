@@ -1,6 +1,6 @@
 ---
 title: "Dịch Vụ"
-description: "Dịch Vụ Nhà Sản Xuất Vảy Khoai Tây XION"
+description: "XION cung cấp dịch vụ phát triển mẫu, in bao bì, tùy chỉnh OEM, đóng gói nhãn riêng và hỗ trợ chứng từ xuất khẩu cho người mua vảy khoai tây và khoai tây nghiền ăn liền với số lượng lớn."
 ---
 
 ### 1. Dịch Vụ Mẫu Thử:

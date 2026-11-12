@@ -1,6 +1,6 @@
 ---
 title: "Services"
-description: "Services XION Potato Flakes Manufacturer"
+description: "XION offers sample development, packaging printing, OEM customization, private-label filling and export documentation support for bulk potato flakes and instant mashed potato buyers."
 ---
 
 ### 1. Sample Service:

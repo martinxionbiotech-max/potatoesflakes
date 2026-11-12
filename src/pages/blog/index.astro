@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
+import { imgAttrs } from '../../img';
+import { listSeo } from '../../seo';
 
 const posts = (await getCollection('blog')).sort((a, b) => {
   const da = a.data.pubDate || '0';
@@ -12,8 +14,8 @@ const posts = (await getCollection('blog')).sort((a, b) => {
 ---
 
 <BaseLayout
-  title="Blog"
-  description="Expert guides on potato flakes, instant mashed potatoes, recipes, and industry insights from XION Potato Flakes Manufacturer."
+  title={listSeo('en').blogTitle}
+  description={listSeo('en').blogDesc}
   pageType="CollectionPage"
   crumbName="Blog"
 >
@@ -27,7 +29,7 @@ const posts = (await getCollection('blog')).sort((a, b) => {
         <a href={`/blog/${post.slug}/`} class="card-hover group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-100">
           <div class="aspect-video overflow-hidden bg-gray-100">
             {post.data.image ? (
-              <img src={post.data.image} alt={post.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+              <img src={post.data.image} alt={post.data.title} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" {...imgAttrs(post.data.image)} />
             ) : (
               <div class="flex h-full items-center justify-center text-gray-400">No image</div>
             )}

@@ -1,6 +1,6 @@
 ---
 title: "薯片係咩？你可能唔知嘅嘢"
-description: "薯片係咩？你可能唔知嘅嘢"
+description: "超市入面常見嘅脫水薯仔製品有好多種，例如脫水薯仔粒同薯仔片。一般嚟講，脫水薯仔粒同薯仔片係用凍乾技術生產，但薯片嘅脫水過程就完全唔同。"
 pubDate: "2024-07-06"
 category: "potato-flakes-and-flavored-mashed-potato-blog"
 image: "/wp-content/uploads/2024/07/potato-flakes-2.png"

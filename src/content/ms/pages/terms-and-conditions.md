@@ -1,6 +1,6 @@
 ---
 title: "Terma dan Syarat"
-description: "Terma dan Syarat XION Pengilang Serpihan Kentang"
+description: "Terma dan syarat ini menggariskan peraturan dan regulasi untuk penggunaan Laman Web/Apl Xion Bio-Tech Co., Ltd."
 ---
 
 Terma dan syarat ini menggariskan peraturan dan regulasi untuk penggunaan Laman Web/Apl Xion Bio-Tech Co., Ltd.

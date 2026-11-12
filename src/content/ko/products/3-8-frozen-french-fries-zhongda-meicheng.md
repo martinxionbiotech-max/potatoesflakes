@@ -1,6 +1,6 @@
 ---
 title: "3/8\" 냉동 감자튀김 중다메이청"
-description: "3/8\" 냉동 감자튀김 중다메이청 XION 감자플레이크 제조업체"
+description: "3/8\\\" 냉동 감자튀김 중다메이청. XION(DinWeys Biotech)이 중국 허베이성에서 생산하는 식품용 감자 제품입니다. 규격, 포장, 최소 주문량은 문의해 주세요."
 category: "frozen-french-fries"
 categoryName: "냉동 감자튀김"
 sku: "8117"

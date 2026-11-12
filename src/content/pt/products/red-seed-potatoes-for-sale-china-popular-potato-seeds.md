@@ -1,6 +1,6 @@
 ---
 title: "Sementes de Batata Vermelha à Venda - Sementes de Batata Populares da China"
-description: "Sementes de Batata Vermelha à Venda - Sementes de Batata Populares da China Fabricante de Flocos de Batata XION"
+description: "As nossas sementes de batata vermelha premium são muito procuradas na China pela sua pele vermelha distinta e polpa amarela, tornando-as ideais para uma…"
 category: "seed-potatoes"
 categoryName: "Sementes de Batata"
 sku: "8145"

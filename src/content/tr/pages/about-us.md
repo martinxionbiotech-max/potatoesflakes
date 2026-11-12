@@ -1,6 +1,6 @@
 ---
 title: "Hakkımızda"
-description: "Hakkımızda XION Patates Pul Üreticisi"
+description: "Şirket adı 2024 yılında Dingwei Biotech CO., Ltd. olarak değiştirilmiştir. Ticari unvan: Dinweys."
 ---
 
 ## XionBioTech Co., Ltd

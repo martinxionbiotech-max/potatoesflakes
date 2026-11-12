@@ -1,6 +1,6 @@
 ---
 title: "XION 原味即食薯蓉片 OEM"
-description: "向中國領先製造商採購 OEM 同批量即食薯蓉同優質薯片"
+description: "XION 原味即食薯蓉片 OEM。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "instant-mashed-potato"
 categoryName: "批量即食薯蓉 OEM"
 sku: "5828"

@@ -1,6 +1,6 @@
 ---
 title: "波浪薯條 2kg 袋裝"
-description: "波浪薯條 2kg 袋裝 XION 薯片製造商"
+description: "波浪薯條 2kg 袋裝。XION（DinWeys Biotech）喺中國河北生產嘅食品級薯仔製品，規格、包裝同起訂量請查詢。"
 category: "frozen-french-fries"
 categoryName: "急凍薯條"
 sku: "8132"

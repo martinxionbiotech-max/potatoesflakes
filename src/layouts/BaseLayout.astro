@@ -26,6 +26,12 @@ interface Props {
   crumbName?: string;
   /** Emit <meta name="robots" content="noindex, nofollow"> (404 page etc.) */
   noindex?: boolean;
+  /** FAQ 问答对，渲染为 FAQPage 结构化数据 */
+  faq?: { q: string; a: string }[];
+  /** 强制不在 title 后追加品牌后缀（首页等已含品牌词的页面） */
+  noBrand?: boolean;
+  /** 该页是否在所有语言下都存在（默认 true；仅英文页如 cart/checkout 传 false） */
+  translated?: boolean;
 }
 
 const {
@@ -42,6 +48,9 @@ const {
   breadcrumbs = [],
   crumbName,
   noindex = false,
+  faq,
+  noBrand = false,
+  translated = true,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://potatoesflakes.com');
@@ -49,6 +58,58 @@ const siteUrl = site.toString().replace(/\/$/, '');
 const canonicalUrl = canonical ? `${siteUrl}${canonical}` : Astro.url.href;
 const ogImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const pageId = canonicalUrl.replace(/\/+$/, '') + '/#webpage';
+
+// ── hreflang ─────────────────────────────────────────────────────────────
+// 从当前 URL 自动推导「语言前缀」与「无语言相对路径」，再反推全部语言版本。
+// 英文是语言集群的默认版本（无前缀），必须与其它语言互指，否则 Google 丢弃整簇。
+const LANG_CODES = LANGUAGES.map((l) => l.code);
+const __segs = Astro.url.pathname.replace(/^\/+|\/+$/g, '');
+const __list = __segs ? __segs.split('/') : [];
+const __first = __list[0] ?? '';
+const __hasPrefix = LANG_CODES.includes(__first);
+// 无语言前缀的路径（英文页为 ''，翻译页为去掉前缀后的部分）
+const autoRelPath = (__hasPrefix ? __list.slice(1) : __list).join('/');
+const autoRelAbs = autoRelPath ? `/${autoRelPath}/` : '/';
+// 显式 prop 优先，否则用自动推导
+const effectiveRelPath = relPath !== undefined ? (relPath ? `/${relPath.replace(/^\/+|\/+$/g, '')}/` : '/') : autoRelAbs;
+const enableHreflang = !noindex && translated;
+
+// ── title ────────────────────────────────────────────────────────────────
+// 品牌后缀仅在总长 ≤ 60 字符时追加，避免 67% 页面标题被截断；
+// 翻译内容标题本身过长（阿拉伯语最长 105 字符）时，在词边界截断。
+const BRAND_SUFFIX = ' - XION';
+const TITLE_LIMIT = 68;
+function clampTitle(s: string): string {
+  const t = (s ?? '').replace(/\s+/g, ' ').trim();
+  if (t.length <= TITLE_LIMIT) return t;
+  let cut = t.slice(0, TITLE_LIMIT);
+  const sp = cut.lastIndexOf(' ');
+  if (sp > TITLE_LIMIT * 0.55) cut = cut.slice(0, sp);
+  return cut.replace(/[\s,;:.\-–—、，|/]+$/, '') + '…';
+}
+const baseTitle = clampTitle(title);
+const finalTitle =
+  noBrand || (baseTitle + BRAND_SUFFIX).length > 60 ? baseTitle : baseTitle + BRAND_SUFFIX;
+
+// ── meta description ─────────────────────────────────────────────────────
+// 超过 160 字符会被 SERP 截断；表述里的 " 会被 Astro 转成 &#34;（6 字符），
+// 所以按「转义后长度」截断，否则边界页仍会溢出 160。
+const DESC_LIMIT = 158;
+const escLen = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').length;
+function clampDesc(s: string): string {
+  let t = (s ?? '').replace(/\s+/g, ' ').trim();
+  if (escLen(t) <= DESC_LIMIT) return t;
+  while (t.length > 0 && escLen(t + '…') > DESC_LIMIT) {
+    let cut = t.slice(0, Math.max(0, t.length - 2));
+    // 拉丁文本尽量在词边界切；CJK/阿拉伯文无空格时直接切
+    const sp = cut.lastIndexOf(' ');
+    if (sp > cut.length * 0.75) cut = cut.slice(0, sp);
+    t = cut.replace(/[\s,;:.\-–—、，|/]+$/, '');
+  }
+  return t + '…';
+}
+const finalDesc = clampDesc(description);
 
 // BreadcrumbList: Home → intermediate trails → current page
 const crumbList: any[] = [
@@ -77,8 +138,8 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" href="/favicon.png" />
-    <title>{title} - XION Potato Flakes Manufacturer</title>
-    <meta name="description" content={description} />
+    <title>{finalTitle}</title>
+    <meta name="description" content={finalDesc} />
     <link rel="canonical" href={canonicalUrl} />
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <meta name="generator" content={Astro.generator} />
@@ -87,25 +148,30 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content="XION Potato Flakes Manufacturer" />
     <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={finalDesc} />
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:locale" content={locale} />
 
-    {/* hreflang：多语言页面标注全部语言版本 */}
-    {currentLang && relPath && (
+    {/* hreflang：全语言互指 + 自反 + x-default，英文（无前缀）也必须在列 */}
+    {enableHreflang && (
       <>
+        <link rel="alternate" hreflang="en" href={`${siteUrl}${effectiveRelPath}`} />
         {LANGUAGES.map((l) => (
-          <link rel="alternate" hreflang={l.code === 'yua' ? 'zh-yue' : l.code} href={`${siteUrl}/${l.code}/${relPath}`} />
+          <link
+            rel="alternate"
+            hreflang={l.code === 'yua' ? 'zh-yue' : l.code}
+            href={`${siteUrl}/${l.code}${effectiveRelPath}`}
+          />
         ))}
-        <link rel="alternate" hreflang="x-default" href={`${siteUrl}/${relPath}`} />
+        <link rel="alternate" hreflang="x-default" href={`${siteUrl}${effectiveRelPath}`} />
       </>
     )}
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:description" content={finalDesc} />
     <meta name="twitter:image" content={ogImage} />
 
     <!-- Organization / WebSite / WebPage / BreadcrumbList JSON-LD -->
@@ -116,8 +182,14 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
           '@type': 'Organization',
           '@id': `${siteUrl}/#organization`,
           name: 'XION Potato Flakes Manufacturer',
-          alternateName: 'DinWeys Biotech Co., Ltd',
+          alternateName: ['DinWeys Biotech Co., Ltd', 'Xion Biotech Co., Ltd.', 'Dinweys'],
           url: siteUrl,
+          // 站外已验证的实体锚点，帮助搜索引擎归并同名实体
+          sameAs: [
+            'https://www.potatopro.com/companies/xion-biotech',
+            'https://www.brandsoftheworld.com/logo/xion-potato-flakes-manufacturer',
+            'https://seeklogo.com/vector-logo/529973/xion-potato-flakes-manufacturer',
+          ],
           logo: {
             '@type': 'ImageObject',
             url: `${siteUrl}/wp-content/uploads/2026/06/logo.png`,
@@ -178,7 +250,7 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
           '@id': pageId,
           url: canonicalUrl,
           name: title,
-          description: description,
+          description: finalDesc,
           inLanguage: lang,
           isPartOf: { '@id': `${siteUrl}/#website` },
           about: { '@id': `${siteUrl}/#organization` },
@@ -188,6 +260,21 @@ if (crumbList[crumbList.length - 1].item !== canonicalUrl) {
           '@id': `${canonicalUrl}#breadcrumbs`,
           itemListElement: crumbList,
         },
+        ...(faq && faq.length
+          ? [
+              {
+                '@type': 'FAQPage',
+                '@id': `${canonicalUrl}#faq`,
+                inLanguage: lang,
+                isPartOf: { '@id': `${siteUrl}/#website` },
+                mainEntity: faq.map((f) => ({
+                  '@type': 'Question',
+                  name: f.q,
+                  acceptedAnswer: { '@type': 'Answer', text: f.a },
+                })),
+              },
+            ]
+          : []),
       ],
     })} />
   </head>

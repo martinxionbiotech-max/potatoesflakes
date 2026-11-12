@@ -1,6 +1,6 @@
 ---
 title: "Red Seed Potatoes For Sale - China Popular Potato Seeds"
-description: "Red Seed Potatoes For Sale - China Popular Potato Seeds XION Potato Flakes Manufacturer"
+description: "Our premium red seed potatoes are highly sought-after in China for their distinctive red skin and yellow flesh, making them ideal for a range of culinary and…"
 category: "seed-potatoes"
 categoryName: "Seed Potatoes"
 sku: "8145"

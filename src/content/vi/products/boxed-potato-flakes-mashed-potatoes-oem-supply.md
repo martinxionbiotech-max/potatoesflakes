@@ -1,6 +1,6 @@
 ---
 title: "XION Bột Khoai Tây Đóng Hộp Cung Cấp OEM Khoai Tây Nghiền"
-description: "XION Bột Khoai Tây Đóng Hộp Cung Cấp OEM Khoai Tây Nghiền Nhà Sản Xuất Bột Khoai Tây XION"
+description: "Giấy trắng có định lượng cao hơn (ví dụ: trên 300 g/㎡) sẽ có khả năng chịu lực tốt hơn."
 category: "instant-mashed-potato"
 categoryName: "OEM Khoai Tây Nghiền Số Lượng Lớn"
 sku: "7971"
